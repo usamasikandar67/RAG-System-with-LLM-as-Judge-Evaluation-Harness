@@ -1,0 +1,24 @@
+Topic: iron-refractory iron deficiency anemia
+
+Q: What is (are) iron-refractory iron deficiency anemia ?
+A: Iron-refractory iron deficiency anemia is one of many types of anemia, which is a group of conditions characterized by a shortage of healthy red blood cells. This shortage prevents the blood from carrying an adequate supply of oxygen to the body's tissues.  Iron-refractory iron deficiency anemia results from an inadequate amount (deficiency) of iron in the bloodstream. It is described as "iron-refractory" because the condition is totally resistant (refractory) to treatment with iron given orally and partially resistant to iron given in other ways, such as intravenously (by IV). In people with this form of anemia, red blood cells are abnormally small (microcytic) and pale (hypochromic). The symptoms of iron-refractory iron deficiency anemia can include tiredness (fatigue), weakness, pale skin, and other complications. These symptoms are most pronounced during childhood, although they tend to be mild. Affected individuals usually have normal growth and development.
+
+---
+
+Q: How many people are affected by iron-refractory iron deficiency anemia ?
+A: Although iron deficiency anemia is relatively common, the prevalence of the iron-refractory form of the disease is unknown. At least 50 cases have been described in the medical literature. Researchers suspect that iron-refractory iron deficiency anemia is underdiagnosed because affected individuals with very mild symptoms may never come to medical attention.
+
+---
+
+Q: What are the genetic changes related to iron-refractory iron deficiency anemia ?
+A: Mutations in the TMPRSS6 gene cause iron-refractory iron deficiency anemia. This gene provides instructions for making a protein called matriptase-2, which helps regulate iron levels in the body. TMPRSS6 gene mutations reduce or eliminate functional matriptase-2, which disrupts iron regulation and leads to a shortage of iron in the bloodstream. Iron is an essential component of hemoglobin, which is the molecule in red blood cells that carries oxygen. When not enough iron is available in the bloodstream, less hemoglobin is produced, causing red blood cells to be abnormally small and pale. The abnormal cells cannot carry oxygen effectively to the body's cells and tissues, which leads to fatigue, weakness, and other symptoms of anemia.
+
+---
+
+Q: Is iron-refractory iron deficiency anemia inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for iron-refractory iron deficiency anemia ?
+A: These resources address the diagnosis or management of iron-refractory iron deficiency anemia:  - National Heart, Lung, and Blood Institute: How is Anemia Diagnosed?  - National Heart, Lung, and Blood Institute: How is Anemia Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

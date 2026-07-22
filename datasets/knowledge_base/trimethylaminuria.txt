@@ -1,0 +1,24 @@
+Topic: trimethylaminuria
+
+Q: What is (are) trimethylaminuria ?
+A: Trimethylaminuria is a disorder in which the body is unable to break down trimethylamine, a chemical compound that has a pungent odor. Trimethylamine has been described as smelling like rotting fish, rotting eggs, garbage, or urine. As this compound builds up in the body, it causes affected people to give off a strong odor in their sweat, urine, and breath. The intensity of the odor may vary over time. The odor can interfere with many aspects of daily life, affecting a person's relationships, social life, and career. Some people with trimethylaminuria experience depression and social isolation as a result of this condition.
+
+---
+
+Q: How many people are affected by trimethylaminuria ?
+A: Trimethylaminuria is an uncommon genetic disorder; its incidence is unknown.
+
+---
+
+Q: What are the genetic changes related to trimethylaminuria ?
+A: Mutations in the FMO3 gene cause trimethylaminuria. This gene provides instructions for making an enzyme that breaks down nitrogen-containing compounds from the diet, including trimethylamine. This compound is produced by bacteria in the intestine during the digestion of proteins from eggs, liver, legumes (such as soybeans and peas), certain kinds of fish, and other foods. Normally, the FMO3 enzyme converts strong-smelling trimethylamine into another molecule that has no odor. If the enzyme is missing or its activity is reduced because of a mutation in the FMO3 gene, trimethylamine is not processed properly and can build up in the body. As excess trimethylamine is released in a person's sweat, urine, and breath, it causes the odor characteristic of trimethylaminuria. Researchers believe that stress and diet also play a role in triggering symptoms.  Although FMO3 gene mutations account for most cases of trimethylaminuria, the condition can also be caused by other factors. The strong body odor may result from an excess of certain proteins in the diet or from an abnormal increase in bacteria that produce trimethylamine in the digestive system. A few cases of the disorder have been identified in adults with liver or kidney disease. Temporary symptoms of this condition have been reported in a small number of premature infants and in some healthy women at the start of menstruation.
+
+---
+
+Q: Is trimethylaminuria inherited ?
+A: Most cases of trimethylaminuria appear to be inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but typically do not show signs and symptoms of the condition. Carriers of an FMO3 mutation, however, may have mild symptoms of trimethylaminuria or experience temporary episodes of strong body odor.
+
+---
+
+Q: What are the treatments for trimethylaminuria ?
+A: These resources address the diagnosis or management of trimethylaminuria:  - Gene Review: Gene Review: Primary Trimethylaminuria  - Genetic Testing Registry: Trimethylaminuria  - Monell Chemical Senses Center: TMAU & Body Malodors  - National Human Genome Research Institute: Diagnosis and Treatment of Trimethylaminuria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,24 @@
+Topic: Duane-radial ray syndrome
+
+Q: What is (are) Duane-radial ray syndrome ?
+A: Duane-radial ray syndrome is a disorder that affects the eyes and causes abnormalities of bones in the arms and hands. This condition is characterized by a particular problem with eye movement called Duane anomaly (also known as Duane syndrome). This abnormality results from the improper development of certain nerves that control eye movement. Duane anomaly limits outward eye movement (toward the ear), and in some cases may limit inward eye movement (toward the nose). Also, as the eye moves inward, the eye opening becomes narrower and the eyeball may pull back (retract) into its socket.  Bone abnormalities in the hands include malformed or absent thumbs, an extra thumb, or a long thumb that looks like a finger. Partial or complete absence of bones in the forearm is also common. Together, these hand and arm abnormalities are known as radial ray malformations.  People with the combination of Duane anomaly and radial ray malformations may have a variety of other signs and symptoms. These features include unusually shaped ears, hearing loss, heart and kidney defects, a distinctive facial appearance, an inward- and upward-turning foot (clubfoot), and fused spinal bones (vertebrae).  The varied signs and symptoms of Duane-radial ray syndrome often overlap with features of other disorders. For example, acro-renal-ocular syndrome is characterized by Duane anomaly and other eye abnormalities, radial ray malformations, and kidney defects. Both conditions are caused by mutations in the same gene. Based on these similarities, researchers suspect that Duane-radial ray syndrome and acro-renal-ocular syndrome are part of an overlapping set of syndromes with many possible signs and symptoms. The features of Duane-radial ray syndrome are also similar to those of a condition called Holt-Oram syndrome; however, these two disorders are caused by mutations in different genes.
+
+---
+
+Q: How many people are affected by Duane-radial ray syndrome ?
+A: Duane-radial ray syndrome is a rare condition whose prevalence is unknown. Only a few affected families have been reported worldwide.
+
+---
+
+Q: What are the genetic changes related to Duane-radial ray syndrome ?
+A: Duane-radial ray syndrome results from mutations in the SALL4 gene. This gene is part of a group of genes called the SALL family. SALL genes provide instructions for making proteins that are involved in the formation of tissues and organs before birth. The proteins produced from these genes act as transcription factors, which means they attach (bind) to specific regions of DNA and help control the activity of particular genes. The exact function of the SALL4 protein is unclear, although it appears to be important for the normal development of the eyes, heart, and limbs.  Mutations in the SALL4 gene prevent cells from making any functional protein from one copy of the gene. It is unclear how a reduction in the amount of the SALL4 protein leads to Duane anomaly, radial ray malformations, and the other features of Duane-radial ray syndrome and similar conditions.
+
+---
+
+Q: Is Duane-radial ray syndrome inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered SALL4 gene in each cell is sufficient to cause the disorder. In many cases, an affected person inherits a mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for Duane-radial ray syndrome ?
+A: These resources address the diagnosis or management of Duane-radial ray syndrome:  - Gene Review: Gene Review: SALL4-Related Disorders  - Genetic Testing Registry: Duane-radial ray syndrome  - MedlinePlus Encyclopedia: Skeletal Limb Abnormalities   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

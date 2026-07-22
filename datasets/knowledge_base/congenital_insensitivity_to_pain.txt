@@ -1,0 +1,24 @@
+Topic: congenital insensitivity to pain
+
+Q: What is (are) congenital insensitivity to pain ?
+A: Congenital insensitivity to pain is a condition that inhibits the ability to perceive physical pain. From birth, affected individuals never feel pain in any part of their body when injured. People with this condition can feel the difference between sharp and dull and hot and cold, but cannot sense, for example, that a hot beverage is burning their tongue. This lack of pain awareness often leads to an accumulation of wounds, bruises, broken bones, and other health issues that may go undetected. Young children with congenital insensitivity to pain may have mouth or finger wounds due to repeated self-biting and may also experience multiple burn-related injuries. These repeated injuries often lead to a reduced life expectancy in people with congenital insensitivity to pain. Many people with congenital insensitivity to pain also have a complete loss of the sense of smell (anosmia).  Congenital insensitivity to pain is considered a form of peripheral neuropathy because it affects the peripheral nervous system, which connects the brain and spinal cord to muscles and to cells that detect sensations such as touch, smell, and pain.
+
+---
+
+Q: How many people are affected by congenital insensitivity to pain ?
+A: Congenital insensitivity to pain is a rare condition; about 20 cases have been reported in the scientific literature.
+
+---
+
+Q: What are the genetic changes related to congenital insensitivity to pain ?
+A: Mutations in the SCN9A gene cause congenital insensitivity to pain. The SCN9A gene provides instructions for making one part (the alpha subunit) of a sodium channel called NaV1.7. Sodium channels transport positively charged sodium atoms (sodium ions) into cells and play a key role in a cell's ability to generate and transmit electrical signals. NaV1.7 sodium channels are found in nerve cells called nociceptors that transmit pain signals to the spinal cord and brain. The NaV1.7 channel is also found in olfactory sensory neurons, which are nerve cells in the nasal cavity that transmit smell-related signals to the brain.  The SCN9A gene mutations that cause congenital insensitivity to pain result in the production of nonfunctional alpha subunits that cannot be incorporated into NaV1.7 channels. As a result, the channels cannot be formed. The absence of NaV1.7 channels impairs the transmission of pain signals from the site of injury to the brain, causing those affected to be insensitive to pain. Loss of this channel in olfactory sensory neurons likely impairs the transmission of smell-related signals to the brain, leading to anosmia.
+
+---
+
+Q: Is congenital insensitivity to pain inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for congenital insensitivity to pain ?
+A: These resources address the diagnosis or management of congenital insensitivity to pain:  - Genetic Testing Registry: Indifference to pain, congenital, autosomal recessive   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

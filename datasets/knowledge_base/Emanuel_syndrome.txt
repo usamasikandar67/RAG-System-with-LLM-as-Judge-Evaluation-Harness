@@ -1,0 +1,34 @@
+Topic: Emanuel syndrome
+
+Q: What is (are) Emanuel syndrome ?
+A: Emanuel syndrome is a chromosome disorder that causes problems with physical and intellectual development. Signs and symptoms can vary but may include severe intellectual disability; small head size (microcephaly); failure to thrive; cleft palate or high-arched palate; small jaw (micrognathia); congenital heart defects; and abnormalities of the ears, kidneys, and/or male genitals. It is caused by having extra material from chromosomes 11 and 22 in each cell. Almost all people with Emanuel syndrome inherit the extra chromosome material from an unaffected parent with a balanced translocation. Treatment focuses on the specific signs and symptoms in each person.
+
+---
+
+Q: What are the symptoms of Emanuel syndrome ?
+A: What are the signs and symptoms of Emanuel syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Emanuel syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of metabolism/homeostasis - Anal atresia - Aortic valve stenosis - Atria septal defect - Broad jaw - Cerebral atrophy - Cleft palate - Congenital diaphragmatic hernia - Congenital hip dislocation - Constipation - Cryptorchidism - Deeply set eye - Delayed eruption of primary teeth - Delayed speech and language development - Dental crowding - Facial asymmetry - Feeding difficulties - Gastroesophageal reflux - Hearing impairment - High palate - Hypoplasia of the corpus callosum - Inguinal hernia - Intellectual disability - Intrauterine growth retardation - Kyphosis - Long philtrum - Low hanging columella - Low-set ears - Low-set nipples - Macrotia - Microcephaly - Micropenis - Muscular hypotonia - Myopia - Patent ductus arteriosus - Preauricular pit - Preauricular skin tag - Pulmonic stenosis - Recurrent otitis media - Recurrent respiratory infections - Renal agenesis - Renal hypoplasia - Scoliosis - Seizures - Single umbilical artery - Strabismus - Thickened nuchal skin fold - Truncus arteriosus - Upslanted palpebral fissure - Ventricular septal defect - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Emanuel syndrome ?
+A: Emanuel syndrome is a chromosomal disorder that disrupts normal development and affects many parts of the body. Infants with Emanuel syndrome have weak muscle tone (hypotonia) and fail to gain weight and grow at the expected rate (failure to thrive). Their development is significantly delayed, and most affected individuals have severe to profound intellectual disability.  Other features of Emanuel syndrome include an unusually small head (microcephaly), distinctive facial features, and a small lower jaw (micrognathia). Ear abnormalities are common, including small holes in the skin just in front of the ears (preauricular pits or sinuses). About half of all affected infants are born with an opening in the roof of the mouth (cleft palate) or a high arched palate. Males with Emanuel syndrome often have genital abnormalities. Additional signs of this condition can include heart defects and absent or unusually small (hypoplastic) kidneys; these problems can be life-threatening in infancy or childhood.
+
+---
+
+Q: How many people are affected by Emanuel syndrome ?
+A: Emanuel syndrome is a rare disorder; its prevalence is unknown. More than 100 individuals with this condition have been reported.
+
+---
+
+Q: What are the genetic changes related to Emanuel syndrome ?
+A: Emanuel syndrome is caused by the presence of extra genetic material from chromosome 11 and chromosome 22 in each cell. In addition to the usual 46 chromosomes, people with Emanuel syndrome have an extra (supernumerary) chromosome consisting of a piece of chromosome 11 attached to a piece of chromosome 22. The extra chromosome is known as a derivative 22 or der(22) chromosome.  As a result of the extra chromosome, people with Emanuel syndrome have three copies of some genes in each cell instead of the usual two copies. The excess genetic material disrupts the normal course of development, leading to the characteristic signs and symptoms of this disorder. Researchers are working to determine which genes are included on the der(22) chromosome and what role these genes play in development.
+
+---
+
+Q: Is Emanuel syndrome inherited ?
+A: Almost everyone with Emanuel syndrome inherits the der(22) chromosome from an unaffected parent. The parent carries a chromosomal rearrangement between chromosomes 11 and 22 called a balanced translocation. No genetic material is gained or lost in a balanced translocation, so these chromosomal changes usually do not cause any health problems. However, translocations can become unbalanced as they are passed to the next generation. Individuals with Emanuel syndrome inherit an unbalanced translocation between chromosomes 11 and 22 that introduces extra genetic material in the form of the der(22) chromosome. This extra genetic material causes birth defects and the other health problems characteristic of this disorder.
+
+---
+
+Q: What are the treatments for Emanuel syndrome ?
+A: These resources address the diagnosis or management of Emanuel syndrome:  - Gene Review: Gene Review: Emanuel Syndrome  - Genetic Testing Registry: Emanuel syndrome  - MedlinePlus Encyclopedia: Cleft Lip and Palate  - MedlinePlus Encyclopedia: Microcephaly  - MedlinePlus Encyclopedia: Preauricular Tag or Pit   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

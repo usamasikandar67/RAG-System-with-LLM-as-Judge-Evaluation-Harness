@@ -1,0 +1,24 @@
+Topic: GM2-gangliosidosis, AB variant
+
+Q: What is (are) GM2-gangliosidosis, AB variant ?
+A: GM2-gangliosidosis, AB variant is a rare inherited disorder that progressively destroys nerve cells (neurons) in the brain and spinal cord.  Signs and symptoms of the AB variant become apparent in infancy. Infants with this disorder typically appear normal until the age of 3 to 6 months, when their development slows and muscles used for movement weaken. Affected infants lose motor skills such as turning over, sitting, and crawling. They also develop an exaggerated startle reaction to loud noises. As the disease progresses, children with the AB variant experience seizures, vision and hearing loss, intellectual disability, and paralysis. An eye abnormality called a cherry-red spot, which can be identified with an eye examination, is characteristic of this disorder. Children with the AB variant usually live only into early childhood.
+
+---
+
+Q: How many people are affected by GM2-gangliosidosis, AB variant ?
+A: The AB variant is extremely rare; only a few cases have been reported worldwide.
+
+---
+
+Q: What are the genetic changes related to GM2-gangliosidosis, AB variant ?
+A: Mutations in the GM2A gene cause GM2-gangliosidosis, AB variant. The GM2A gene provides instructions for making a protein called the GM2 ganglioside activator. This protein is required for the normal function of an enzyme called beta-hexosaminidase A, which plays a critical role in the brain and spinal cord. Beta-hexosaminidase A and the GM2 ganglioside activator protein work together in lysosomes, which are structures in cells that break down toxic substances and act as recycling centers. Within lysosomes, the activator protein binds to a fatty substance called GM2 ganglioside and presents it to beta-hexosaminidase A to be broken down.  Mutations in the GM2A gene disrupt the activity of the GM2 ganglioside activator, which prevents beta-hexosaminidase A from breaking down GM2 ganglioside. As a result, this substance accumulates to toxic levels, particularly in neurons in the brain and spinal cord. Progressive damage caused by the buildup of GM2 ganglioside leads to the destruction of these neurons, which causes the signs and symptoms of the AB variant.  Because the AB variant impairs the function of a lysosomal enzyme and involves the buildup of GM2 ganglioside, this condition is sometimes referred to as a lysosomal storage disorder or a GM2-gangliosidosis.
+
+---
+
+Q: Is GM2-gangliosidosis, AB variant inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for GM2-gangliosidosis, AB variant ?
+A: These resources address the diagnosis or management of GM2-gangliosidosis, AB variant:  - Genetic Testing Registry: Tay-Sachs disease, variant AB   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

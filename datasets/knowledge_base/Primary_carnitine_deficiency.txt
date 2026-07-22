@@ -1,0 +1,24 @@
+Topic: primary carnitine deficiency
+
+Q: What is (are) primary carnitine deficiency ?
+A: Primary carnitine deficiency is a condition that prevents the body from using certain fats for energy, particularly during periods without food (fasting). Carnitine, a natural substance acquired mostly through the diet, is used by cells to process fats and produce energy.  Signs and symptoms of primary carnitine deficiency typically appear during infancy or early childhood and can include severe brain dysfunction (encephalopathy), a weakened and enlarged heart (cardiomyopathy), confusion, vomiting, muscle weakness, and low blood sugar (hypoglycemia). The severity of this condition varies among affected individuals. Some people with primary carnitine deficiency are asymptomatic, which means they do not have any signs or symptoms of the condition. All individuals with this disorder are at risk for heart failure, liver problems, coma, and sudden death.  Problems related to primary carnitine deficiency can be triggered by periods of fasting or by illnesses such as viral infections. This disorder is sometimes mistaken for Reye syndrome, a severe disorder that may develop in children while they appear to be recovering from viral infections such as chicken pox or flu. Most cases of Reye syndrome are associated with the use of aspirin during these viral infections.
+
+---
+
+Q: How many people are affected by primary carnitine deficiency ?
+A: The incidence of primary carnitine deficiency in the general population is approximately 1 in 100,000 newborns. In Japan, this disorder affects 1 in every 40,000 newborns.
+
+---
+
+Q: What are the genetic changes related to primary carnitine deficiency ?
+A: Mutations in the SLC22A5 gene cause primary carnitine deficiency. This gene provides instructions for making a protein called OCTN2 that transports carnitine into cells. Cells need carnitine to bring certain types of fats (fatty acids) into mitochondria, which are the energy-producing centers within cells. Fatty acids are a major source of energy for the heart and muscles. During periods of fasting, fatty acids are also an important energy source for the liver and other tissues.  Mutations in the SLC22A5 gene result in an absent or dysfunctional OCTN2 protein. As a result, there is a shortage (deficiency) of carnitine within cells. Without carnitine, fatty acids cannot enter mitochondria and be used to make energy. Reduced energy production can lead to some of the features of primary carnitine deficiency, such as muscle weakness and hypoglycemia. Fatty acids may also build up in cells and damage the liver, heart, and muscles. This abnormal buildup causes the other signs and symptoms of the disorder.
+
+---
+
+Q: Is primary carnitine deficiency inherited ?
+A: Primary carnitine deficiency is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive disorder are carriers, which means they each carry one copy of the mutated gene. Carriers of SLC22A5 gene mutations may have some signs and symptoms related to the condition.
+
+---
+
+Q: What are the treatments for primary carnitine deficiency ?
+A: These resources address the diagnosis or management of primary carnitine deficiency:  - Baby's First Test  - Gene Review: Gene Review: Systemic Primary Carnitine Deficiency  - Genetic Testing Registry: Renal carnitine transport defect  - The Linus Pauling Institute: L-Carnitine   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

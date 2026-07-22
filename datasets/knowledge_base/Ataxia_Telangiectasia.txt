@@ -1,0 +1,24 @@
+Topic: ataxia-telangiectasia
+
+Q: What is (are) ataxia-telangiectasia ?
+A: Ataxia-telangiectasia is a rare inherited disorder that affects the nervous system, immune system, and other body systems. This disorder is characterized by progressive difficulty with coordinating movements (ataxia) beginning in early childhood, usually before age 5. Affected children typically develop difficulty walking, problems with balance and hand coordination, involuntary jerking movements (chorea), muscle twitches (myoclonus), and disturbances in nerve function (neuropathy). The movement problems typically cause people to require wheelchair assistance by adolescence. People with this disorder also have slurred speech and trouble moving their eyes to look side-to-side (oculomotor apraxia). Small clusters of enlarged blood vessels called telangiectases, which occur in the eyes and on the surface of the skin, are also characteristic of this condition.  Affected individuals tend to have high amounts of a protein called alpha-fetoprotein (AFP) in their blood. The level of this protein is normally increased in the bloodstream of pregnant women, but it is unknown why individuals with ataxia-telangiectasia have elevated AFP or what effects it has in these individuals.  People with ataxia-telangiectasia often have a weakened immune system, and many develop chronic lung infections. They also have an increased risk of developing cancer, particularly cancer of blood-forming cells (leukemia) and cancer of immune system cells (lymphoma). Affected individuals are very sensitive to the effects of radiation exposure, including medical x-rays. The life expectancy of people with ataxia-telangiectasia varies greatly, but affected individuals typically live into early adulthood.
+
+---
+
+Q: How many people are affected by ataxia-telangiectasia ?
+A: Ataxia-telangiectasia occurs in 1 in 40,000 to 100,000 people worldwide.
+
+---
+
+Q: What are the genetic changes related to ataxia-telangiectasia ?
+A: Mutations in the ATM gene cause ataxia-telangiectasia. The ATM gene provides instructions for making a protein that helps control cell division and is involved in DNA repair. This protein plays an important role in the normal development and activity of several body systems, including the nervous system and immune system. The ATM protein assists cells in recognizing damaged or broken DNA strands and coordinates DNA repair by activating enzymes that fix the broken strands. Efficient repair of damaged DNA strands helps maintain the stability of the cell's genetic information.  Mutations in the ATM gene reduce or eliminate the function of the ATM protein. Without this protein, cells become unstable and die. Cells in the part of the brain involved in coordinating movements (the cerebellum) are particularly affected by loss of the ATM protein. The loss of these brain cells causes some of the movement problems characteristic of ataxia-telangiectasia. Mutations in the ATM gene also prevent cells from responding correctly to DNA damage, which allows breaks in DNA strands to accumulate and can lead to the formation of cancerous tumors.
+
+---
+
+Q: Is ataxia-telangiectasia inherited ?
+A: Ataxia-telangiectasia is inherited in an autosomal recessive pattern, which means both copies of the ATM gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.  About 1 percent of the United States population carries one mutated copy and one normal copy of the ATM gene in each cell. These individuals are called carriers. Although ATM mutation carriers do not have ataxia-telangiectasia, they are more likely than people without an ATM mutation to develop cancer; female carriers are particularly at risk for developing breast cancer. Carriers of a mutation in the ATM gene also may have an increased risk of heart disease.
+
+---
+
+Q: What are the treatments for ataxia-telangiectasia ?
+A: These resources address the diagnosis or management of ataxia-telangiectasia:  - Gene Review: Gene Review: Ataxia-Telangiectasia  - Genetic Testing Registry: Ataxia-telangiectasia syndrome  - MedlinePlus Encyclopedia: Ataxia-Telangiectasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

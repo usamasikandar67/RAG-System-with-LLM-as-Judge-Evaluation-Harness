@@ -1,0 +1,24 @@
+Topic: Silver syndrome
+
+Q: What is (are) Silver syndrome ?
+A: Silver syndrome belongs to a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by progressive muscle stiffness (spasticity) and, frequently, development of paralysis of the lower limbs (paraplegia). Hereditary spastic paraplegias are divided into two types: pure and complex. Both types involve the lower limbs; the complex types may also involve the upper limbs, although to a lesser degree. In addition, the complex types may affect the brain and parts of the nervous system involved in muscle movement and sensations. Silver syndrome is a complex hereditary spastic paraplegia.  The first sign of Silver syndrome is usually weakness in the muscles of the hands. These muscles waste away (amyotrophy), resulting in abnormal positioning of the thumbs and difficulty using the fingers and hands for tasks such as handwriting. People with Silver syndrome often have high-arched feet (pes cavus) and spasticity in the legs. The signs and symptoms of Silver syndrome typically begin in late childhood but can start anytime from early childhood to late adulthood. The muscle problems associated with Silver syndrome slowly worsen with age, but affected individuals can remain active throughout life.
+
+---
+
+Q: How many people are affected by Silver syndrome ?
+A: Although Silver syndrome appears to be a rare condition, its exact prevalence is unknown.
+
+---
+
+Q: What are the genetic changes related to Silver syndrome ?
+A: Mutations in the BSCL2 gene cause Silver syndrome. The BSCL2 gene provides instructions for making a protein called seipin, whose function is unknown. The BSCL2 gene is active (expressed) in cells throughout the body, particularly in nerve cells that control muscle movement (motor neurons) and in brain cells. Within cells, seipin is found in the membrane of a cell structure called the endoplasmic reticulum, which is involved in protein processing and transport.  BSCL2 gene mutations that cause Silver syndrome likely lead to an alteration in the structure of seipin, causing it to fold into an incorrect 3-dimensional shape. Research findings indicate that misfolded seipin proteins accumulate in the endoplasmic reticulum. This accumulation likely damages and kills motor neurons, which leads to muscle weakness and spasticity. In Silver syndrome, only specific motor neurons are involved, resulting in the hand and leg muscles being solely affected.  Some people with Silver syndrome do not have an identified mutation in the BSCL2 gene. The cause of the condition in these individuals is unknown.
+
+---
+
+Q: Is Silver syndrome inherited ?
+A: Silver syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In these cases, the affected person inherits the mutation from one affected parent. However, some people who inherit the altered gene never develop features of Silver syndrome. (This situation is known as reduced penetrance.) It is unclear why some people with a mutated gene develop the disease and other people with a mutated gene do not.  Rarely, Silver syndrome is caused by new mutations in the gene and occurs in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for Silver syndrome ?
+A: These resources address the diagnosis or management of Silver syndrome:  - Gene Review: Gene Review: BSCL2-Related Neurologic Disorders/Seipinopathy  - Gene Review: Gene Review: Hereditary Spastic Paraplegia Overview  - Genetic Testing Registry: Spastic paraplegia 17  - Spastic Paraplegia Foundation, Inc.: Treatments and Therapies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

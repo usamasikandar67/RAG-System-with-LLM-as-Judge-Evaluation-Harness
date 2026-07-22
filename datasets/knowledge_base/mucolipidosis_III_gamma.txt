@@ -1,0 +1,24 @@
+Topic: mucolipidosis III gamma
+
+Q: What is (are) mucolipidosis III gamma ?
+A: Mucolipidosis III gamma is a slowly progressive disorder that affects many parts of the body. Signs and symptoms of this condition typically appear around age 3.  Individuals with mucolipidosis III gamma grow slowly and have short stature. They also have stiff joints and dysostosis multiplex, which refers to multiple skeletal abnormalities seen on x-ray. Many affected individuals develop low bone mineral density (osteoporosis), which weakens the bones and makes them prone to fracture. Osteoporosis and progressive joint problems in people with mucolipidosis III gamma also cause pain, which becomes more severe over time.  People with mucolipidosis III gamma often have heart valve abnormalities and mild clouding of the clear covering of the eye (cornea). Their facial features become slightly thickened or "coarse" as they get older. A small percentage of people with this condition have mild intellectual disability or learning problems. Individuals with mucolipidosis III gamma generally survive into adulthood, but they may have a shortened lifespan.
+
+---
+
+Q: How many people are affected by mucolipidosis III gamma ?
+A: Mucolipidosis III gamma is a rare disorder, although its exact prevalence is unknown. It is estimated to occur in about 1 in 100,000 to 400,000 individuals worldwide.
+
+---
+
+Q: What are the genetic changes related to mucolipidosis III gamma ?
+A: Mutations in the GNPTG gene cause mucolipidosis III gamma. This gene provides instructions for making one part (subunit) of an enzyme called GlcNAc-1-phosphotransferase. This enzyme helps prepare certain newly made enzymes for transport to lysosomes. Lysosomes are compartments within the cell that use digestive enzymes to break down large molecules into smaller ones that can be reused by cells. GlcNAc-1-phosphotransferase is involved in the process of attaching a molecule called mannose-6-phosphate (M6P) to specific digestive enzymes. Just as luggage is tagged at the airport to direct it to the correct destination, enzymes are often "tagged" after they are made so they get to where they are needed in the cell. M6P acts as a tag that indicates a digestive enzyme should be transported to the lysosome.  Mutations in the GNPTG gene that cause mucolipidosis III gamma result in reduced activity of GlcNAc-1-phosphotransferase. These mutations disrupt the tagging of digestive enzymes with M6P, which prevents many enzymes from reaching the lysosomes. Digestive enzymes that do not receive the M6P tag end up outside the cell, where they have increased activity. The shortage of digestive enzymes within lysosomes causes large molecules to accumulate there. Conditions that cause molecules to build up inside lysosomes, including mucolipidosis III gamma, are called lysosomal storage disorders. The signs and symptoms of mucolipidosis III gamma are most likely due to the shortage of digestive enzymes inside lysosomes and the effects these enzymes have outside the cell.
+
+---
+
+Q: Is mucolipidosis III gamma inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for mucolipidosis III gamma ?
+A: These resources address the diagnosis or management of mucolipidosis III gamma:  - Gene Review: Gene Review: Mucolipidosis III Gamma  - Genetic Testing Registry: Mucolipidosis III Gamma  - MedlinePlus Encyclopedia: Cloudy Cornea  - MedlinePlus Encyclopedia: Heart Valves   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

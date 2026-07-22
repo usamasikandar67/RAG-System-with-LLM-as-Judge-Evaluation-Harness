@@ -1,0 +1,375 @@
+Topic: Hemochromatosis
+
+Q: What is (are) Hemochromatosis ?
+A: Hemochromatosis is a disease in which too much iron builds up in your body. Your body needs iron but too much of it is toxic. If you have hemochromatosis, you absorb more iron than you need. Your body has no natural way to get rid of the extra iron. It stores it in body tissues, especially the liver, heart, and pancreas. The extra iron can damage your organs. Without treatment, it can cause your organs to fail.    There are two types of hemochromatosis. Primary hemochromatosis is an inherited disease. Secondary hemochromatosis is usually the result of something else, such as anemia, thalassemia, liver disease, or blood transfusions.    Many symptoms of hemochromatosis are similar to those of other diseases. Not everyone has symptoms. If you do, you may have joint pain, fatigue, general weakness, weight loss, and stomach pain.    Your doctor will diagnose hemochromatosis based on your medical and family histories, a physical exam, and the results from tests and procedures. Treatments include removing blood (and iron) from your body, medicines, and changes in your diet.    NIH: National Heart, Lung, and Blood Institute
+
+---
+
+Q: What is (are) Hemochromatosis ?
+A: Hemochromatosis is a condition in which too much iron builds up in the body (iron overload). Accumulation of iron in the organs is toxic and can result in organ failure. While many organs can be affected, it may especially affect the liver, heart, and pancreas. Symptoms of hemochromatosis tend to develop gradually and often don't appear until middle age or later. The condition may not be diagnosed until iron accumulation is excessive. Early symptoms may be vague, such as fatigue or weakness. Other symptoms or features may include joint pain, abdominal pain, loss of sex drive, arthritis, liver disease, diabetes, heart problems, and skin discoloration. Hemochromatosis may be hereditary or acquired (secondary) due to another condition such as anemia, chronic liver disease, or an infection. There is also a neonatal form. Hereditary hemochromatosis is classified by type based on age of onset, genetic cause and mode of inheritance: Hemochromotosis type 1 Hemochromatosis type 2 Hemochromatosis type 3 Hemochromatosis type 4 Treatment usually involves removing blood (phlebotomy), which prevents additional organ damage but does not reverse existing damage.
+
+---
+
+Q: What are the symptoms of Hemochromatosis ?
+A: What are the signs and symptoms of Hemochromatosis? The Human Phenotype Ontology provides the following list of signs and symptoms for Hemochromatosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal glucose tolerance - Alopecia - Amenorrhea - Arrhythmia - Arthropathy - Ascites - Autosomal recessive inheritance - Azoospermia - Cardiomegaly - Cardiomyopathy - Cirrhosis - Congestive heart failure - Diabetes mellitus - Elevated hepatic transaminases - Hepatocellular carcinoma - Hepatomegaly - Hyperpigmentation of the skin - Hypogonadotrophic hypogonadism - Impotence - Increased serum ferritin - Increased serum iron - Osteoporosis - Pleural effusion - Splenomegaly - Telangiectasia - Testicular atrophy - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Hemochromatosis ?
+A: What causes hemochromatosis? The underlying cause of hemochromatosis depends on whether a person has a hereditary form, an acquired form, or the neonatal form. Hereditary hemochromatosis is caused by mutations in any of several genes: type 1 hemochromatosis - the HFE gene type 2 hemochromatosis - either the HFE2 or HAMP gene type 3 hemochromatosis - the TFR2 gene type 4 hemochromatosis - the SLC40A1 gene These genes give the body instructions to make proteins that help regulate how iron is absorbed, transported, and stored. Mutations in these genes impair how iron is absorbed during digestion and alter the distribution of iron throughout the body. This causes iron to accumulate in tissues and organs. Acquired hemochromatosis (or secondary hemochromatosis) is usually due to other blood-related disorders, such as thalassemia or certain anemias, or having many blood transfusions. Sometimes it occurs as a result of long-term alcoholism or other health conditions. The cause of neonatal hemochromatosis is not fully understood. However, a woman with an affected child has approximately an 80% chance to have another affected child. This likelihood of recurrence is not explained by normal inheritance patterns. Therefore, this form appears to be familial, but not inherited.
+
+---
+
+Q: Is Hemochromatosis inherited ?
+A: Is hemochromatosis inherited? Hereditary hemochromatosis is inherited in an autosomal recessive or autosomal dominant manner, depending on the type a person has. Types 1, 2, and 3 are inherited in an autosomal recessive manner. This means that to be affected, a person must have a mutation in both copies of the responsible gene in each cell. Affected people inherit one mutated copy of the gene from each parent, who is referred to as a carrier. Carriers of an autosomal recessive condition typically do not have any signs or symptoms (they are unaffected). When 2 carriers of an autosomal recessive condition have children, each child has a 25% (1 in 4) chance to be affected, a 50% (1 in 2) chance to be an unaffected carrier like each parent, and a 25% chance to be unaffected and not be a carrier. Type 4 is inherited in an autosomal dominant manner. This means having only one mutated copy of the responsible gene in each cell is enough to cause the condition. When a person with an autosomal dominant condition has children, each child has a 50% chance to inherit the mutated copy of the gene. In most cases, a person with type 4 hemochromatosis has one affected parent. Acquired hemochromatosis is not inherited. Neonatal hemochromatosis is also not inherited, but it does appear to be familial. A woman with an affected child has approximately an 80% chance to have another affected child. However, this likelihood of recurrence is not explained by normal inheritance patterns. The underlying cause of this type is not fully understood.
+
+---
+
+Q: What is (are) Hemochromatosis ?
+A: Hemochromatosis (HE-mo-kro-ma-TO-sis) is a disease in which too much iron builds up in your body (iron overload). Iron is a mineral found in many foods.
+                
+Too much iron is toxic to your body. It can poison your organs and cause organ failure. In hemochromatosis, iron can build up in most of your body's organs, but especially in the liver, heart, and pancreas.
+                
+Too much iron in the liver can cause an enlarged liver, liver failure, liver cancer, or cirrhosis (sir-RO-sis). Cirrhosis is scarring of the liver, which causes the organ to not work well.
+                
+Too much iron in the heart can cause irregular heartbeats called arrhythmias (ah-RITH-me-ahs) and heart failure. Too much iron in the pancreas can lead to diabetes.
+                
+If hemochromatosis isn't treated, it may even cause death.
+                
+Overview
+                
+The two types of hemochromatosis are primary and secondary. Primary hemochromatosis is caused by a defect in the genes that control how much iron you absorb from food. Secondary hemochromatosis usually is the result of another disease or condition that causes iron overload.
+                
+Most people who have primary hemochromatosis inherit it from their parents. If you inherit two hemochromatosis genesone from each parentyou're at risk for iron overload and signs and symptoms of the disease. The two faulty genes cause your body to absorb more iron than usual from the foods you eat.
+                
+Hemochromatosis is one of the most common genetic disorders in the United States. However, not everyone who has hemochromatosis has signs or symptoms of the disease.
+                
+Estimates of how many people develop signs and symptoms vary greatly. Some estimates suggest that as many as half of all people who have the disease don't have signs or symptoms.
+                
+The severity of hemochromatosis also varies. Some people don't have complications, even with high levels of iron in their bodies. Others have severe complications or die from the disease.
+                
+Certain factors can affect the severity of the disease. For example, a high intake of vitamin C can make hemochromatosis worse. This is because vitamin C helps your body absorb iron from food.
+                
+Alcohol use can worsen liver damage and cirrhosis caused by hemochromatosis. Conditions such as hepatitis also can further damage or weaken the liver.
+                
+Outlook
+                
+The outlook for people who have hemochromatosis largely depends on how much organ damage they have at the time of diagnosis. Early diagnosis and treatment of the disease are important.
+                
+Treatment may help prevent, delay, or sometimes reverse complications of the disease. Treatment also may lead to better quality of life.
+                
+For people who are diagnosed and treated early, a normal lifespan is possible. If left untreated, hemochromatosis can lead to severe organ damage and even death.
+
+---
+
+Q: What causes Hemochromatosis ?
+A: The two types of hemochromatosis are primary and secondary. Each type has a different cause.
+                
+Primary Hemochromatosis
+                
+Primary hemochromatosis is caused by a defect in the genes that control how much iron you absorb from food. This form of the disease sometimes is called hereditary or classical hemochromatosis. Primary hemochromatosis is more common than the secondary form of the disease.
+                
+The genes usually involved in primary hemochromatosis are called HFE genes. Faulty HFE genes cause the body to absorb too much iron. If you inherit two copies of the faulty HFE gene (one from each parent), you're at risk for iron overload and signs and symptoms of hemochromatosis.
+                
+If you inherit one faulty HFE gene and one normal HFE gene, you're a hemochromatosis "carrier." Carriers usually don't develop the disease. However, they can pass the faulty gene on to their children. Estimates suggest that about 1 in 10 people in the United States are hemochromatosis carriers.
+                
+If two parents are carriers of the faulty HFE gene, then each of their children has a 1 in 4 chance of inheriting two faulty HFE genes.
+                
+Although less common, other faulty genes also can cause hemochromatosis. Researchers continue to study what changes to normal genes may cause the disease.
+                
+Secondary Hemochromatosis
+                
+Secondary hemochromatosis usually is the result of another disease or condition that causes iron overload. Examples of such diseases and conditions include:
+                
+Certain types of anemia, such as thalassemias and sideroblastic anemia
+                
+Atransferrinemia and aceruloplasminemiaboth are rare, inherited diseases
+                
+Chronic liver diseases, such as chronic hepatitis C infection, alcoholic liver disease, or nonalcoholic steatohepatitis
+                
+Other factors also can cause secondary hemochromatosis, including:
+                
+Blood transfusions
+                
+Oral iron pills or iron injections, with or without very high vitamin C intake (vitamin C helps your body absorb iron)
+                
+Long-term kidney dialysis
+
+---
+
+Q: Who is at risk for Hemochromatosis? ?
+A: Hemochromatosis is one of the most common genetic diseases in the United States. It's most common in Caucasians of Northern European descent. The disease is less common in African Americans, Hispanics, Asians, and American Indians.
+                
+Primary hemochromatosis is more common in men than in women. Also, older people are more likely to develop the disease than younger people. In fact, signs and symptoms usually don't occur in men until they're 40 to 60 years old.
+                
+In women, signs and symptoms usually don't occur until after the age of 50 (after menopause). Young children rarely develop hemochromatosis.
+                
+Inheriting two faulty HFE genes (one from each parent) is the major risk factor for hemochromatosis. However, many people who have two copies of the faulty gene don't develop signs or symptoms of the disease.
+                
+Alcoholism is another risk factor for hemochromatosis. A family history of certain diseases and conditions also puts you at higher risk for hemochromatosis. Examples of such diseases and conditions include heart attack, liver disease, diabetes, arthritis, and erectile dysfunction (impotence).
+
+---
+
+Q: What are the symptoms of Hemochromatosis ?
+A: Hemochromatosis can affect many parts of the body and cause various signs and symptoms. Many of the signs and symptoms are similar to those of other diseases.
+                
+Signs and symptoms of hemochromatosis usually don't occur until middle age. Women are more likely to have general symptoms first, such as fatigue (tiredness). In men, complications such as diabetes or cirrhosis (scarring of the liver) often are the first signs of the disease.
+                
+Signs and symptoms also vary based on the severity of the disease. Common signs and symptoms of hemochromatosis include joint pain, fatigue, general weakness, weight loss, and stomach pain.
+                
+Not everyone who has hemochromatosis has signs or symptoms of the disease. Estimates of how many people develop signs and symptoms vary greatly. Some estimates suggest that as many as half of all people who have the disease don't have signs or symptoms.
+                
+Hemochromatosis Complications
+                
+If hemochromatosis isn't found and treated early, iron builds up in your body and can lead to:
+                
+Liver disease, including an enlarged liver, liver failure, liver cancer, or cirrhosis (scarring of the liver)
+                
+Heart problems, including arrhythmias (irregular heartbeats) and heart failure
+                
+Diabetes, especially in people who have a family history of diabetes
+                
+Joint damage and pain, including arthritis
+                
+Reproductive organ failure, such as erectile dysfunction (impotence), shrinkage of the testicles, and loss of sex drive in men, and absence of the menstrual cycle and early menopause in women
+                
+Changes in skin color that make the skin look gray or bronze
+                
+Underactive pituitary and thyroid glands
+                
+Damage to the adrenal glands
+
+---
+
+Q: How to diagnose Hemochromatosis ?
+A: Your doctor will diagnose hemochromatosis based on your medical and family histories, a physical exam, and the results from tests and procedures.
+                
+The disease sometimes is detected while checking for other diseases or conditions, such as arthritis, liver disease, diabetes, heart disease, or erectile dysfunction (impotence).
+                
+Specialists Involved
+                
+Family doctors and internal medicine specialists may diagnose and treat hemochromatosis. Other doctors also may be involved in diagnosing and treating the disease, including:
+                
+Hematologists (blood disease specialists)
+                
+Cardiologists (heart specialists)
+                
+Endocrinologists (gland system specialists)
+                
+Hepatologists (liver specialists)
+                
+Gastroenterologists (digestive tract specialists)
+                
+Rheumatologists (specialists in diseases of the joints and tissues)
+                
+Medical and Family Histories
+                
+To learn about your medical and family histories, your doctor may ask:
+                
+About your signs and symptoms, including when they started and their severity.
+                
+Whether you take iron (pills or injections) with or without vitamin C supplements (vitamin C helps your body absorb iron from food). If so, your doctor may ask how much iron you take. This information can help him or her diagnose secondary hemochromatosis.
+                
+Whether other members of your family have hemochromatosis.
+                
+Whether other members of your family have a history of medical problems or diseases related to hemochromatosis.
+                
+Physical Exam
+                
+Your doctor will do a physical exam to check for signs and symptoms of hemochromatosis. He or she will listen to your heart for irregular heartbeats and check for arthritis, abnormal skin color, and an enlarged liver.
+                
+Diagnostic Tests and Procedures
+                
+Your doctor may recommend one or more tests or procedures to diagnose hemochromatosis.
+                
+Blood Tests
+                
+In hemochromatosis, the amount of iron in your body may be too high, even though the level of iron in your blood is normal. Certain blood tests can help your doctor find out how much iron is in your body. 
+                
+During these tests, a sample of blood is taken from your body. It's usually drawn from a vein in your arm using a needle. The procedure usually is quick and easy, although it may cause some short-term discomfort.
+                
+The blood tests you have may include transferrin saturation (TS), serum ferritin level, and liver function tests.
+                
+Transferrin is a protein that carries iron in the blood. The TS test shows how much iron the transferrin is carrying. This helps your doctor find out how much iron is in your body.
+                
+Your doctor may test your serum ferritin level if your TS level is high. A serum ferritin level test shows how much iron is stored in your body's organs. A buildup of iron may suggest hemochromatosis.
+                
+You may have liver function tests to check for damage to your liver. Liver damage may be a sign of hemochromatosis. If you have hemochromatosis, liver function tests may show the severity of the disease.
+                
+Blood tests alone can't diagnose hemochromatosis. Thus, your doctor may recommend other tests as well.
+                
+Liver Biopsy
+                
+During a liver biopsy, your doctor numbs an area near your liver and then removes a small sample of liver tissue using a needle. The tissue is then looked at under a microscope.
+                
+A liver biopsy can show how much iron is in your liver. This procedure also can help your doctor diagnose liver damage (for example, scarring and cancer). Liver biopsies are less common now than in the past.
+                
+Magnetic Resonance Imaging
+                
+Magnetic resonance imaging (MRI) is a safe test that uses radio waves, magnets, and a computer to create pictures of your organs. An MRI may be done to show the amount of iron in your liver.
+                
+Superconducting Quantum Interference Device
+                
+A superconducting quantum interference device (SQuID) is a machine that uses very sensitive magnets to measure the amount of iron in your liver. This machine is available at only a few medical centers.
+                
+Genetic Testing
+                
+Genetic testing can show whether you have a faulty HFE gene or genes. However, even if you do have two faulty HFE genes, the genetic test can't predict whether you'll develop signs and symptoms of hemochromatosis.
+                
+Also, genetic testing may not detect other, less common faulty genes that also can cause hemochromatosis.
+                
+There are two ways to do genetic testing. Cells can be collected from inside your mouth using a cotton swab, or a sample of blood can be drawn from a vein in your arm.
+                
+People who have hemochromatosis (or a family history of it) and are planning to have children may want to consider genetic testing and counseling. Testing will help show whether one or both parents have faulty HFE genes. A genetic counselor also can help figure out the likelihood of the parents passing the faulty genes on to their children.
+
+---
+
+Q: What are the treatments for Hemochromatosis ?
+A: Treatments for hemochromatosis include therapeutic phlebotomy (fleh-BOT-o-me), iron chelation (ke-LAY-shun) therapy, dietary changes, and treatment for complications.
+                
+The goals of treating hemochromatosis include:
+                
+Reducing the amount of iron in your body to normal levels
+                
+Preventing or delaying organ damage from iron overload
+                
+Treating complications of the disease
+                
+Maintaining a normal amount of iron in your body for the rest of your life
+                
+Therapeutic Phlebotomy
+                
+Therapeutic phlebotomy is a procedure that removes blood (and iron) from your body. A needle is inserted into a vein, and your blood flows through an airtight tube into a sterile container or bag.
+                
+The process is similar to donating blood; it can be done at blood donation centers, hospital donation centers, or a doctor's office.
+                
+In the first stage of treatment, about 1 pint of blood is removed once or twice a week. After your iron levels return to normal, you may continue phlebotomy treatments. However, you may need them less oftentypically every 24 months.
+                
+As long as treatment continues, which often is for the rest of your life, you'll need frequent blood tests to check your iron levels.
+                
+Iron Chelation Therapy
+                
+Iron chelation therapy uses medicine to remove excess iron from your body. This treatment is a good option for people who can't have routine blood removal.
+                
+The medicine used in iron chelation therapy is either injected or taken orally (by mouth). Injected iron chelation therapy is done at a doctor's office. Oral iron chelation therapy can be done at home.
+                
+Dietary Changes
+                
+Your doctor may suggest that you change your diet if you have hemochromatosis. You may be advised to:
+                
+Avoid taking iron, including iron pills, iron injections, or multivitamins that contain iron.
+                
+Limit your intake of vitamin C. Vitamin C helps your body absorb iron from food. Talk with your doctor about how much vitamin C is safe for you.
+                
+Avoid uncooked fish and shellfish. Some fish and shellfish contain bacteria that can cause infections in people who have chronic diseases, such as hemochromatosis.
+                
+Limit alcohol intake. Drinking alcohol increases the risk of liver disease. It also can make existing liver disease worse.
+                
+Treatment for Complications
+                
+Your doctor may prescribe other treatments as needed for complications such as liver disease, heart problems, or diabetes.
+
+---
+
+Q: How to prevent Hemochromatosis ?
+A: You can't prevent primary, or inherited, hemochromatosis. However, not everyone who inherits hemochromatosis genes develops symptoms or complications of the disease. In those who do, treatments can keep the disease from getting worse.
+                
+Treatments include therapeutic phlebotomy, iron chelation therapy, dietary changes, and other treatments. For more information, go to "How Is Hemochromatosis Treated?"
+                
+People who have hemochromatosis (or a family history of it) and are planning to have children may want to consider genetic testing and counseling. Testing will help show whether one or both parents have faulty HFE genes. A genetic counselor also can help figure out the likelihood of the parents passing the faulty genes on to their children.
+
+---
+
+Q: What is (are) Hemochromatosis ?
+A: Hemochromatosis is the most common form of iron overload disease. Too much iron in the body causes hemochromatosis. Iron is important because it is part of hemoglobin, a molecule in the blood that transports oxygen from the lungs to all body tissues. However, too much iron in the body leads to iron overloada buildup of extra iron that, without treatment, can damage organs such as the liver, heart, and pancreas; endocrine glands; and joints.
+                
+The three types of hemochromatosis are primary hemochromatosis, also called hereditary hemochromatosis; secondary hemochromatosis; and neonatal hemochromatosis.
+
+---
+
+Q: What causes Hemochromatosis ?
+A: Primary Hemochromatosis
+                
+Inherited genetic defects cause primary hemochromatosis, and mutations in the HFE gene are associated with up to 90 percent of cases.1 The HFE gene helps regulate the amount of iron absorbed from food. The two known mutations of HFE are C282Y and H63D. C282Y defects are the most common cause of primary hemochromatosis.
+                
+People inherit two copies of the HFE geneone copy from each parent. Most people who inherit two copies of the HFE gene with the C282Y defect will have higher-than-average iron absorption. However, not all of these people will develop health problems associated with hemochromatosis. One recent study found that 31 percent of people with two copies of the C282Y defect developed health problems by their early fifties.2 Men who develop health problems from HFE defects typically develop them after age 40.1 Women who develop health problems from HFE defects typically develop them after menopause.1
+                
+People who inherit two H63D defects or one C282Y and one H63D defect may have higher-than-average iron absorption.3 However, they are unlikely to develop iron overload and organ damage.
+                
+Rare defects in other genes may also cause primary hemochromatosis. Mutations in the hemojuvelin or hepcidin genes cause juvenile hemochromatosis, a type of primary hemochromatosis. People with juvenile hemochromatosis typically develop severe iron overload and liver and heart damage between ages 15 and 30.
+                
+Secondary Hemochromatosis
+                
+Hemochromatosis that is not inherited is called secondary hemochromatosis. The most common cause of secondary hemochromatosis is frequent blood transfusions in people with severe anemia. Anemia is a condition in which red blood cells are fewer or smaller than normal, which means they carry less oxygen to the bodys cells. Types of anemia that may require frequent blood transfusions include
+                
+- congenital, or inherited, anemias such as sickle cell disease, thalassemia, and Fanconis syndrome  - severe acquired anemias, which are not inherited, such as aplastic anemia and autoimmune hemolytic anemia
+                
+Liver diseasessuch as alcoholic liver disease, nonalcoholic steatohepatitis, and chronic hepatitis C infectionmay cause mild iron overload. However, this iron overload causes much less liver damage than the underlying liver disease causes.
+                
+Neonatal Hemochromatosis
+                
+Neonatal hemochromatosis is a rare disease characterized by liver failure and death in fetuses and newborns. Researchers are studying the causes of neonatal hemochromatosis and believe more than one factor may lead to the disease.
+                
+Experts previously considered neonatal hemochromatosis a type of primary hemochromatosis. However, recent studies suggest genetic defects that increase iron absorption do not cause this disease. Instead, the mothers immune system may produce antibodiesproteins made by the immune system to protect the body from foreign substances such as bacteria or virusesthat damage the liver of the fetus. Women who have had one child with neonatal hemochromatosis are at risk for having more children with the disease.4 Treating these women during pregnancy with intravenous (IV) immunoglobulina solution of antibodies from healthy peoplecan prevent fetal liver damage.4
+                
+Researchers supported by the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) recently found that a combination of exchange transfusionremoving blood and replacing it with donor bloodand IV immunoglobulin is an effective treatment for babies born with neonatal hemochromatosis.5
+
+---
+
+Q: What are the symptoms of Hemochromatosis ?
+A: A person with hemochromatosis may notice one or more of the following symptoms:
+                
+- joint pain  - fatigue, or feeling tired  - unexplained weight loss  - abnormal bronze or gray skin color  - abdominal pain  - loss of sex drive
+                
+Not everyone with hemochromatosis will develop these symptoms.
+
+---
+
+Q: What are the complications of Hemochromatosis ?
+A: Without treatment, iron may build up in the organs and cause complications, including
+                
+- cirrhosis, or scarring of liver tissue  - diabetes  - irregular heart rhythms or weakening of the heart muscle  - arthritis  - erectile dysfunction
+                
+The complication most often associated with hemochromatosis is liver damage. Iron buildup in the liver causes cirrhosis, which increases the chance of developing liver cancer.
+                
+For some people, complications may be the first sign of hemochromatosis. However, not everyone with hemochromatosis will develop complications.
+
+---
+
+Q: How to diagnose Hemochromatosis ?
+A: Health care providers use medical and family history, a physical exam, and routine blood tests to diagnose hemochromatosis or other conditions that could cause the same symptoms or complications.
+                
+- Medical and family history. Taking a medical and family history is one of the first things a health care provider may do to help diagnose hemochromatosis. The health care provider will look for clues that may indicate hemochromatosis, such as a family history of arthritis or unexplained liver disease.    - Physical exam. After taking a medical history, a health care provider will perform a physical exam, which may help diagnose hemochromatosis. During a physical exam, a health care provider usually      - examines a patients body    - uses a stethoscope to listen to bodily sounds    - taps on specific areas of the patients body      - Blood tests. A blood test involves drawing blood at a health care providers office or a commercial facility and sending the sample to a lab for analysis. Blood tests can determine whether the amount of iron stored in the body is higher than normal:1      - The transferrin saturation test shows how much iron is bound to the protein that carries iron in the blood. Transferrin saturation values above or equal to 45 percent are considered abnormal.    - The serum ferritin test detects the amount of ferritina protein that stores ironin the blood. Levels above 300 g/L in men and 200 g/L in women are considered abnormal. Levels above 1,000 g/L in men or women indicate a high chance of iron overload and organ damage.    If either test shows higher-than-average levels of iron in the body, health care providers can order a special blood test that can detect two copies of the C282Y mutation to confirm the diagnosis. If the mutation is not present, health care providers will look for other causes.    - Liver biopsy. Health care providers may perform a liver biopsy, a procedure that involves taking a piece of liver tissue for examination with a microscope for signs of damage or disease. The health care provider may ask the patient to temporarily stop taking certain medications before the liver biopsy. The health care provider may ask the patient to fast for 8 hours before the procedure.  During the procedure, the patient lies on a table, right hand resting above the head. The health care provider applies a local anesthetic to the area where he or she will insert the biopsy needle. If needed, a health care provider will also give sedatives and pain medication. The health care provider uses a needle to take a small piece of liver tissue. He or she may use ultrasound, computerized tomography scans, or other imaging techniques to guide the needle. After the biopsy, the patient must lie on the right side for up to 2 hours and is monitored an additional 2 to 4 hours before being sent home.  A health care provider performs a liver biopsy at a hospital or an outpatient center. The health care provider sends the liver sample to a pathology lab where the pathologista doctor who specializes in diagnosing diseaselooks at the tissue with a microscope and sends a report to the patients health care provider. The biopsy shows how much iron has accumulated in the liver and whether the patient has liver damage.
+                
+Hemochromatosis is rare, and health care providers may not think to test for this disease. Thus, the disease is often not diagnosed or treated. The initial symptoms can be diverse, vague, and similar to the symptoms of many other diseases. Health care providers may focus on the symptoms and complications caused by hemochromatosis rather than on the underlying iron overload. However, if a health care provider diagnoses and treats the iron overload caused by hemochromatosis before organ damage has occurred, a person can live a normal, healthy life.
+                
+
+                
+Who should be tested for hemochromatosis?   Experts recommend testing for hemochromatosis in people who have symptoms, complications, or a family history of the disease.   Some researchers have suggested widespread screening for the C282Y mutation in the general population. However, screening is not cost-effective. Although the C282Y mutation occurs quite frequently, the disease caused by the mutation is rare, and many people with two copies of the mutation never develop iron overload or organ damage.   Researchers and public health officials suggest the following:   - Siblings of people who have hemochromatosis should have their blood tested to see if they have the C282Y mutation.   - Parents, children, and other close relatives of people who have hemochromatosis should consider being tested.   - Health care providers should consider testing people who have severe and continuing fatigue, unexplained cirrhosis, joint pain or arthritis, heart problems, erectile dysfunction, or diabetes because these health issues may result from hemochromatosis.
+
+---
+
+Q: What are the treatments for Hemochromatosis ?
+A: Health care providers treat hemochromatosis by drawing blood. This process is called phlebotomy. Phlebotomy rids the body of extra iron. This treatment is simple, inexpensive, and safe.
+                
+Based on the severity of the iron overload, a patient will have phlebotomy to remove a pint of blood once or twice a week for several months to a year, and occasionally longer. Health care providers will test serum ferritin levels periodically to monitor iron levels. The goal is to bring serum ferritin levels to the low end of the average range and keep them there. Depending on the lab, the level is 25 to 50 g/L.
+                
+After phlebotomy reduces serum ferritin levels to the desired level, patients may need maintenance phlebotomy treatment every few months. Some patients may need phlebotomies more often. Serum ferritin tests every 6 months or once a year will help determine how often a patient should have blood drawn. Many blood donation centers provide free phlebotomy treatment for people with hemochromatosis.
+                
+Treating hemochromatosis before organs are damaged can prevent complications such as cirrhosis, heart problems, arthritis, and diabetes. Treatment cannot cure these conditions in patients who already have them at diagnosis. However, treatment will help most of these conditions improve. The treatments effectiveness depends on the degree of organ damage. For example, treating hemochromatosis can stop the progression of liver damage in its early stages and lead to a normal life expectancy. However, if a patient develops cirrhosis, his or her chance of developing liver cancer increases, even with phlebotomy treatment. Arthritis usually does not improve even after phlebotomy removes extra iron.
+
+---
+
+Q: What to do for Hemochromatosis ?
+A: Iron is an essential nutrient found in many foods. Healthy people usually absorb less than 10 percent of iron in the food they eat.6 People with hemochromatosis absorb up to 30 percent of that iron.6 People with hemochromatosis can help prevent iron overload by
+                
+- eating only moderate amounts of iron-rich foods, such as red meat and organ meat  - avoiding supplements that contain iron  - avoiding supplements that contain vitamin C, which increases iron absorption
+                
+People with hemochromatosis can take steps to help prevent liver damage, including
+                
+- limiting the amount of alcoholic beverages they drink because alcohol increases their chance of cirrhosis and liver cancer  - avoiding alcoholic beverages entirely if they already have cirrhosis
+
+---
+
+Q: What to do for Hemochromatosis ?
+A: - Hemochromatosis is the most common form of iron overload disease. Too much iron in the body causes hemochromatosis.  - Inherited genetic defects cause primary hemochromatosis.  - Primary hemochromatosis mainly affects Caucasians of Northern European descent.  - A person with hemochromatosis may notice one or more of the following symptoms: joint pain; fatigue, or feeling tired; unexplained weight loss; abnormal bronze or gray skin color; abdominal pain; and loss of sex drive. Not everyone with hemochromatosis will develop these symptoms.  - Without treatment, iron may build up in the organs and cause complications, including cirrhosis, diabetes, irregular heart rhythms or weakening of the heart muscle, arthritis, and erectile dysfunction.  - If a health care provider diagnoses and treats the iron overload caused by hemochromatosis before organ damage has occurred, a person can live a normal, healthy life.  - Experts recommend testing for hemochromatosis in people who have symptoms, complications, or a family history of the disease.  - Health care providers treat hemochromatosis by drawing blood. This process is called phlebotomy.

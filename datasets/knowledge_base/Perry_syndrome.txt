@@ -1,0 +1,29 @@
+Topic: Perry syndrome
+
+Q: What are the symptoms of Perry syndrome ?
+A: What are the signs and symptoms of Perry syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Perry syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of extrapyramidal motor function 90% Respiratory insufficiency 90% Sleep disturbance 90% Tremor 90% Weight loss 90% Developmental regression 7.5% Hallucinations 7.5% Hypotension 7.5% Abnormality of metabolism/homeostasis - Apathy - Autosomal dominant inheritance - Bradykinesia - Central hypoventilation - Dysarthria - Hypoventilation - Inappropriate behavior - Insomnia - Mask-like facies - Parkinsonism - Rapidly progressive - Rigidity - Short stepped shuffling gait - Vertical supranuclear gaze palsy - Weak voice - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Perry syndrome ?
+A: Perry syndrome is a progressive brain disease that is characterized by four major features: a pattern of movement abnormalities known as parkinsonism, psychiatric changes, weight loss, and abnormally slow breathing (hypoventilation). These signs and symptoms typically appear in a person's forties or fifties.  Parkinsonism and psychiatric changes are usually the earliest features of Perry syndrome. Signs of parkinsonism include unusually slow movements (bradykinesia), stiffness, and tremors. These movement abnormalities are often accompanied by changes in personality and behavior. The most frequent psychiatric changes that occur in people with Perry syndrome include depression, a general loss of interest and enthusiasm (apathy), withdrawal from friends and family, and suicidal thoughts. Many affected individuals also experience significant, unexplained weight loss early in the disease.  Hypoventilation is a later feature of Perry syndrome. Abnormally slow breathing most often occurs at night, causing affected individuals to wake up frequently. As the disease worsens, hypoventilation can result in a life-threatening lack of oxygen and respiratory failure.  People with Perry syndrome typically survive for about 5 years after signs and symptoms first appear. Most affected individuals ultimately die of respiratory failure or pneumonia. Suicide is another cause of death in this condition.
+
+---
+
+Q: How many people are affected by Perry syndrome ?
+A: Perry syndrome is very rare; about 50 affected individuals have been reported worldwide.
+
+---
+
+Q: What are the genetic changes related to Perry syndrome ?
+A: Perry syndrome results from mutations in the DCTN1 gene. This gene provides instructions for making a protein called dynactin-1, which is involved in the transport of materials within cells. To move materials, dynactin-1 interacts with other proteins and with a track-like system of small tubes called microtubules. These components work together like a conveyer belt to move materials within cells. This transport system appears to be particularly important for the normal function and survival of nerve cells (neurons) in the brain.  Mutations in the DCTN1 gene alter the structure of dynactin-1, making it less able to attach (bind) to microtubules and transport materials within cells. This abnormality causes neurons to malfunction and ultimately die. A gradual loss of neurons in areas of the brain that regulate movement, emotion, and breathing underlies the signs and symptoms of Perry syndrome.
+
+---
+
+Q: Is Perry syndrome inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. However, some cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for Perry syndrome ?
+A: These resources address the diagnosis or management of Perry syndrome:  - Gene Review: Gene Review: Perry Syndrome  - Genetic Testing Registry: Perry syndrome  - MedlinePlus Encyclopedia: Major Depression  - MedlinePlus Encyclopedia: Primary Alveolar Hypoventilation  - National Parkinson Foundation: Treatment   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

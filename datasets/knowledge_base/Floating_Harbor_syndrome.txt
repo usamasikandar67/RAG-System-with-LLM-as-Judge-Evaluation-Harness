@@ -1,0 +1,44 @@
+Topic: Floating-Harbor syndrome
+
+Q: What is (are) Floating-Harbor syndrome ?
+A: Floating-Harbor syndrome is a genetic disorder that was named for the first two identified patients who were seen at Boston Floating Hospital and Harbor General Hospital in California. The main characteristics of this syndrome are short stature, delayed bone growth, delay in expressive language, and distinct facial features. The exact cause of Floating-Harbor syndrome is not known. Treatment is symptomatic and supportive.
+
+---
+
+Q: What are the symptoms of Floating-Harbor syndrome ?
+A: What are the signs and symptoms of Floating-Harbor syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Floating-Harbor syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the eyelashes 90% Abnormality of the voice 90% Abnormality of thumb phalanx 90% Broad columella 90% Delayed skeletal maturation 90% Limitation of joint mobility 90% Low-set, posteriorly rotated ears 90% Neurological speech impairment 90% Short neck 90% Short philtrum 90% Short stature 90% Thin vermilion border 90% Wide mouth 90% Wide nasal bridge 90% Abnormality of immune system physiology 50% Abnormality of the clavicle 50% Abnormality of the soft palate 50% Brachydactyly syndrome 50% Camptodactyly of finger 50% Clinodactyly of the 5th finger 50% Cognitive impairment 50% Constipation 50% Deeply set eye 50% Hypertrichosis 50% Intrauterine growth retardation 50% Joint dislocation 50% Joint hypermobility 50% Malabsorption 50% Triangular face 50% Underdeveloped nasal alae 50% Abnormality of the fingernails 7.5% Abnormality of the urethra 7.5% Attention deficit hyperactivity disorder 7.5% Hypoplasia of penis 7.5% Strabismus 7.5% Telecanthus 7.5% Trigonocephaly 7.5% Atria septal defect 5% Coarctation of aorta 5% Conductive hearing impairment 5% Congenital posterior urethral valve 5% Cryptorchidism 5% Hydronephrosis 5% Hypermetropia 5% Hypospadias 5% Inguinal hernia 5% Mesocardia 5% Nephrocalcinosis 5% Persistent left superior vena cava 5% Recurrent otitis media 5% Umbilical hernia 5% Varicocele 5% Autosomal dominant inheritance - Celiac disease - Cone-shaped epiphyses of the phalanges of the hand - Downturned corners of mouth - Expressive language delay - Hirsutism - Joint laxity - Long eyelashes - Low posterior hairline - Posteriorly rotated ears - Prominent nose - Smooth philtrum - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Floating-Harbor syndrome ?
+A: What causes Floating-Harbor syndrome? The exact cause of Floating-Harbor syndrome is not known. Autosomal dominant inheritance has been suggested.
+
+---
+
+Q: What are the treatments for Floating-Harbor syndrome ?
+A: How might Floating-Harbor syndrome be treated? Treatment for Floating-Harbor syndrome is symptomatic and supportive. For example, dental problems and cataracts may be surgically corrected and sign language and/or speech therapy may help with delays in expressive language. Additional management strategies may be obtained from the Floating Harbor Syndrome Support Group at: http://www.floatingharborsyndromesupport.com/ or 336-492-2641.
+
+---
+
+Q: What is (are) Floating-Harbor syndrome ?
+A: Floating-Harbor syndrome is a disorder involving short stature, slowing of the mineralization of the bones (delayed bone age), delayed speech development, and characteristic facial features. The condition is named for the hospitals where it was first described, the Boston Floating Hospital and Harbor General Hospital in Torrance, California.  Growth deficiency in people with Floating-Harbor syndrome generally becomes apparent in the first year of life, and affected individuals are usually among the shortest 5 percent of their age group. Bone age is delayed in early childhood; for example, an affected 3-year-old child may have bones more typical of a child of 2. However, bone age is usually normal by age 6 to 12.  Delay in speech development (expressive language delay) may be severe in Floating-Harbor syndrome, and language impairment can lead to problems in verbal communication. Most affected individuals also have mild intellectual disability. Their development of motor skills, such as sitting and crawling, is similar to that of other children their age.  Typical facial features in people with Floating-Harbor syndrome include a triangular face; a low hairline; deep-set eyes; long eyelashes; a large, distinctive nose with a low-hanging separation (overhanging columella) between large nostrils; a shortened distance between the nose and upper lip (a short philtrum); and thin lips. As affected children grow and mature, the nose becomes more prominent.  Additional features that have occurred in some affected individuals include short fingers and toes (brachydactyly); widened and rounded tips of the fingers (clubbing); curved pinky fingers (fifth finger clinodactyly); an unusually high-pitched voice; and, in males, undescended testes (cryptorchidism).
+
+---
+
+Q: How many people are affected by Floating-Harbor syndrome ?
+A: Floating-Harbor syndrome is a rare disorder; only about 50 cases have been reported in the medical literature.
+
+---
+
+Q: What are the genetic changes related to Floating-Harbor syndrome ?
+A: Floating-Harbor syndrome is caused by mutations in the SRCAP gene. This gene provides instructions for making a protein called Snf2-related CREBBP activator protein, or SRCAP. SRCAP is one of several proteins that help activate a gene called CREBBP. The protein produced from the CREBBP gene plays a key role in regulating cell growth and division and is important for normal development.  Mutations in the SRCAP gene may result in an altered protein that interferes with normal activation of the CREBBP gene, resulting in problems in development. However, the relationship between SRCAP gene mutations and the specific signs and symptoms of Floating-Harbor syndrome is unknown. Rubinstein-Taybi syndrome, a disorder with similar features, is caused by mutations in the CREBBP gene itself.
+
+---
+
+Q: Is Floating-Harbor syndrome inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  Most cases of Floating-Harbor syndrome result from new mutations in the gene and occur in people with no history of the disorder in their family. However, in some cases an affected person inherits the mutation from one affected parent.
+
+---
+
+Q: What are the treatments for Floating-Harbor syndrome ?
+A: These resources address the diagnosis or management of Floating-Harbor syndrome:  - Gene Review: Gene Review: Floating-Harbor Syndrome  - Genetic Testing Registry: Floating-Harbor syndrome  - KidsHealth: Bone Age Study   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

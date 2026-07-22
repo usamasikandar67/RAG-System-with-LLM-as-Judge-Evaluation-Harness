@@ -1,0 +1,27 @@
+Topic: Congenital Myasthenia
+
+Q: What is (are) Congenital Myasthenia ?
+A: All forms of myasthenia are due to problems in the communication between nerve cells and muscles. Most involve the activities of neurotransmitters. Neurotransmitters are chemicals that allow neurons to relay information from one cell to the next. For neurotransmitters to be effective, the nerve cell must release the neurotransmitter properly, and the muscle cell must be able to detect the neurotransmitter and respond to its signal properly.
+                
+The most common type of myasthenia, myasthenia gravis, is caused by an abnormal immune response in which antibodies block the ability of the muscle to detect the neurotransmitter. Congenital myasthenia, however, differs from myasthenia gravis because the disrupted communication isn't caused by antibodies, but by genetic defects.
+                
+There are several different subtypes of congenital myasthenia, each the result of a specific genetic mutation. Since all types of myasthenia are due to the inability of nerves to trigger muscle activity, they all involve weakness, although there is some variability in the specific muscles affected.
+                
+Symptoms of congenital myasthenia usually appear in the first few years of childhood, but may not be noticeable until much later, occasionally remaining unrecognized until adulthood. If the symptoms begin in infancy, they usually appear as "floppiness" and a failure to meet developmental milestones, such as rolling over or sitting up. Some infants may also have episodes of choking or pauses in breathing. If the symptoms begin in toddlers or preschool children, they appear as weakness during physical activities or an inability to perform age-appropriate actions, such as running or climbing. In addition, if eye muscles are involved, children may have droopy eyelids, "lazy eye," or double vision. If mouth or throat muscles are involved, children may have difficulty speaking or swallowing. An important characteristic of myasthenia is that the weakness worsens during continuous activity, with strength returning, at least partially, after resting.
+                
+Congenital myasthenia is an inherited (genetic) disorder. All but one known subtype are recessive disorders, which means that a child will have to have two copies of the abnormal gene (one from each parent) in order to develop the disease. To diagnose congenital myasthenia, a neurologist will test various muscles to determine if they grow weaker with repeated activity. The doctor will also test the electrical activity of nerves and muscles using electromyography (EMG) and nerve conduction tests (NCS). Blood tests are often used to determine if antibodies could be causing the symptoms. Genetic tests may be ordered.
+
+---
+
+Q: What are the treatments for Congenital Myasthenia ?
+A: The possibilities for treatment depend on the specific subtype of congenital myasthenia. Most treatments attempt to improve the signaling between nerve cell and muscle. These drugs include pyridostigmine, fluoxetine, ephedrine, and 3,4-diaminopyridine. Treatments to alter the immune system are not used for this form of myasthenia. There are no treatments to cure the underlying genetic abnormality.
+
+---
+
+Q: What is the outlook for Congenital Myasthenia ?
+A: The prognosis depends on the specific subtype of congenital myasthenia, the muscles involved, and the age at onset of symptoms. If a child has difficulty breathing, feeding, or swallowing, they may be vulnerable to pneumonia or respiratory failure. In other cases, weakness is stable and does not worsen over time. In one subtype, weakness improves with time. Life-span is normal in most cases in which respiratory function is not compromised.
+
+---
+
+Q: what research (or clinical trials) is being done for Congenital Myasthenia ?
+A: The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) support research related to congenital myasthenia through grants to major research institutions across the country. Much of this research focuses on finding better ways to prevent, treat and ultimately cure disorders such as congenital myasthenia.

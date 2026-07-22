@@ -1,0 +1,24 @@
+Topic: alkaptonuria
+
+Q: What is (are) alkaptonuria ?
+A: Alkaptonuria is an inherited condition that causes urine to turn black when exposed to air. Ochronosis, a buildup of dark pigment in connective tissues such as cartilage and skin, is also characteristic of the disorder. This blue-black pigmentation usually appears after age 30. People with alkaptonuria typically develop arthritis, particularly in the spine and large joints, beginning in early adulthood. Other features of this condition can include heart problems, kidney stones, and prostate stones.
+
+---
+
+Q: How many people are affected by alkaptonuria ?
+A: This condition is rare, affecting 1 in 250,000 to 1 million people worldwide. Alkaptonuria is more common in certain areas of Slovakia (where it has an incidence of about 1 in 19,000 people) and in the Dominican Republic.
+
+---
+
+Q: What are the genetic changes related to alkaptonuria ?
+A: Mutations in the HGD gene cause alkaptonuria. The HGD gene provides instructions for making an enzyme called homogentisate oxidase. This enzyme helps break down the amino acids phenylalanine and tyrosine, which are important building blocks of proteins. Mutations in the HGD gene impair the enzyme's role in this process. As a result, a substance called homogentisic acid, which is produced as phenylalanine and tyrosine are broken down, accumulates in the body. Excess homogentisic acid and related compounds are deposited in connective tissues, which causes cartilage and skin to darken. Over time, a buildup of this substance in the joints leads to arthritis. Homogentisic acid is also excreted in urine, making the urine turn dark when exposed to air.
+
+---
+
+Q: Is alkaptonuria inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for alkaptonuria ?
+A: These resources address the diagnosis or management of alkaptonuria:  - Gene Review: Gene Review: Alkaptonuria  - Genetic Testing Registry: Alkaptonuria  - MedlinePlus Encyclopedia: Alkaptonuria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

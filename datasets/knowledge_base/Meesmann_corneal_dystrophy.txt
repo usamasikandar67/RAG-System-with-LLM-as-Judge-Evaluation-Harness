@@ -1,0 +1,44 @@
+Topic: Meesmann corneal dystrophy
+
+Q: What is (are) Meesmann corneal dystrophy ?
+A: Meesmann corneal dystrophy is a rare genetic condition affecting the epithelial membrane of the cornea. A slit-lamp examination of the cornea shows diffuse clusters of tiny round cysts in the epithelial membrane.  Over time these cysts can rupture and cause erosions. The erosions may result in light sensitivity, redness, and pain. Vision remains good in most, but not all, cases. Meesmann corneal dystrophy can be caused by mutations in the KRT3 or KRT12 gene. It is inherited in an autosomal dominant fashion.
+
+---
+
+Q: What are the symptoms of Meesmann corneal dystrophy ?
+A: What are the signs and symptoms of Meesmann corneal dystrophy? Patients are usually asymptomatic until adulthood when rupture of the tiny cysts on the cornea cause recurrent erosions. Symptoms may include light sensitivity, contact lens intolerance, redness, pain, and occasionally blurred vision (i.e., irregular corneal astigmatism). Some people with Meesman corneal dystrophy experience no symptoms. The Human Phenotype Ontology provides the following list of signs and symptoms for Meesmann corneal dystrophy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Corneal dystrophy - Nonprogressive - Punctate opacification of the cornea - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Meesmann corneal dystrophy ?
+A: What causes Meesmann corneal dystrophy? Meesmann corneal dystrophy is a genetic disease. It can be caused by mutations in either the KRT12 or KRT3 gene. These genes are thought to play an important role in maintaining normal corneal epithelial function. Meesmann corneal dystrophy is passed through families in an autosomal dominant fashion.
+
+---
+
+Q: What are the treatments for Meesmann corneal dystrophy ?
+A: How might Meesmann corneal dystrophy be treated? Treatment is usually not needed unless a person is experiencing symptoms. Most people only need lubricating eye drops. If symptoms are more severe, therapeutic contact lenses or cycloplegic eye drops may be used for severe sensitivity to light (photophobia). Hypertonic saline may be given if symptoms get worse when a person wakes up. Surgical procedures are sometimes tried when these treatments do not help, and may include epithelial debridement, or keratectomy. There is a high risk of recurrence with these procedures. Researchers are also evaluating a form of gene therapy called RNA interference (RNAi) which is also called therapeutic siRNA. This therapy may be able to silence the mutated gene that causes Meesman corneal dystrophy.
+
+---
+
+Q: What is (are) Meesmann corneal dystrophy ?
+A: Meesmann corneal dystrophy is an eye disease that affects the cornea, which is the clear front covering of the eye. This condition is characterized by the formation of tiny round cysts in the outermost layer of the cornea, called the corneal epithelium. This part of the cornea acts as a barrier to help prevent foreign materials, such as dust and bacteria, from entering the eye.  In people with Meesmann corneal dystrophy, cysts can appear as early as the first year of life. They usually affect both eyes and increase in number over time. The cysts usually do not cause any symptoms until late adolescence or adulthood, when they start to break open (rupture) on the surface of the cornea and cause irritation. The resulting symptoms typically include increased sensitivity to light (photophobia), twitching of the eyelids (blepharospasm), increased tear production, the sensation of having a foreign object in the eye, and an inability to tolerate wearing contact lenses. Some affected individuals also have temporary episodes of blurred vision.
+
+---
+
+Q: How many people are affected by Meesmann corneal dystrophy ?
+A: Meesmann corneal dystrophy is a rare disorder whose prevalence is unknown. It was first described in a large, multi-generational German family with more than 100 affected members. Since then, the condition has been reported in individuals and families worldwide.
+
+---
+
+Q: What are the genetic changes related to Meesmann corneal dystrophy ?
+A: Meesmann corneal dystrophy can result from mutations in either the KRT12 gene or the KRT3 gene. These genes provide instructions for making proteins called keratin 12 and keratin 3, which are found in the corneal epithelium. The two proteins interact to form the structural framework of this layer of the cornea. Mutations in either the KRT12 or KRT3 gene weaken this framework, causing the corneal epithelium to become fragile and to develop the cysts that characterize the disorder. The cysts likely contain clumps of abnormal keratin proteins and other cellular debris. When the cysts rupture, they cause eye irritation and the other symptoms of Meesmann corneal dystrophy.
+
+---
+
+Q: Is Meesmann corneal dystrophy inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of an altered KRT12 or KRT3 gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the condition from an affected parent.
+
+---
+
+Q: What are the treatments for Meesmann corneal dystrophy ?
+A: These resources address the diagnosis or management of Meesmann corneal dystrophy:  - Genetic Testing Registry: Meesman's corneal dystrophy  - Merck Manual Home Health Handbook: Tests for Eye Disorders: The Eye Examination   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

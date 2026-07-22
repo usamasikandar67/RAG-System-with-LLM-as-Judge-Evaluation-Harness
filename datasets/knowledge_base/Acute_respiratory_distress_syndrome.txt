@@ -1,0 +1,9 @@
+Topic: Acute respiratory distress syndrome
+
+Q: What is (are) Acute respiratory distress syndrome ?
+A: Acute respiratory distress syndrome (ARDS) is a life-threatening lung condition that prevents enough oxygen from getting to the lungs and into the blood.  People who develop ARDS often are very ill with another disease or have major injuries. The condition leads to a buildup of fluid in the air sacs which prevents enough oxygen from passing into the bloodstream. Symptoms may include difficulty breathing, low blood pressure and organ failure, rapid breathing and shortness of breath.
+
+---
+
+Q: What are the treatments for Acute respiratory distress syndrome ?
+A: How might acute respiratory distress syndrome (ARDS) be treated? Typically people with ARDS need to be in an intensive care unit (ICU). The goal of treatment is to provide breathing support and treat the cause of ARDS. This may involve medications to treat infections, reduce inflammation, and remove fluid from the lungs. A breathing machine is used to deliver high doses of oxygen and continued pressure called PEEP (positive end-expiratory pressure) to the damaged lungs. Patients often need to be deeply sedated with medications when using this equipment. Some research suggests that giving medications to temporarily paralyze a person with ARDS will increase the chance of recovery. Treatment continues until the patient is well enough to breathe on his/her own. More detailed information about the treatment of ARDS can be accessed through the National Heart, Lung and Blood Institute (NHLBI) and Medscape Reference.  An article detailing Oxygen Therapy is also available.

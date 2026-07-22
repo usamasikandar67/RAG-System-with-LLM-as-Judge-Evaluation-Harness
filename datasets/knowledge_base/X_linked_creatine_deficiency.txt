@@ -1,0 +1,34 @@
+Topic: X-linked creatine deficiency
+
+Q: What is (are) X-linked creatine deficiency ?
+A: X-linked creatine deficiency is a rare condition that primarily affects the brain. Signs and symptoms generally develop before age 2 and may include mild to severe intellectual disability; delayed speech development, behavioral problems (i.e. autistic features, hyperactivity), and seizures. Less commonly, affected people may have distinctive facial features, heart abnormalities, and gastrointestinal disorders. X-linked creatine deficiency is caused by changes (mutations) in the SLC6A8 gene and is inherited in an X-linked manner. Treatment with high doses of creatine monohydrate, L-arginine, and L-glycine has been used to treat some of the symptoms associated with X-linked creatine deficiency with variable success.
+
+---
+
+Q: What are the symptoms of X-linked creatine deficiency ?
+A: What are the signs and symptoms of X-linked creatine deficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for X-linked creatine deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of metabolism/homeostasis 90% Cognitive impairment 90% Neurological speech impairment 90% Abnormality of movement 50% Aganglionic megacolon 50% Autism 50% Constipation 50% Decreased body weight 50% Hypertonia 50% Hypoplasia of the zygomatic bone 50% Incoordination 50% Intestinal obstruction 50% Muscular hypotonia 50% Open mouth 50% Seizures 50% Short stature 50% Cutis laxa 7.5% Joint hypermobility 7.5% Mask-like facies 7.5% Microcephaly 7.5% Ptosis 7.5% Aggressive behavior - Attention deficit hyperactivity disorder - Broad forehead - Delayed myelination - Delayed speech and language development - Dystonia - Exotropia - Failure to thrive - Feeding difficulties in infancy - Gait disturbance - Hypermetropia - Hypoplasia of midface - Hypoplasia of the corpus callosum - Ileus - Impaired social interactions - Infantile onset - Intellectual disability - Long face - Malar flattening - Mandibular prognathia - Motor delay - Myopathic facies - Narrow face - Neonatal hypotonia - Pes cavus - Poor hand-eye coordination - Spasticity - Stereotypic behavior - Tall stature - Underfolded superior helices - Vomiting - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) X-linked creatine deficiency ?
+A: X-linked creatine deficiency is an inherited disorder that primarily affects the brain. People with this disorder have intellectual disability, which can range from mild to severe, and delayed speech development. Some affected individuals develop behavioral disorders such as attention deficit hyperactivity disorder or autistic behaviors that affect communication and social interaction. They may also experience seizures. Children with X-linked creatine deficiency may experience slow growth and exhibit delayed development of motor skills such as sitting and walking. Affected individuals tend to tire easily.  A small number of people with X-linked creatine deficiency have additional signs and symptoms including abnormal heart rhythms, an unusually small head (microcephaly), or distinctive facial features such as a broad forehead and a flat or sunken appearance of the middle of the face (midface hypoplasia).
+
+---
+
+Q: How many people are affected by X-linked creatine deficiency ?
+A: The prevalence of X-linked creatine deficiency is unknown. More than 150 affected individuals have been identified. The disorder has been estimated to account for between 1 and 2 percent of males with intellectual disability.
+
+---
+
+Q: What are the genetic changes related to X-linked creatine deficiency ?
+A: Mutations in the SLC6A8 gene cause X-linked creatine deficiency. The SLC6A8 gene provides instructions for making a protein that transports the compound creatine into cells. Creatine is needed for the body to store and use energy properly.  SLC6A8 gene mutations impair the ability of the transporter protein to bring creatine into cells, resulting in a creatine shortage (deficiency). The effects of creatine deficiency are most severe in organs and tissues that require large amounts of energy, especially the brain.
+
+---
+
+Q: Is X-linked creatine deficiency inherited ?
+A: This condition is inherited in an X-linked pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell may or may not cause the disorder. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In most cases of X-linked inheritance, males experience more severe symptoms of the disorder than females. About half of females with one mutated copy of the SLC6A8 gene in each cell have intellectual disability, learning difficulties, or behavioral problems. Other females with one mutated copy of the SLC6A8 gene in each cell have no noticeable neurological problems.
+
+---
+
+Q: What are the treatments for X-linked creatine deficiency ?
+A: These resources address the diagnosis or management of X-linked creatine deficiency:  - Gene Review: Gene Review: Creatine Deficiency Syndromes  - Genetic Testing Registry: Creatine deficiency, X-linked   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

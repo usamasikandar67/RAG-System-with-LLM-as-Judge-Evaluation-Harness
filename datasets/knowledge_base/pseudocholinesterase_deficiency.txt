@@ -1,0 +1,24 @@
+Topic: pseudocholinesterase deficiency
+
+Q: What is (are) pseudocholinesterase deficiency ?
+A: Pseudocholinesterase deficiency is a condition that results in increased sensitivity to certain muscle relaxant drugs used during general anesthesia, called choline esters. These fast-acting drugs, such as succinylcholine and mivacurium, are given to relax the muscles used for movement (skeletal muscles), including the muscles involved in breathing. The drugs are often employed for brief surgical procedures or in emergencies when a breathing tube must be inserted quickly. Normally, these drugs are broken down (metabolized) by the body within a few minutes of being administered, at which time the muscles can move again. However, people with pseudocholinesterase deficiency may not be able to move or breathe on their own for a few hours after the drugs are administered. Affected individuals must be supported with a machine to help them breathe (mechanical ventilation) until the drugs are cleared from the body.  People with pseudocholinesterase deficiency may also have increased sensitivity to certain other drugs, including the local anesthetic procaine, and to specific agricultural pesticides. The condition causes no other signs or symptoms and is usually not discovered until an abnormal drug reaction occurs.
+
+---
+
+Q: How many people are affected by pseudocholinesterase deficiency ?
+A: Pseudocholinesterase deficiency occurs in 1 in 3,200 to 1 in 5,000 people. It is more common in certain populations, such as the Persian Jewish community and Alaska Natives.
+
+---
+
+Q: What are the genetic changes related to pseudocholinesterase deficiency ?
+A: Pseudocholinesterase deficiency can be caused by mutations in the BCHE gene. This gene provides instructions for making the pseudocholinesterase enzyme, also known as butyrylcholinesterase, which is produced by the liver and circulates in the blood. The pseudocholinesterase enzyme is involved in the breakdown of choline ester drugs. It is likely that the enzyme has other functions in the body, but these functions are not well understood. Studies suggest that the enzyme may be involved in the transmission of nerve signals.  Some BCHE gene mutations that cause pseudocholinesterase deficiency result in an abnormal pseudocholinesterase enzyme that does not function properly. Other mutations prevent the production of the pseudocholinesterase enzyme. A lack of functional pseudocholinesterase enzyme impairs the body's ability to break down choline ester drugs efficiently, leading to abnormally prolonged drug effects.  Pseudocholinesterase deficiency can also have nongenetic causes. In these cases, the condition is called acquired pseudocholinesterase deficiency; it is not inherited and cannot be passed to the next generation. Activity of the pseudocholinesterase enzyme can be impaired by kidney or liver disease, malnutrition, major burns, cancer, or certain drugs.
+
+---
+
+Q: Is pseudocholinesterase deficiency inherited ?
+A: When due to genetic causes, this condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive disorder have one copy of the altered gene in each cell and are called carriers. They can pass on the gene mutation to their children, but they do not usually experience signs and symptoms of the disorder. In some cases, carriers of BCHE gene mutations take longer than usual to clear choline ester drugs from the body, but not as long as those with two copies of the altered gene in each cell.
+
+---
+
+Q: What are the treatments for pseudocholinesterase deficiency ?
+A: These resources address the diagnosis or management of pseudocholinesterase deficiency:  - MedlinePlus Encyclopedia: Cholinesterase (blood test)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

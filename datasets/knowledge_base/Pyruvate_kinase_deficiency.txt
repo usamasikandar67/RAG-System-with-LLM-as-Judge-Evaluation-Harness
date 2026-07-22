@@ -1,0 +1,24 @@
+Topic: pyruvate kinase deficiency
+
+Q: What is (are) pyruvate kinase deficiency ?
+A: Pyruvate kinase deficiency is an inherited disorder that affects red blood cells, which carry oxygen to the body's tissues. People with this disorder have a condition known as chronic hemolytic anemia, in which red blood cells are broken down (undergo hemolysis) prematurely, resulting in a shortage of red blood cells (anemia). Specifically, pyruvate kinase deficiency is a common cause of a type of inherited hemolytic anemia called hereditary nonspherocytic hemolytic anemia. In hereditary nonspherocytic hemolytic anemia, the red blood cells do not assume a spherical shape as they do in some other forms of hemolytic anemia.  Chronic hemolytic anemia can lead to unusually pale skin (pallor), yellowing of the eyes and skin (jaundice), extreme tiredness (fatigue), shortness of breath (dyspnea), and a rapid heart rate (tachycardia). An enlarged spleen (splenomegaly), an excess of iron in the blood, and small pebble-like deposits in the gallbladder or bile ducts (gallstones) are also common in this disorder.  In people with pyruvate kinase deficiency, hemolytic anemia and associated complications may range from mild to severe. Some affected individuals have few or no symptoms. Severe cases can be life-threatening in infancy, and such affected individuals may require regular blood transfusions to survive. The symptoms of this disorder may get worse during an infection or pregnancy.
+
+---
+
+Q: How many people are affected by pyruvate kinase deficiency ?
+A: Pyruvate kinase deficiency is the most common inherited cause of nonspherocytic hemolytic anemia. More than 500 affected families have been identified, and studies suggest that the disorder may be underdiagnosed because mild cases may not be identified.  Pyruvate kinase deficiency is found in all ethnic groups. Its prevalence has been estimated at 1 in 20,000 people of European descent. It is more common in the Old Order Amish population of Pennsylvania.
+
+---
+
+Q: What are the genetic changes related to pyruvate kinase deficiency ?
+A: Pyruvate kinase deficiency is caused by mutations in the PKLR gene. The PKLR gene is active in the liver and in red blood cells, where it provides instructions for making an enzyme called pyruvate kinase. The pyruvate kinase enzyme is involved in a critical energy-producing process known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce adenosine triphosphate (ATP), the cell's main energy source.  PKLR gene mutations result in reduced pyruvate kinase enzyme function, causing a shortage of ATP in red blood cells and increased levels of other molecules produced earlier in the glycolysis process. The abnormal red blood cells are gathered up by the spleen and destroyed, causing hemolytic anemia and an enlarged spleen. A shortage of red blood cells to carry oxygen throughout the body leads to fatigue, pallor, and shortness of breath. Iron and a molecule called bilirubin are released when red blood cells are destroyed, resulting in an excess of these substances circulating in the blood. Excess bilirubin in the blood causes jaundice and increases the risk of developing gallstones.  Pyruvate kinase deficiency may also occur as an effect of other blood diseases, such as leukemia. These cases are called secondary pyruvate kinase deficiency and are not inherited.
+
+---
+
+Q: Is pyruvate kinase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for pyruvate kinase deficiency ?
+A: These resources address the diagnosis or management of pyruvate kinase deficiency:  - Cincinnati Children's Hospital Medical Center: Hemolytic Anemia  - Genetic Testing Registry: Pyruvate kinase deficiency of red cells  - Johns Hopkins Medicine: Hemolytic Anemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,34 @@
+Topic: Unverricht-Lundborg disease
+
+Q: What is (are) Unverricht-Lundborg disease ?
+A: Unverricht-Lundborg disease is an inherited form of progressive myoclonus epilepsy that is characterized by episodes of involuntary muscle jerking or twitching (myoclonus) that increase in frequency and severity over time. Episodes of myoclonus may be brought on by physical exertion, stress, light, or other stimuli. Affected individuals usually begin showing signs and symptoms of the disorder between the ages of 6 and 15. Over time, the myoclonic episodes may become severe enough to interfere with walking and other everyday activities. Other features include seizures involving loss of consciousness, muscle rigidity, and convulsions (tonic-clonic or grand mal seizures). Like the myoclonic episodes, these may increase in frequency over several years but may be controlled with treatment. After several years of progression, the frequency of seizures may stabilize or decrease. Unverricht-Lundborg disease is caused by mutation in the CSTB gene. It is inherited in an autosomal recessive pattern.
+
+---
+
+Q: What are the symptoms of Unverricht-Lundborg disease ?
+A: What are the signs and symptoms of Unverricht-Lundborg disease? The Human Phenotype Ontology provides the following list of signs and symptoms for Unverricht-Lundborg disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Absence seizures - Ataxia - Autosomal recessive inheritance - Dysarthria - Generalized tonic-clonic seizures - Mental deterioration - Myoclonus - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Unverricht-Lundborg disease ?
+A: Unverricht-Lundborg disease is a rare inherited form of epilepsy. Affected individuals usually begin showing signs and symptoms of the disorder between the ages of 6 and 15.  Unverricht-Lundborg disease is classified as a type of progressive myoclonus epilepsy. People with this disorder experience episodes of involuntary muscle jerking or twitching (myoclonus) that increase in frequency and severity over time. Episodes of myoclonus may be brought on by physical exertion, stress, light, or other stimuli. Within 5 to 10 years, the myoclonic episodes may become severe enough to interfere with walking and other everyday activities.  Affected individuals also usually have seizures involving loss of consciousness, muscle rigidity, and convulsions (tonic-clonic or grand mal seizures). Like the myoclonic episodes, these may increase in frequency over several years but may be controlled with treatment. After several years of progression, the frequency of seizures may stabilize or decrease.  Eventually people with Unverricht-Lundborg disease may develop problems with balance and coordination (ataxia), involuntary rhythmic shaking that worsens during movement (intentional tremor), difficulty speaking (dysarthria), depression, and a slow, mild decline in intellectual functioning.  People with Unverricht-Lundborg disease typically live into adulthood. Depending on the severity of the condition and a person's response to treatment, life expectancy may be normal.
+
+---
+
+Q: How many people are affected by Unverricht-Lundborg disease ?
+A: Progressive myoclonus epilepsy is a rare condition. Unverricht-Lundborg disease is believed to be the most common cause of this type of epilepsy, but its worldwide prevalence is unknown. Unverricht-Lundborg disease occurs most frequently in Finland, where approximately 4 in 100,000 people are affected.
+
+---
+
+Q: What are the genetic changes related to Unverricht-Lundborg disease ?
+A: Mutations in the CSTB gene cause Unverricht-Lundborg disease. The CSTB gene provides instructions for making a protein called cystatin B. This protein reduces the activity of enzymes called cathepsins. Cathepsins help break down certain proteins in the lysosomes (compartments in the cell that digest and recycle materials). While the specific function of cystatin B is unclear, it may help protect the cells' proteins from cathepsins that leak out of the lysosomes.  In almost all affected individuals, Unverricht-Lundborg disease is caused by an increase in size of the CSTB gene. One region of the CSTB gene has a particular repeating sequence of 12 DNA building blocks (nucleotides). This sequence is normally repeated two or three times within the gene and is called a dodecamer repeat. Most people with this disorder have more than 30 repeats of the dodecamer sequence in both copies of the CSTB gene. A small number of people with Unverricht-Lundborg disease carry other mutations.  The increased number of dodecamer repeats in the CSTB gene seems to interfere with the production of the cystatin B protein. Levels of cystatin B in affected individuals are only 5 to 10 percent of normal, and cathepsin levels are significantly increased. These changes are believed to cause the signs and symptoms of Unverricht-Lundborg disease, but it is unclear how a reduction in the amount of cystatin B leads to the features of this disorder.
+
+---
+
+Q: Is Unverricht-Lundborg disease inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for Unverricht-Lundborg disease ?
+A: These resources address the diagnosis or management of Unverricht-Lundborg disease:  - Gene Review: Gene Review: Unverricht-Lundborg Disease  - Genetic Testing Registry: Unverricht-Lundborg syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

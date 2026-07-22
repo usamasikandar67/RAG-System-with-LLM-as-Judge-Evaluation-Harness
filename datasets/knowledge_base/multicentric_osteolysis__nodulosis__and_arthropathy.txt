@@ -1,0 +1,24 @@
+Topic: multicentric osteolysis, nodulosis, and arthropathy
+
+Q: What is (are) multicentric osteolysis, nodulosis, and arthropathy ?
+A: Multicentric osteolysis, nodulosis, and arthropathy (MONA) describes a rare inherited disease characterized by a loss of bone tissue (osteolysis), particularly in the hands and feet. MONA includes a condition formerly called nodulosis-arthropathy-osteolysis (NAO) syndrome. It may also include a similar disorder called Torg syndrome, although it is unknown whether Torg syndrome is actually part of MONA or a separate disorder caused by a mutation in a different gene.  In most cases of MONA, bone loss begins in the hands and feet, causing pain and limiting movement. Bone abnormalities can later spread to other areas of the body, with joint problems (arthropathy) occurring in the elbows, shoulders, knees, hips, and spine. Most people with MONA develop low bone mineral density (osteopenia) and thinning of the bones (osteoporosis) throughout the skeleton. These abnormalities make bones brittle and more prone to fracture. The bone abnormalities also lead to short stature.  Many affected individuals develop subcutaneous nodules, which are firm lumps of noncancerous tissue underneath the skin, especially on the soles of the feet. Some affected individuals also have skin abnormalities including patches of dark, thick, and leathery skin. Other features of MONA can include clouding of the clear front covering of the eye (corneal opacity), excess hair growth (hypertrichosis), overgrowth of the gums, heart abnormalities, and distinctive facial features that are described as "coarse."
+
+---
+
+Q: How many people are affected by multicentric osteolysis, nodulosis, and arthropathy ?
+A: MONA is rare; its prevalence is unknown. This condition has been reported in multiple populations worldwide.
+
+---
+
+Q: What are the genetic changes related to multicentric osteolysis, nodulosis, and arthropathy ?
+A: MONA results from mutations in the MMP2 gene. This gene provides instructions for making an enzyme called matrix metallopeptidase 2, whose primary function is to cut (cleave) a protein called type IV collagen. Type IV collagen is a major structural component of basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. The activity of matrix metallopeptidase 2 appears to be important for a variety of body functions, including bone remodeling, which is a normal process in which old bone is broken down and new bone is created to replace it.  The MMP2 gene mutations that cause MONA completely eliminate the activity of the matrix metallopeptidase 2 enzyme, preventing the normal cleavage of type IV collagen. It is unclear how a loss of enzyme activity leads to the specific features of MONA. Researchers suspect that it somehow disrupts the balance of new bone creation and the breakdown of existing bone during bone remodeling, resulting in a progressive loss of bone tissue. How a shortage of matrix metallopeptidase 2 leads to the other features of MONA, such as subcutaneous nodules and skin abnormalities, is unknown.
+
+---
+
+Q: Is multicentric osteolysis, nodulosis, and arthropathy inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for multicentric osteolysis, nodulosis, and arthropathy ?
+A: These resources address the diagnosis or management of MONA:  - Genetic Testing Registry: Multicentric osteolysis, nodulosis and arthropathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

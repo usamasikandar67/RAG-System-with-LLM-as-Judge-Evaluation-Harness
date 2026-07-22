@@ -1,0 +1,24 @@
+Topic: Salih myopathy
+
+Q: What is (are) Salih myopathy ?
+A: Salih myopathy is an inherited muscle disease that affects the skeletal muscles, which are used for movement, and the heart (cardiac) muscle. This condition is characterized by skeletal muscle weakness that becomes apparent in early infancy. Affected individuals have delayed development of motor skills, such as sitting, standing, and walking. Beginning later in childhood, people with Salih myopathy may also develop joint deformities called contractures that restrict the movement of the neck and back. Scoliosis, which is an abnormal side-to-side curvature of the spine, also develops in late childhood.  A form of heart disease called dilated cardiomyopathy is another feature of Salih myopathy. Dilated cardiomyopathy enlarges and weakens the cardiac muscle, preventing the heart from pumping blood efficiently. Signs and symptoms of this condition can include an irregular heartbeat (arrhythmia), shortness of breath, extreme tiredness (fatigue), and swelling of the legs and feet. The heart abnormalities associated with Salih myopathy usually become apparent in childhood, after the skeletal muscle abnormalities. The heart disease worsens quickly, and it often causes heart failure and sudden death in adolescence or early adulthood.
+
+---
+
+Q: How many people are affected by Salih myopathy ?
+A: Salih myopathy appears to be a rare disorder, although its prevalence is unknown. It has been reported in a small number of families of Moroccan and Sudanese descent.
+
+---
+
+Q: What are the genetic changes related to Salih myopathy ?
+A: Salih myopathy is caused by mutations in the TTN gene. This gene provides instructions for making a protein called titin, which plays an important role in skeletal and cardiac muscle function.  Within muscle cells, titin is an essential component of structures called sarcomeres. Sarcomeres are the basic units of muscle contraction; they are made of proteins that generate the mechanical force needed for muscles to contract. Titin has several functions within sarcomeres. One of this protein's most important jobs is to provide structure, flexibility, and stability to these cell structures. Titin also plays a role in chemical signaling and in assembling new sarcomeres.  The TTN gene mutations responsible for Salih myopathy lead to the production of an abnormally short version of titin. The defective protein disrupts the function of sarcomeres, which prevents skeletal and cardiac muscle from contracting normally. These muscle abnormalities underlie the features of Salih myopathy, including skeletal muscle weakness and dilated cardiomyopathy.
+
+---
+
+Q: Is Salih myopathy inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for Salih myopathy ?
+A: These resources address the diagnosis or management of Salih myopathy:  - Gene Review: Gene Review: Salih Myopathy  - Genetic Testing Registry: Myopathy, early-onset, with fatal cardiomyopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

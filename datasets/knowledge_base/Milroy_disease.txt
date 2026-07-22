@@ -1,0 +1,49 @@
+Topic: Milroy disease
+
+Q: What is (are) Milroy disease ?
+A: Milroy disease is a lymphatic disease that causes swelling (lymphedema) in the lower legs and feet. Lymphedema is usually present at birth or develops in infancy. It typically occurs on both sides of the body and can worsen over time. Other symptoms may include accumulation of fluid in the scrotum in males (hydrocele), upslanting toenails, deep creases in the toes, wart-like growths, prominent leg veins, and/or cellulitis. Milroy disease is sometimes caused by changes (mutations) in the FLT4 gene and is inherited in an autosomal dominant manner. In many cases, the cause remains unknown. Treatment may include lymphedema therapy to improve function and alleviate symptoms.
+
+---
+
+Q: What are the symptoms of Milroy disease ?
+A: What are the signs and symptoms of Milroy disease? The most common symptom of Milroy disease is build-up of fluids (lymphedema) in the lower limbs, which is usually present from birth or before birth. However, the degree and distribution of swelling varies among affected people. It sometimes progresses, but may improve in some cases. Other signs and symptoms may include hydrocele and/or urethral abnormalities in males; prominent veins; upslanting toenails; papillomatosis (development of wart-like growths); and cellulitis. Cellulitis may cause additional swelling. The Human Phenotype Ontology provides the following list of signs and symptoms for Milroy disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the amniotic fluid - Abnormality of the nail - Autosomal dominant inheritance - Congenital onset - Hemangioma - Hydrocele testis - Hyperkeratosis over edematous areas - Hypoplasia of lymphatic vessels - Nonimmune hydrops fetalis - Predominantly lower limb lymphedema - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: Is Milroy disease inherited ?
+A: How is Milroy disease inherited? Milroy disease is inherited in an autosomal dominant manner. This means that having one changed (mutated) copy of the responsible gene in each cell is enough to cause symptoms of the condition. When a person with an autosomal dominant condition has children, each child has a 50% (1 in 2) chance to inherit the mutated copy of the gene. Most people with Milroy disease have an affected parent, but some cases are due to new mutations that occur for the first time in the affected person. About 10-15% of people with a mutation in the responsible gene do not develop features of the condition. This phenomenon is called reduced penetrance.
+
+---
+
+Q: How to diagnose Milroy disease ?
+A: Is genetic testing available for Milroy disease? Yes. The Genetic Testing Registry (GTR) provides information about the labs that offer genetic testing for Milroy disease. The intended audience for the GTR is health care providers and researchers. People with questions about genetic testing should speak with a health care provider or genetics professional. If a mutation in the responsible gene has been identified in a family, genetic testing for at-risk relatives may identify those who may benefit from treatment early in the disease course. Prenatal testing for pregnancies at increased risk may also be available.
+
+---
+
+Q: What are the treatments for Milroy disease ?
+A: How might Milroy disease be treated? There is currently no cure for Milroy disease. Management is typically conservative and usually successful in most people. Management of lymphedema should be guided by a lymphedema therapist. Some improvement is usually possible with the use of properly fitted compression hosiery or bandaging and well fitting, supportive shoes. Good skin care is essential. These measures may improve the cosmetic appearance of the affected areas, decrease their size, and reduce the risk of complications. Decongestive physiotherapy, which combines compression bandaging, manual lymphatic drainage (a specialized massage technique), exercise, breathing exercises, dietary measures and skin care, has become the standard of care for primary lymphedema. People with recurrent cellulitis may benefit from prophylactic antibiotics. Surgical intervention is considered a last option when other medical management fails. When possible, people with Milroy disease should avoid: wounds to swollen areas (because of their reduced resistance to infection) long periods of immobility prolonged standing elevation of the affected limb certain medications (particularly calcium channel-blocking drugs that can cause increased leg swelling in some people)
+
+---
+
+Q: What is (are) Milroy disease ?
+A: Milroy disease is a condition that affects the normal function of the lymphatic system. The lymphatic system produces and transports fluids and immune cells throughout the body. Impaired transport with accumulation of lymph fluid can cause swelling (lymphedema). Individuals with Milroy disease typically have lymphedema in their lower legs and feet at birth or develop it in infancy. The lymphedema typically occurs on both sides of the body and may worsen over time.  Milroy disease is associated with other features in addition to lymphedema. Males with Milroy disease are sometimes born with an accumulation of fluid in the scrotum (hydrocele). Males and females may have upslanting toenails, deep creases in the toes, wart-like growths (papillomas), and prominent leg veins. Some individuals develop non-contagious skin infections called cellulitis that can damage the thin tubes that carry lymph fluid (lymphatic vessels). Episodes of cellulitis can cause further swelling in the lower limbs.
+
+---
+
+Q: How many people are affected by Milroy disease ?
+A: Milroy disease is a rare disorder; its incidence is unknown.
+
+---
+
+Q: What are the genetic changes related to Milroy disease ?
+A: Mutations in the FLT4 gene cause some cases of Milroy disease. The FLT4 gene provides instructions for producing a protein called vascular endothelial growth factor receptor 3 (VEGFR-3), which regulates the development and maintenance of the lymphatic system. Mutations in the FLT4 gene interfere with the growth, movement, and survival of cells that line the lymphatic vessels (lymphatic endothelial cells). These mutations lead to the development of small or absent lymphatic vessels. If lymph fluid is not properly transported, it builds up in the body's tissues and causes lymphedema. It is not known how mutations in the FLT4 gene lead to the other features of this disorder.  Many individuals with Milroy disease do not have a mutation in the FLT4 gene. In these individuals, the cause of the disorder is unknown.
+
+---
+
+Q: Is Milroy disease inherited ?
+A: Milroy disease is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In many cases, an affected person inherits the mutation from one affected parent. Other cases may result from new mutations in the FLT4 gene. These cases occur in people with no history of the disorder in their family. About 10 percent to 15 percent of people with a mutation in the FLT4 gene do not develop the features of Milroy disease.
+
+---
+
+Q: What are the treatments for Milroy disease ?
+A: These resources address the diagnosis or management of Milroy disease:  - Gene Review: Gene Review: Milroy Disease  - Genetic Testing Registry: Hereditary lymphedema type I  - MedlinePlus Encyclopedia: Lymphatic Obstruction   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

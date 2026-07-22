@@ -1,0 +1,44 @@
+Topic: Ollier disease
+
+Q: What is (are) Ollier disease ?
+A: Ollier disease is a skeletal disorder characterized by an asymmetric distribution of cartilagenous tumors (endochondromas) which may lead to skeletal deformities and limb-length discrepancy.[3] This condition primarily affects the long bones and cartilage of the joints of the arms and legs, specifically the area where the shaft and head of a long bone meet (metaphyses). Clinical manifestations often appear in the first decade of life. The cause is unknown. There is no medical treatment, although surgery may be indicated in cases where complications (pathological fractures, growth defect, malignant transformation) arise.
+
+---
+
+Q: What are the symptoms of Ollier disease ?
+A: What are the signs and symptoms of Ollier disease? Clinical manifestations in Ollier disease often appear in the first decade of life and usually start with the appearance of palpable bony masses on a finger or a toe, an asymetric shortening of an extremity with limping, and skeletal deformities which may be associated with pathologic fractures. Enchondromas frequently affect the long tubular bones, particularly the tibia, the femur, and/or the fibula; flat bones, especially the pelvis, can also be affected. The lesions may affect multiple bones and are usually asymetrically distributed, exclusively or predominantly affecting one side of the body. Affected bones are often shortened and deformed. Indeed, bone shortening may be the only clinical sign of the disease. These bone shortenings are often associated with bone bending and curving, and may lead to limitations in articular movement. Forearm deformities are frequently encountered. In childhood, the lesions are subjected to pathologic fractures. The Human Phenotype Ontology provides the following list of signs and symptoms for Ollier disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the metaphyses 90% Cavernous hemangioma 90% Micromelia 90% Osteolysis 90% Visceral angiomatosis 90% Bone pain 50% Limitation of joint mobility 50% Abnormality of coagulation 7.5% Anemia 7.5% Lymphangioma 7.5% Ovarian neoplasm 7.5% Platyspondyly 7.5% Precocious puberty 7.5% Skin ulcer 7.5% Thrombophlebitis 7.5% Chondrosarcoma - Multiple enchondromatosis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Ollier disease ?
+A: What causes Ollier disease? The exact cause of Ollier disease is not known. It is usually a sporadic, non-familial disorder, however, in some cases, it may be inherited as an autosomal dominant genetic trait.
+
+---
+
+Q: What are the treatments for Ollier disease ?
+A: How might Ollier disease be treated? There is no specific medical treatment for Ollier disease. Surgery is indicated in cases where complications (pathological fractures, growth defect, malignant transformation) arise.
+
+---
+
+Q: What is (are) Ollier disease ?
+A: Ollier disease is a disorder characterized by multiple enchondromas, which are noncancerous (benign) growths of cartilage that develop within the bones. These growths most commonly occur in the limb bones, especially in the bones of the hands and feet; however, they may also occur in the skull, ribs, and bones of the spine (vertebrae). Enchondromas may result in severe bone deformities, shortening of the limbs, and fractures.  The signs and symptoms of Ollier disease may be detectable at birth, although they generally do not become apparent until around the age of 5. Enchondromas develop near the ends of bones, where normal growth occurs, and they frequently stop forming after affected individuals stop growing in early adulthood. As a result of the bone deformities associated with Ollier disease, people with this disorder generally have short stature and underdeveloped muscles.  Although the enchondromas associated with Ollier disease start out as benign, they may become cancerous (malignant). In particular, affected individuals may develop bone cancers called chondrosarcomas, especially in the skull. People with Ollier disease also have an increased risk of other cancers, such as ovarian or liver cancer.  People with Ollier disease usually have a normal lifespan, and intelligence is unaffected. The extent of their physical impairment depends on their individual skeletal deformities, but in most cases they have no major limitations in their activities.  A related disorder called Maffucci syndrome also involves multiple enchondromas but is distinguished by the presence of red or purplish growths in the skin consisting of tangles of abnormal blood vessels (hemangiomas).
+
+---
+
+Q: How many people are affected by Ollier disease ?
+A: Ollier disease is estimated to occur in 1 in 100,000 people.
+
+---
+
+Q: What are the genetic changes related to Ollier disease ?
+A: In most people with Ollier disease, the disorder is caused by mutations in the IDH1 or IDH2 gene. These genes provide instructions for making enzymes called isocitrate dehydrogenase 1 and isocitrate dehydrogenase 2, respectively. These enzymes convert a compound called isocitrate to another compound called 2-ketoglutarate. This reaction also produces a molecule called NADPH, which is necessary for many cellular processes. IDH1 or IDH2 gene mutations cause the enzyme produced from the respective gene to take on a new, abnormal function. Although these mutations have been found in some cells of enchondromas in people with Ollier disease, the relationship between the mutations and the signs and symptoms of the disorder is not well understood.  Mutations in other genes may also account for some cases of Ollier disease.
+
+---
+
+Q: Is Ollier disease inherited ?
+A: Ollier disease is not inherited. The mutations that cause this disorder are somatic, which means they occur during a person's lifetime. A somatic mutation occurs in a single cell. As that cell continues to grow and divide, the cells derived from it also have the same mutation. In Ollier disease, the mutation is thought to occur in a cell during early development before birth; cells that arise from that abnormal cell have the mutation, while the body's other cells do not. This situation is called mosaicism.
+
+---
+
+Q: What are the treatments for Ollier disease ?
+A: These resources address the diagnosis or management of Ollier disease:  - Genetic Testing Registry: Enchondromatosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

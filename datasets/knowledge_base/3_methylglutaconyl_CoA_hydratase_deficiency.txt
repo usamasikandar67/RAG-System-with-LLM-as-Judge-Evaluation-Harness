@@ -1,0 +1,24 @@
+Topic: 3-methylglutaconyl-CoA hydratase deficiency
+
+Q: What is (are) 3-methylglutaconyl-CoA hydratase deficiency ?
+A: 3-methylglutaconyl-CoA hydratase deficiency is an inherited condition that causes neurological problems. Beginning in infancy to early childhood, children with this condition often have delayed development of mental and motor skills (psychomotor delay), speech delay, involuntary muscle cramping (dystonia), and spasms and weakness of the arms and legs (spastic quadriparesis). Affected individuals can also have optic atrophy, which is the degeneration (atrophy) of nerve cells that carry visual information from the eyes to the brain.  In some cases, signs and symptoms of 3-methylglutaconyl-CoA hydratase deficiency begin in adulthood, often in a person's twenties or thirties. These individuals have damage to a type of brain tissue called white matter (leukoencephalopathy), which likely contributes to progressive problems with speech (dysarthria), difficulty coordinating movements (ataxia), stiffness (spasticity), optic atrophy, and a decline in intellectual function (dementia).  Affected individuals who show symptoms of 3-methylglutaconyl-CoA hydratase deficiency in childhood often go on to develop leukoencephalopathy and other neurological problems in adulthood.  All people with 3-methylglutaconyl-CoA hydratase deficiency accumulate large amounts of a substance called 3-methylglutaconic acid in their body fluids. As a result, they have elevated levels of acid in their blood (metabolic acidosis) and excrete large amounts of acid in their urine (aciduria). 3-methylglutaconyl-CoA hydratase deficiency is one of a group of metabolic disorders that can be diagnosed by the presence of increased levels 3-methylglutaconic acid in urine (3-methylglutaconic aciduria). People with 3-methylglutaconyl-CoA hydratase deficiency also have high urine levels of another acid called 3-methylglutaric acid.
+
+---
+
+Q: How many people are affected by 3-methylglutaconyl-CoA hydratase deficiency ?
+A: 3-methylglutaconyl-CoA hydratase deficiency is a rare disorder; at least 20 cases have been reported in the scientific literature.
+
+---
+
+Q: What are the genetic changes related to 3-methylglutaconyl-CoA hydratase deficiency ?
+A: Mutations in the AUH gene cause 3-methylglutaconyl-CoA hydratase deficiency. This gene provides instructions for producing 3-methylglutaconyl-CoA hydratase, an enzyme that is involved in breaking down a protein building block (amino acid) called leucine to provide energy for cells. This amino acid is broken down in cell structures called mitochondria, which convert energy from food into a form that cells can use.  AUH gene mutations lead to an absence of enzyme activity. Without any functional 3-methylglutaconyl-CoA hydratase, leucine is not properly broken down, which leads to a buildup of related compounds, including multiple acids: 3-methylglutaconic acid, 3-methylglutaric acid, and 3-hydroxyisovaleric acid. Researchers speculate that an accumulation of these acids in the fluid that surrounds and protects the brain and spinal cord (the cerebrospinal fluid or CSF) can damage these structures and contribute to the neurological features of 3-methylglutaconyl-CoA hydratase deficiency.  Because the age at which the condition begins varies widely and because the signs and symptoms improve in some affected children, researchers speculate that other genes or environmental factors may play a role in the features of 3-methylglutaconyl-CoA hydratase deficiency.
+
+---
+
+Q: Is 3-methylglutaconyl-CoA hydratase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for 3-methylglutaconyl-CoA hydratase deficiency ?
+A: These resources address the diagnosis or management of 3-methylglutaconyl-CoA hydratase deficiency:  - Baby's First Test  - Genetic Testing Registry: 3-Methylglutaconic aciduria  - MedlinePlus Encyclopedia: Metabolic Acidosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

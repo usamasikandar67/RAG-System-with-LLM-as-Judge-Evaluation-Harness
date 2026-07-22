@@ -1,0 +1,19 @@
+Topic: Hashimoto's syndrome
+
+Q: What is (are) Hashimoto's syndrome ?
+A: Hashimotos syndrome is a form of chronic inflammation that can damage the thyroid, reducing its ability to produce hormones (hypothyroidism). An early sign of the condition may be enlargement of the thyroid (called a goiter), which can potentially interfere with breathing or swallowing. Other signs and symptoms may include tiredness, weight gain, thin and dry hair, joint or muscle pain, constipation, cold intolerance, and/or a slowed heart rate. Affected women may have irregular menstrual periods or difficulty becoming pregnant. Hashimotos syndrome is the most common cause of hypothyroidism in the United States. It is more common in women than in men, and it usually appears in mid-adulthood. The exact cause is unknown but it is thought to result from a combination of genetic and environmental factors. Treatment is not always needed, but may include taking synthetic thyroid hormone.
+
+---
+
+Q: What are the symptoms of Hashimoto's syndrome ?
+A: What are the signs and symptoms of Hashimoto's syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Hashimoto's syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autoimmune antibody positivity - Autosomal dominant inheritance - Hashimoto thyroiditis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Hashimoto's syndrome ?
+A: What causes Hashimotos syndrome? Hashimoto's syndrome is an autoimmune disorder thought to result from a combination of genetic and environmental factors. Some of these factors have been identified, but many remain unknown. People with Hashimotos syndrome have antibodies to various thyroid antigens. The antibodies "attack" the thyroid, resulting in damage to the gland. Most of the genes associated with Hashimotos syndrome are part of a gene family called the human leukocyte antigen (HLA) complex, which helps the immune system distinguish the body's own proteins from proteins made by viruses and bacteria or other agents. However, the genetic factors have only a small effect on a person's overall risk of developing this condition. Non-genetic factors that may trigger the condition in people at risk may include changes in sex hormones (particularly in women), viral infections, certain medications, exposure to ionizing radiation, and excess consumption of iodine (a substance involved in thyroid hormone production).
+
+---
+
+Q: Is Hashimoto's syndrome inherited ?
+A: Is Hashimoto's syndrome inherited? The inheritance pattern of Hashimoto's syndrome is unclear because many genetic and environmental factors appear to be involved. However, the condition can cluster in families, and having a close relative with Hashimoto's syndrome or another autoimmune disorder likely increases a person's risk of developing the condition.

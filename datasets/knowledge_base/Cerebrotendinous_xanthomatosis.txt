@@ -1,0 +1,24 @@
+Topic: cerebrotendinous xanthomatosis
+
+Q: What is (are) cerebrotendinous xanthomatosis ?
+A: Cerebrotendinous xanthomatosis is a fat (lipid) storage disorder that affects many areas of the body. People with this disorder cannot break down certain lipids effectively, specifically different forms of cholesterol, so these fats accumulate in various areas of the body. Xanthomatosis refers to the formation of fatty yellow nodules (xanthomas). Cerebrotendinous refers to the typical locations of the xanthomas (cerebro- meaning the brain and -tendinous meaning connective tissue called tendons that attach muscle to bone).  Other features of cerebrotendinous xanthomatosis include chronic diarrhea during infancy, clouding of the lens of the eye (cataracts) developing in late childhood, progressively brittle bones that are prone to fracture, and neurological problems in adulthood, such as dementia, seizures, hallucinations, depression, and difficulty with coordinating movements (ataxia) and speech (dysarthria). The neurological symptoms are thought to be caused by an accumulation of fats and an increasing number of xanthomas in the brain. Xanthomas can also accumulate in the fatty substance that insulates and protects nerves (myelin), disrupting nerve signaling in the brain. Disorders that involve the destruction of myelin are known as leukodystrophies. Degeneration (atrophy) of brain tissue caused by excess lipid deposits also contributes to the neurological problems.  Xanthomas in the tendons (most commonly in the Achilles tendon, which connects the heel of the foot to the calf muscles) begin to form in early adulthood. Tendon xanthomas may cause discomfort and interfere with tendon flexibility. People with cerebrotendinous xanthomatosis are also at an increased risk of developing cardiovascular disease. If untreated, the signs and symptoms related to the accumulation of lipids throughout the body worsen over time; however, the course of this condition varies greatly among those who are affected.
+
+---
+
+Q: How many people are affected by cerebrotendinous xanthomatosis ?
+A: The incidence of cerebrotendinous xanthomatosis is estimated to be 3 to 5 per 100,000 people worldwide. This condition is more common in the Moroccan Jewish population with an incidence of 1 in 108 individuals.
+
+---
+
+Q: What are the genetic changes related to cerebrotendinous xanthomatosis ?
+A: Mutations in the CYP27A1 gene cause cerebrotendinous xanthomatosis. The CYP27A1 gene provides instructions for producing an enzyme called sterol 27-hydroxylase. This enzyme works in the pathway that breaks down cholesterol to form acids used in the digestion of fats (bile acids). Mutations in sterol 27-hydroxylase impair its ability to break down cholesterol to a specific bile acid called chenodeoxycholic acid. As a result, a molecule called cholestanol, which is similar to cholesterol, accumulates in xanthomas, blood, nerve cells, and the brain. Cholesterol levels are not increased in the blood, but they are elevated in various tissues throughout the body. The accumulation of cholesterol and cholestanol in the brain, tendons, and other tissues causes the signs and symptoms of cerebrotendinous xanthomatosis.
+
+---
+
+Q: Is cerebrotendinous xanthomatosis inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for cerebrotendinous xanthomatosis ?
+A: These resources address the diagnosis or management of cerebrotendinous xanthomatosis:  - Gene Review: Gene Review: Cerebrotendinous Xanthomatosis  - Genetic Testing Registry: Cholestanol storage disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

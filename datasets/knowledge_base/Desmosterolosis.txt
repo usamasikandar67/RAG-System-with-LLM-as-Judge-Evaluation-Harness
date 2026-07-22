@@ -1,0 +1,24 @@
+Topic: desmosterolosis
+
+Q: What is (are) desmosterolosis ?
+A: Desmosterolosis is a condition that is characterized by neurological problems, such as brain abnormalities and developmental delay, and can also include other signs and symptoms.  Children with desmosterolosis have delayed speech and motor skills (such as sitting and walking). Later in childhood, some affected individuals are able to walk with support; verbal communication is often limited to a few words or phrases. Common brain abnormalities in desmosterolosis include malformation of the tissue that connects the left and right halves of the brain (the corpus callosum) and loss of white matter, which consists of nerve fibers covered by a fatty substance called myelin.  People with desmosterolosis commonly have muscle stiffness (spasticity) and stiff, rigid joints (arthrogryposis) affecting their hands and feet. Other features seen in some affected individuals include short stature, abnormal head size (either larger or smaller than normal), a small lower jaw (micrognathia), an opening in the roof of the mouth (cleft palate), involuntary eye movements (nystagmus) or eyes that do not look in the same direction (strabismus), heart defects, and seizures.
+
+---
+
+Q: How many people are affected by desmosterolosis ?
+A: The prevalence of desmosterolosis is unknown; at least 10 affected individuals have been described in the scientific literature.
+
+---
+
+Q: What are the genetic changes related to desmosterolosis ?
+A: Desmosterolosis is caused by mutations in the DHCR24 gene. This gene provides instructions for making an enzyme called 24-dehydrocholesterol reductase, which is involved in the production (synthesis) of cholesterol. Cholesterol is a waxy, fat-like substance that can be obtained from foods that come from animals (particularly egg yolks, meat, poultry, fish, and dairy products). It can also be produced in various tissues in the body. For example, the brain cannot access the cholesterol that comes from food, so brain cells must produce their own. Cholesterol is necessary for normal embryonic development and has important functions both before and after birth.  DHCR24 gene mutations lead to the production of 24-dehydrocholesterol reductase with reduced activity. As a result, there is a decrease in cholesterol production. Because the brain relies solely on cellular production for cholesterol, it is most severely affected. Without adequate cholesterol, cell membranes are not formed properly and nerve cells are not protected by myelin, leading to the death of these cells. In addition, a decrease in cholesterol production has more severe effects before birth than during other periods of development because of the rapid increase in cell number that takes place. Disruption of normal cell formation before birth likely accounts for the additional developmental abnormalities of desmosterolosis.
+
+---
+
+Q: Is desmosterolosis inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for desmosterolosis ?
+A: These resources address the diagnosis or management of desmosterolosis:  - Genetic Testing Registry: Desmosterolosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

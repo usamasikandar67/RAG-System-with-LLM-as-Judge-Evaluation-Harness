@@ -1,0 +1,19 @@
+Topic: Naegeli syndrome
+
+Q: What is (are) Naegeli syndrome ?
+A: Naegeli syndrome belongs to a group of disorders known as ectodermal dysplasias. This condition is characterized by absent fingerprints, thickening of the palms and soles (palmoplantar keratoderma), decreased sweating (hypohidrosis), heat intolerance, patches of darker (hyperpigmented) skin, brittle nails, abnormally colored teeth, and early tooth loss. Naegeli syndrome is caused by mutations in the KRT14 gene and inherited in an autosomal dominant manner. Treatment is based on an individual's symptoms.
+
+---
+
+Q: What are the symptoms of Naegeli syndrome ?
+A: What are the signs and symptoms of Naegeli syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Naegeli syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of dental enamel 90% Abnormality of the fingernails 90% Abnormality of the toenails 90% Irregular hyperpigmentation 90% Palmoplantar keratoderma 90% Autosomal dominant inheritance - Carious teeth - Fragile nails - Heat intolerance - Hypohidrosis - Premature loss of teeth - Reticular hyperpigmentation - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: How to diagnose Naegeli syndrome ?
+A: How is Naegeli syndrome diagnosed? In most cases of Naegeli syndrome, a diagnosis is made based on the typical clinical features of this condition. The clinical diagnosis may be confirmed by genetic testing of the KRT14 gene.  GeneTests lists a laboratory that performs genetic testing of the KRT14 gene. If you are interested in genetic testing for this condition, we recommend that you consult with a genetics professional.
+
+---
+
+Q: What are the treatments for Naegeli syndrome ?
+A: Is there a treatment for Naegeli syndrome? Treatment for Naegeli syndrome is based on an individual's symptoms. Dry skin can be moisturized with creams. To avoid overheating, affected individuals should wear appropriate clothing and use wet dressings. Dental care is needed treat cavities and tooth loss.

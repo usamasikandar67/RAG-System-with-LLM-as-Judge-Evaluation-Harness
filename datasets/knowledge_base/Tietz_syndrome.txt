@@ -1,0 +1,39 @@
+Topic: Tietz syndrome
+
+Q: What is (are) Tietz syndrome ?
+A: Tietz syndrome is a rare condition that affects the development of melanocytes, the cells in our body that produce and contain melanin (the pigment that gives color to skin, hair, and eyes). Signs and symptoms of this condition are present from birth and usually include sensorineural hearing loss, fair skin, and light-colored hair. It is caused by changes (mutations) in the MITF gene and inherited in an autosomal dominant manner. The goal of treatment is to improve hearing; cochlear implantation may be considered.
+
+---
+
+Q: What are the symptoms of Tietz syndrome ?
+A: What are the signs and symptoms of Tietz syndrome? The signs and symptoms of Tietz syndrome are usually present at birth and may include: Severe, bilateral (both ears) sensorineural hearing loss Fair skin Light-colored hair Blue eyes The Human Phenotype Ontology provides the following list of signs and symptoms for Tietz syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the anterior chamber 90% Aplasia/Hypoplasia of the eyebrow 90% Generalized hypopigmentation 90% Hypopigmentation of hair 90% Autosomal dominant inheritance - Bilateral sensorineural hearing impairment - Blue irides - Congenital sensorineural hearing impairment - Hypopigmentation of the fundus - White eyebrow - White eyelashes - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: How to diagnose Tietz syndrome ?
+A: How is Tietz syndrome diagnosed? A diagnosis of Tietz syndrome is suspected in people with severe, bilateral (both ears) sensorineural hearing loss; fair skin; and light-colored hair. Identification of a change (mutation) in the MITF gene also supports this diagnosis. Diagnosing Tietz syndrome can be complicated since there are several different genetic conditions that can cause deafness and hypopigmentation, some of which are also caused by mutations in the MITF gene. It is, therefore, important for people with suspected Tietz syndrome to be evaluated by a healthcare provider who specializes in genetics.
+
+---
+
+Q: What is (are) Tietz syndrome ?
+A: Tietz syndrome is a disorder characterized by profound hearing loss from birth, fair skin, and light-colored hair. The hearing loss in affected individuals is caused by abnormalities of the inner ear (sensorineural hearing loss) and is present from birth. Although people with Tietz syndrome are born with white hair and very pale skin, their hair color often darkens over time to blond or red. The skin of affected individuals, which sunburns very easily, may tan slightly or develop reddish freckles with limited sun exposure; however, their skin and hair color remain lighter than those of other members of their family.  Tietz syndrome also affects the eyes. The colored part of the eye (the iris) in affected individuals is blue, and specialized cells in the eye called retinal pigment epithelial cells lack their normal pigment. The retinal pigment epithelium nourishes the retina, the part of the eye that detects light and color. The changes to the retinal pigment epithelium are generally detectable only by an eye examination; it is unclear whether the changes affect vision.
+
+---
+
+Q: How many people are affected by Tietz syndrome ?
+A: Tietz syndrome is a rare disorder; its exact prevalence is unknown. Only a few affected families have been described in the medical literature.
+
+---
+
+Q: What are the genetic changes related to Tietz syndrome ?
+A: Tietz syndrome is caused by mutations in the MITF gene. This gene provides instructions for making a protein that plays a role in the development, survival, and function of certain types of cells. Molecules of the MITF protein attach (bind) to each other or with other proteins that have a similar structure, creating a two-protein unit (dimer). The dimer attaches to specific areas of DNA and helps control the activity of particular genes. On the basis of this action, the MITF protein is called a transcription factor.  The MITF protein helps control the development and function of pigment-producing cells called melanocytes. Within these cells, this protein controls production of the pigment melanin, which contributes to hair, eye, and skin color. Melanocytes are also found in the inner ear and play an important role in hearing. Additionally, the MITF protein regulates the development of the retinal pigment epithelium.  MITF gene mutations that cause Tietz syndrome either delete or change a single protein building block (amino acid) in an area of the MITF protein known as the basic motif region. Dimers incorporating the abnormal MITF protein cannot be transported into the cell nucleus to bind with DNA. As a result, most of the dimers are unavailable to bind to DNA, which affects the development of melanocytes and the production of melanin. The resulting reduction or absence of melanocytes in the inner ear leads to hearing loss. Decreased melanin production (hypopigmentation) accounts for the light skin and hair color and the retinal pigment epithelium changes that are characteristic of Tietz syndrome.  Researchers suggest that Tietz syndrome may represent a severe form of a disorder called Waardenburg syndrome, which can also be caused by MITF gene mutations.
+
+---
+
+Q: Is Tietz syndrome inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.
+
+---
+
+Q: What are the treatments for Tietz syndrome ?
+A: These resources address the diagnosis or management of Tietz syndrome:  - Genetic Testing Registry: Tietz syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,24 @@
+Topic: T-cell immunodeficiency, congenital alopecia, and nail dystrophy
+
+Q: What is (are) T-cell immunodeficiency, congenital alopecia, and nail dystrophy ?
+A: T-cell immunodeficiency, congenital alopecia, and nail dystrophy is a type of severe combined immunodeficiency (SCID), which is a group of disorders characterized by an almost total lack of immune protection from foreign invaders such as bacteria and viruses. People with this form of SCID are missing functional immune cells called T cells, which normally recognize and attack foreign invaders to prevent infection. Without functional T cells, affected individuals develop repeated and persistent infections starting early in life. The infections result in slow growth and can be life-threatening; without effective treatment, most affected individuals live only into infancy or early childhood.  T-cell immunodeficiency, congenital alopecia, and nail dystrophy also affects growth of the hair and nails. Congenital alopecia refers to an absence of hair that is apparent from birth. Affected individuals have no scalp hair, eyebrows, or eyelashes. Nail dystrophy is a general term that describes malformed fingernails and toenails; in this condition, the nails are often ridged, pitted, or abnormally curved.  Researchers have described abnormalities of the brain and spinal cord (central nervous system) in at least two cases of this condition. However, it is not yet known whether central nervous system abnormalities are a common feature of T-cell immunodeficiency, congenital alopecia, and nail dystrophy.
+
+---
+
+Q: How many people are affected by T-cell immunodeficiency, congenital alopecia, and nail dystrophy ?
+A: T-cell immunodeficiency, congenital alopecia, and nail dystrophy is a rare disorder. It has been diagnosed in only a few individuals, almost all of whom are members of a large extended family from a community in southern Italy.
+
+---
+
+Q: What are the genetic changes related to T-cell immunodeficiency, congenital alopecia, and nail dystrophy ?
+A: T-cell immunodeficiency, congenital alopecia, and nail dystrophy results from mutations in the FOXN1 gene. This gene provides instructions for making a protein that is important for development of the skin, hair, nails, and immune system. Studies suggest that this protein helps guide the formation of hair follicles and the growth of fingernails and toenails. The FOXN1 protein also plays a critical role in the formation of the thymus, which is a gland located behind the breastbone where T cells mature and become functional. Researchers suspect that the FOXN1 protein is also involved in the development of the central nervous system, although its role is unclear.  Mutations in the FOXN1 gene prevent cells from making any functional FOXN1 protein. Without this protein, hair and nails cannot grow normally. A lack of FOXN1 protein also prevents the formation of the thymus. When this gland is not present, the immune system cannot produce mature, functional T cells to fight infections. As a result, people with T-cell immunodeficiency, congenital alopecia, and nail dystrophy develop recurrent serious infections starting early in life.
+
+---
+
+Q: Is T-cell immunodeficiency, congenital alopecia, and nail dystrophy inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. However, some people who carry one copy of a mutated FOXN1 gene have abnormal fingernails or toenails.
+
+---
+
+Q: What are the treatments for T-cell immunodeficiency, congenital alopecia, and nail dystrophy ?
+A: These resources address the diagnosis or management of T-cell immunodeficiency, congenital alopecia, and nail dystrophy:  - Be The Match: What is a Bone Marrow Transplant?  - Genetic Testing Registry: T-cell immunodeficiency, congenital alopecia and nail dystrophy  - MedlinePlus Encyclopedia: Bone Marrow Transplant   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

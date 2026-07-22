@@ -1,0 +1,24 @@
+Topic: myosin storage myopathy
+
+Q: What is (are) myosin storage myopathy ?
+A: Myosin storage myopathy is a condition that causes muscle weakness (myopathy) that does not worsen or worsens very slowly over time. This condition is characterized by the formation of protein clumps, which contain a protein called myosin, within certain muscle fibers. The signs and symptoms of myosin storage myopathy usually become noticeable in childhood, although they can occur later. Because of muscle weakness, affected individuals may start walking later than usual and have a waddling gait, trouble climbing stairs, and difficulty lifting the arms above shoulder level. Muscle weakness also causes some affected individuals to have trouble breathing.
+
+---
+
+Q: How many people are affected by myosin storage myopathy ?
+A: Myosin storage myopathy is a rare condition. Its prevalence is unknown.
+
+---
+
+Q: What are the genetic changes related to myosin storage myopathy ?
+A: Mutations in the MYH7 gene cause myosin storage myopathy. The MYH7 gene provides instructions for making a protein known as the cardiac beta ()-myosin heavy chain. This protein is found in heart (cardiac) muscle and in type I skeletal muscle fibers, one of two types of fibers that make up the muscles that the body uses for movement. Cardiac -myosin heavy chain is the major component of the thick filament in muscle cell structures called sarcomeres. Sarcomeres, which are made up of thick and thin filaments, are the basic units of muscle contraction. The overlapping thick and thin filaments attach to each other and release, which allows the filaments to move relative to one another so that muscles can contract.  Mutations in the MYH7 gene lead to the production of an altered cardiac -myosin heavy chain protein, which is thought to be less able to form thick filaments. The altered proteins accumulate in type I skeletal muscle fibers, forming the protein clumps characteristic of the disorder. It is unclear how these changes lead to muscle weakness in people with myosin storage myopathy.
+
+---
+
+Q: Is myosin storage myopathy inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+
+---
+
+Q: What are the treatments for myosin storage myopathy ?
+A: These resources address the diagnosis or management of myosin storage myopathy:  - Genetic Testing Registry: Myosin storage myopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

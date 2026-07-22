@@ -1,0 +1,29 @@
+Topic: Amish lethal microcephaly
+
+Q: What are the symptoms of Amish lethal microcephaly ?
+A: What are the signs and symptoms of Amish lethal microcephaly? The Human Phenotype Ontology provides the following list of signs and symptoms for Amish lethal microcephaly. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aplasia/Hypoplasia of the cerebellum 90% Behavioral abnormality 90% Cognitive impairment 90% Microcephaly 90% Optic atrophy 90% Sloping forehead 90% Abnormality of neuronal migration 50% Aplasia/Hypoplasia of the corpus callosum 50% Hypertonia 50% Muscular hypotonia 50% Reduced bone mineral density 50% Spina bifida 50% Ventriculomegaly 50% Abnormality of the soft palate 7.5% Decreased skull ossification 7.5% Hepatomegaly 7.5% Limitation of joint mobility 7.5% Prenatal movement abnormality 7.5% Seizures 7.5% Autosomal recessive inheritance - Cerebellar hypoplasia - Congenital onset - Flexion contracture - Irritability - Lactic acidosis - Limb hypertonia - Muscular hypotonia of the trunk - Partial agenesis of the corpus callosum - Progressive microcephaly - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Amish lethal microcephaly ?
+A: Amish lethal microcephaly is a disorder in which infants are born with a very small head and underdeveloped brain.  Infants with Amish lethal microcephaly have a sloping forehead and an extremely small head size. They may also have an unusually small lower jaw and chin (micrognathia) and an enlarged liver (hepatomegaly).  Affected infants may have seizures and difficulty maintaining their body temperature. Often they become very irritable starting in the second or third month of life. A compound called alpha-ketoglutaric acid can be detected in their urine (alpha-ketoglutaric aciduria), and during episodes of viral illness they tend to develop elevated levels of acid in the blood and tissues (metabolic acidosis). Infants with this disorder typically feed adequately but do not develop skills such as purposeful movement or the ability to track faces and sounds. Affected infants live only about six months.
+
+---
+
+Q: How many people are affected by Amish lethal microcephaly ?
+A: Amish lethal microcephaly occurs in approximately 1 in 500 newborns in the Old Order Amish population of Pennsylvania. It has not been found outside this population.
+
+---
+
+Q: What are the genetic changes related to Amish lethal microcephaly ?
+A: Mutations in the SLC25A19 gene cause Amish lethal microcephaly.  The SLC25A19 gene provides instructions for producing a protein that is a member of the solute carrier (SLC) family of proteins. Proteins in the SLC family transport various compounds across the membranes surrounding the cell and its component parts. The protein produced from the SLC25A19 gene transports a molecule called thiamine pyrophosphate into the mitochondria, the energy-producing centers of cells. This compound is involved in the activity of a group of mitochondrial enzymes called the dehydrogenase complexes, one of which is the alpha-ketoglutarate dehydrogenase complex. The transport of thiamine pyrophosphate into the mitochondria is believed to be important in brain development.  All known individuals with Amish lethal microcephaly have a mutation in which the protein building block (amino acid) alanine is substituted for the amino acid glycine at position 177 of the SLC25A19 protein, written as Gly177Ala or G177A. Researchers believe that this mutation interferes with the transport of thiamine pyrophosphate into the mitochondria and the activity of the alpha-ketoglutarate dehydrogenase complex, resulting in the abnormal brain development and alpha-ketoglutaric aciduria seen in Amish lethal microcephaly.
+
+---
+
+Q: Is Amish lethal microcephaly inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for Amish lethal microcephaly ?
+A: These resources address the diagnosis or management of Amish lethal microcephaly:  - Gene Review: Gene Review: Amish Lethal Microcephaly  - Genetic Testing Registry: Amish lethal microcephaly  - MedlinePlus Encyclopedia: Microcephaly   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,24 @@
+Topic: malonyl-CoA decarboxylase deficiency
+
+Q: What is (are) malonyl-CoA decarboxylase deficiency ?
+A: Malonyl-CoA decarboxylase deficiency is a condition that prevents the body from converting certain fats to energy. The signs and symptoms of this disorder typically appear in early childhood. Almost all affected children have delayed development. Additional signs and symptoms can include weak muscle tone (hypotonia), seizures, diarrhea, vomiting, and low blood sugar (hypoglycemia). A heart condition called cardiomyopathy, which weakens and enlarges the heart muscle, is another common feature of malonyl-CoA decarboxylase deficiency.
+
+---
+
+Q: How many people are affected by malonyl-CoA decarboxylase deficiency ?
+A: This condition is very rare; fewer than 30 cases have been reported.
+
+---
+
+Q: What are the genetic changes related to malonyl-CoA decarboxylase deficiency ?
+A: Mutations in the MLYCD gene cause malonyl-CoA decarboxylase deficiency. The MLYCD gene provides instructions for making an enzyme called malonyl-CoA decarboxylase. Within cells, this enzyme helps regulate the formation and breakdown of a group of fats called fatty acids. Many tissues, including the heart muscle, use fatty acids as a major source of energy.  Mutations in the MLYCD gene reduce or eliminate the function of malonyl-CoA decarboxylase. A shortage of this enzyme disrupts the normal balance of fatty acid formation and breakdown in the body. As a result, fatty acids cannot be converted to energy, which can lead to characteristic features of this disorder including low blood sugar and cardiomyopathy. Byproducts of fatty acid processing build up in tissues, which also contributes to the signs and symptoms of malonyl-CoA decarboxylase deficiency.
+
+---
+
+Q: Is malonyl-CoA decarboxylase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for malonyl-CoA decarboxylase deficiency ?
+A: These resources address the diagnosis or management of malonyl-CoA decarboxylase deficiency:  - Baby's First Test  - Genetic Testing Registry: Deficiency of malonyl-CoA decarboxylase   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

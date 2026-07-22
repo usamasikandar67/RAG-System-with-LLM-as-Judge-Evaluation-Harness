@@ -1,0 +1,24 @@
+Topic: chylomicron retention disease
+
+Q: What is (are) chylomicron retention disease ?
+A: Chylomicron retention disease is an inherited disorder that affects the absorption of dietary fats, cholesterol, and certain fat-soluble vitamins. As food is digested after a meal, molecules called chylomicrons are formed to carry fat and cholesterol from the intestine into the bloodstream. Chylomicrons are also necessary for the absorption of certain fat-soluble vitamins, such as vitamin E and vitamin D. A lack of chylomicron transport causes severely decreased absorption (malabsorption) of dietary fats and fat-soluble vitamins. Sufficient levels of fats, cholesterol, and vitamins are necessary for normal growth and development.  The signs and symptoms of chylomicron retention disease appear in the first few months of life. They can include failure to gain weight and grow at the expected rate (failure to thrive); diarrhea; and fatty, foul-smelling stools (steatorrhea). Other features of this disorder may develop later in childhood and often impair the function of the nervous system. Affected people may eventually develop decreased reflexes (hyporeflexia) and a decreased ability to feel vibrations.
+
+---
+
+Q: How many people are affected by chylomicron retention disease ?
+A: Chylomicron retention disease is a rare condition with approximately 40 cases described worldwide.
+
+---
+
+Q: What are the genetic changes related to chylomicron retention disease ?
+A: Mutations in the SAR1B gene cause chylomicron retention disease. The SAR1B gene provides instructions for making a protein that is involved in transporting chylomicrons within enterocytes, which are cells that line the intestine and absorb nutrients.  SAR1B gene mutations impair the release of chylomicrons into the bloodstream. A lack of chylomicrons in the blood prevents dietary fats and fat-soluble vitamins from being used by the body, leading to the nutritional and developmental problems seen in people with chylomicron retention disease.
+
+---
+
+Q: Is chylomicron retention disease inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for chylomicron retention disease ?
+A: These resources address the diagnosis or management of chylomicron retention disease:  - Genetic Testing Registry: Chylomicron retention disease  - MedlinePlus Encyclopedia: Malabsorption   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

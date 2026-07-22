@@ -1,0 +1,24 @@
+Topic: succinate-CoA ligase deficiency
+
+Q: What is (are) succinate-CoA ligase deficiency ?
+A: Succinate-CoA ligase deficiency is an inherited disorder that affects the early development of the brain and other body systems. One of the earliest signs of the disorder is very weak muscle tone (severe hypotonia), which appears in the first few months of life. Severe hypotonia delays the development of motor skills such as holding up the head and rolling over. Many affected children also have muscle weakness and reduced muscle mass, which prevents them from standing and walking independently.  Additional features of succinate-CoA ligase deficiency can include progressive abnormal curvature of the spine (scoliosis or kyphosis), uncontrolled movements (dystonia), severe hearing loss, and seizures beginning in childhood. In most affected children, a substance called methylmalonic acid builds up abnormally in the body and is excreted in urine (methylmalonic aciduria). Most children with succinate-CoA ligase deficiency also experience a failure to thrive, which means that they gain weight and grow more slowly than expected.  Succinate-CoA ligase deficiency causes breathing difficulties that often lead to recurrent infections of the respiratory tract. These infections can be life-threatening, and most people with succinate-CoA ligase deficiency live only into childhood or adolescence.  A few individuals with succinate-CoA ligase deficiency have had an even more severe form of the disorder known as fatal infantile lactic acidosis. Affected infants develop a toxic buildup of lactic acid in the body (lactic acidosis) in the first day of life, which leads to muscle weakness and breathing difficulties. Children with fatal infantile lactic acidosis usually live only a few days after birth.
+
+---
+
+Q: How many people are affected by succinate-CoA ligase deficiency ?
+A: Although the exact prevalence of succinate-CoA ligase deficiency is unknown, it appears to be very rare. This condition occurs more frequently among people from the Faroe Islands in the North Atlantic Ocean.
+
+---
+
+Q: What are the genetic changes related to succinate-CoA ligase deficiency ?
+A: Succinate-CoA ligase deficiency results from mutations in the SUCLA2 or SUCLG1 gene. SUCLG1 gene mutations can cause fatal infantile lactic acidosis, while mutations in either gene can cause the somewhat less severe form of the condition.  The SUCLA2 and SUCLG1 genes each provide instructions for making one part (subunit) of an enzyme called succinate-CoA ligase. This enzyme plays a critical role in mitochondria, which are structures within cells that convert the energy from food into a form that cells can use. Mitochondria each contain a small amount of DNA, known as mitochondrial DNA or mtDNA, which is essential for the normal function of these structures. Succinate-CoA ligase is involved in producing and maintaining the building blocks of mitochondrial DNA.  Mutations in either the SUCLA2 or SUCLG1 gene disrupt the normal function of succinate-CoA ligase. A shortage (deficiency) of this enzyme leads to problems with the production and maintenance of mitochondrial DNA. A reduction in the amount of mitochondrial DNA (known as mitochondrial DNA depletion) impairs mitochondrial function in many of the body's cells and tissues. These problems lead to hypotonia, muscle weakness, and the other characteristic features of succinate-CoA ligase deficiency.
+
+---
+
+Q: Is succinate-CoA ligase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for succinate-CoA ligase deficiency ?
+A: These resources address the diagnosis or management of succinate-CoA ligase deficiency:  - Gene Review: Gene Review: SUCLA2-Related Mitochondrial DNA Depletion Syndrome, Encephalomyopathic Form, with Mild Methylmalonic Aciduria  - Genetic Testing Registry: Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with or without methylmalonic aciduria)  - Genetic Testing Registry: Mitochondrial DNA depletion syndrome 9 (encephalomyopathic with methylmalonic aciduria)  - MedlinePlus Encyclopedia: Hypotonia  - MedlinePlus Encyclopedia: Lactic Acidosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

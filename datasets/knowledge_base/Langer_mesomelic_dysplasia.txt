@@ -1,0 +1,29 @@
+Topic: Langer mesomelic dysplasia
+
+Q: What are the symptoms of Langer mesomelic dysplasia ?
+A: What are the signs and symptoms of Langer mesomelic dysplasia? The Human Phenotype Ontology provides the following list of signs and symptoms for Langer mesomelic dysplasia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of epiphysis morphology 90% Abnormality of the femur 90% Abnormality of the fibula 90% Abnormality of the palate 90% Madelung deformity 90% Micromelia 90% Short stature 90% Ulnar deviation of finger 90% Autosomal recessive inheritance - Broad ulna - Hypoplasia of the radius - Hypoplasia of the ulna - Lumbar hyperlordosis - Mesomelia - Mesomelic short stature - Radial bowing - Rudimentary fibula - Short femoral neck - Shortening of the tibia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Langer mesomelic dysplasia ?
+A: Langer mesomelic dysplasia is a disorder of bone growth. Affected individuals typically have extreme shortening of the long bones in the arms and legs (mesomelia). As a result of the shortened leg bones, people with Langer mesomelic dysplasia have very short stature. A bone in the forearm called the ulna and a bone in the lower leg called the fibula are often underdeveloped or absent, while other bones in the forearm (the radius) and lower leg (the tibia) are unusually short, thick, and curved. Some people with Langer mesomelic dysplasia also have an abnormality of the wrist and forearm bones called Madelung deformity, which may cause pain and limit wrist movement. Additionally, some affected individuals have mild underdevelopment of the lower jaw bone (mandible).
+
+---
+
+Q: How many people are affected by Langer mesomelic dysplasia ?
+A: The prevalence of Langer mesomelic dysplasia is unknown, although the condition appears to be rare. Several dozen affected individuals have been reported in the scientific literature.
+
+---
+
+Q: What are the genetic changes related to Langer mesomelic dysplasia ?
+A: Langer mesomelic dysplasia results from changes involving the SHOX gene. The protein produced from this gene plays a role in bone development and is particularly important for the growth and maturation of bones in the arms and legs. The most common cause of Langer mesomelic dysplasia is a deletion of the entire SHOX gene. Other genetic changes that can cause the disorder include mutations in the SHOX gene or deletions of nearby genetic material that normally helps regulate the gene's activity. These changes greatly reduce or eliminate the amount of SHOX protein that is produced. A lack of this protein disrupts normal bone development and growth, which underlies the severe skeletal abnormalities associated with Langer mesomelic dysplasia.
+
+---
+
+Q: Is Langer mesomelic dysplasia inherited ?
+A: Langer mesomelic dysplasia has a pseudoautosomal recessive pattern of inheritance. The SHOX gene is located on both the X and Y chromosomes (sex chromosomes) in an area known as the pseudoautosomal region. Although many genes are unique to either the X or Y chromosome, genes in the pseudoautosomal region are present on both sex chromosomes. As a result, both females (who have two X chromosomes) and males (who have one X and one Y chromosome) normally have two functional copies of the SHOX gene in each cell. The inheritance pattern of Langer mesomelic dysplasia is described as recessive because both copies of the SHOX gene in each cell must be missing or altered to cause the disorder. In females, the condition results when the gene is missing or altered on both copies of the X chromosome; in males, it results when the gene is missing or altered on the X chromosome and the Y chromosome.  A related skeletal disorder called Lri-Weill dyschondrosteosis occurs when one copy of the SHOX gene is mutated in each cell. This disorder has signs and symptoms that are similar to, but typically less severe than, those of Langer mesomelic dysplasia.
+
+---
+
+Q: What are the treatments for Langer mesomelic dysplasia ?
+A: These resources address the diagnosis or management of Langer mesomelic dysplasia:  - Genetic Testing Registry: Langer mesomelic dysplasia syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

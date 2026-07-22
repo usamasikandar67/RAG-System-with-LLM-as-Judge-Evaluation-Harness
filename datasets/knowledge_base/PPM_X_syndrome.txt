@@ -1,0 +1,29 @@
+Topic: PPM-X syndrome
+
+Q: What are the symptoms of PPM-X syndrome ?
+A: What are the signs and symptoms of PPM-X syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for PPM-X syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Behavioral abnormality 90% Cognitive impairment 90% Hypertonia 90% Macroorchidism 90% EEG abnormality 50% Gait disturbance 50% Macrotia 50% Seizures 50% Abnormality of the cardiovascular system 7.5% Developmental regression 7.5% Scoliosis 7.5% Abnormality of the teeth - Ataxia - Babinski sign - Bruxism - Choreoathetosis - Delayed speech and language development - Drooling - Excessive salivation - Facial hypotonia - High palate - Hyperreflexia - Intellectual disability, mild - Microcephaly - Parkinsonism - Pes cavus - Psychosis - Short neck - Shuffling gait - Slow progression - Spastic gait - Tremor - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) PPM-X syndrome ?
+A: PPM-X syndrome is a condition characterized by psychotic disorders (most commonly bipolar disorder), a pattern of movement abnormalities known as parkinsonism, and mild to severe intellectual disability. Other symptoms include increased muscle tone and exaggerated reflexes. Affected males may have enlarged testes (macro-orchidism). Not all affected individuals have all these symptoms, but most have intellectual disability. Males with this condition are typically more severely affected than females, who usually have only mild intellectual disability.
+
+---
+
+Q: How many people are affected by PPM-X syndrome ?
+A: The prevalence of PPM-X syndrome is unknown.
+
+---
+
+Q: What are the genetic changes related to PPM-X syndrome ?
+A: Mutations in the MECP2 gene cause PPM-X syndrome. The MECP2 gene provides instructions for making a protein called MeCP2 that is critical for normal brain function. Researchers believe that this protein has several functions, including regulating other genes in the brain by switching them off when they are not needed. The MeCP2 protein likely plays a role in maintaining connections (synapses) between nerve cells. The MeCP2 protein may also control the production of different versions of certain proteins in nerve cells. Although mutations in the MECP2 gene disrupt the normal function of nerve cells, it is unclear how these mutations lead to the signs and symptoms of PPM-X syndrome.  Some MECP2 gene mutations that cause PPM-X syndrome disrupt attachment (binding) of the MeCP2 protein to DNA, and other mutations alter the 3-dimensional shape of the protein. These mutations lead to the production of a MeCP2 protein that cannot properly interact with DNA or other proteins and so cannot control the expression of genes. It is unclear how MECP2 gene mutations lead to the signs and symptoms of PPM-X syndrome, but misregulation of genes in the brain likely plays a role.
+
+---
+
+Q: Is PPM-X syndrome inherited ?
+A: More than 99 percent of PPM-X syndrome cases occur in people with no history of the disorder in their family. Many of these cases result from new mutations in the MECP2 gene.  A few families with more than one affected family member have been described. These cases helped researchers determine that PPM-X syndrome has an X-linked pattern of inheritance. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. One copy of the altered gene in each cell is sufficient to cause the condition, although females with one altered copy of the gene are usually less severely affected than males.
+
+---
+
+Q: What are the treatments for PPM-X syndrome ?
+A: These resources address the diagnosis or management of PPM-X syndrome:  - Cincinnati Children's Hospital: MECP2-Related Disorders  - Gene Review: Gene Review: MECP2-Related Disorders   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

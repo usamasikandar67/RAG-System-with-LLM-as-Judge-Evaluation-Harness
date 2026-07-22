@@ -1,0 +1,24 @@
+Topic: X-linked severe combined immunodeficiency
+
+Q: What is (are) X-linked severe combined immunodeficiency ?
+A: X-linked severe combined immunodeficiency (SCID) is an inherited disorder of the immune system that occurs almost exclusively in males. Boys with X-linked SCID are prone to recurrent and persistent infections because they lack the necessary immune cells to fight off certain bacteria, viruses, and fungi. Many infants with X-linked SCID develop chronic diarrhea, a fungal infection called thrush, and skin rashes. Affected individuals also grow more slowly than other children. Without treatment, males with X-linked SCID usually do not live beyond infancy.
+
+---
+
+Q: How many people are affected by X-linked severe combined immunodeficiency ?
+A: X-linked SCID is the most common form of severe combined immunodeficiency. Its exact incidence is unknown, but the condition probably affects at least 1 in 50,000 to 100,000 newborns.
+
+---
+
+Q: What are the genetic changes related to X-linked severe combined immunodeficiency ?
+A: Mutations in the IL2RG gene cause X-linked SCID. The IL2RG gene provides instructions for making a protein that is critical for normal immune system function. This protein is necessary for the growth and maturation of developing immune system cells called lymphocytes. Lymphocytes defend the body against potentially harmful invaders, make antibodies, and help regulate the entire immune system. Mutations in the IL2RG gene prevent these cells from developing and functioning normally. Without functional lymphocytes, the body is unable to fight off infections.
+
+---
+
+Q: Is X-linked severe combined immunodeficiency inherited ?
+A: This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+
+---
+
+Q: What are the treatments for X-linked severe combined immunodeficiency ?
+A: These resources address the diagnosis or management of X-linked SCID:  - Baby's First Test: Severe Combined Immunodeficiency  - Gene Review: Gene Review: X-Linked Severe Combined Immunodeficiency  - Genetic Testing Registry: X-linked severe combined immunodeficiency  - MedlinePlus Encyclopedia: Immunodeficiency Disorders  - National Marrow Donor Program: Severe Combined Immunodeficiency and Transplant   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

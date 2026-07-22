@@ -1,0 +1,24 @@
+Topic: Krabbe disease
+
+Q: What is (are) Krabbe disease ?
+A: Krabbe disease (also called globoid cell leukodystrophy) is a degenerative disorder that affects the nervous system. It is caused by the shortage (deficiency) of an enzyme called galactosylceramidase. This enzyme deficiency impairs the growth and maintenance of myelin, the protective covering around certain nerve cells that ensures the rapid transmission of nerve impulses. Krabbe disease is part of a group of disorders known as leukodystrophies, which result from the loss of myelin (demyelination). This disorder is also characterized by the abnormal presence of globoid cells, which are globe-shaped cells that usually have more than one nucleus.  The symptoms of Krabbe disease usually begin before the age of 1 year (the infantile form). Initial signs and symptoms typically include irritability, muscle weakness, feeding difficulties, episodes of fever without any sign of infection, stiff posture, and slowed mental and physical development. As the disease progresses, muscles continue to weaken, affecting the infant's ability to move, chew, swallow, and breathe. Affected infants also experience vision loss and seizures.  Less commonly, onset of Krabbe disease can occur in childhood, adolescence, or adulthood (late-onset forms). Visual problems and walking difficulties are the most common initial symptoms in this form of the disorder, however, signs and symptoms vary considerably among affected individuals.
+
+---
+
+Q: How many people are affected by Krabbe disease ?
+A: In the United States, Krabbe disease affects about 1 in 100,000 individuals. A higher incidence (6 cases per 1,000 people) has been reported in a few isolated communities in Israel.
+
+---
+
+Q: What are the genetic changes related to Krabbe disease ?
+A: Mutations in the GALC gene cause Krabbe disease. These mutations cause a deficiency of the enzyme galactosylceramidase. This deficiency leads to a progressive loss of myelin that covers many nerves. Without myelin, nerves in the brain and other parts of the body cannot function properly, leading to the signs and symptoms of Krabbe disease.
+
+---
+
+Q: Is Krabbe disease inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for Krabbe disease ?
+A: These resources address the diagnosis or management of Krabbe disease:  - Baby's First Test  - Gene Review: Gene Review: Krabbe Disease  - Genetic Testing Registry: Galactosylceramide beta-galactosidase deficiency  - MedlinePlus Encyclopedia: Krabbe disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

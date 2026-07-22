@@ -1,0 +1,24 @@
+Topic: Wagner syndrome
+
+Q: What is (are) Wagner syndrome ?
+A: Wagner syndrome is a hereditary disorder that causes progressive vision loss. The eye problems that lead to vision loss typically begin in childhood, although the vision impairment might not be immediately apparent.  In people with Wagner syndrome, the light-sensitive tissue that lines the back of the eye (the retina) becomes thin and may separate from the back of the eye (retinal detachment). The blood vessels within the retina (known as the choroid) may also be abnormal. The retina and the choroid progressively break down (degenerate). Some people with Wagner syndrome have blurred vision because of ectopic fovea, an abnormality in which the part of the retina responsible for sharp central vision is out of place. Additionally, the thick, clear gel that fills the eyeball (the vitreous) becomes watery and thin. People with Wagner syndrome develop a clouding of the lens of the eye (cataract). Affected individuals may also experience nearsightedness (myopia), progressive night blindness, or a narrowing of their field of vision.  Vision impairment in people with Wagner syndrome can vary from near normal vision to complete loss of vision in both eyes.
+
+---
+
+Q: How many people are affected by Wagner syndrome ?
+A: Wagner syndrome is a rare disorder, although its exact prevalence is unknown. Approximately 300 affected individuals have been described worldwide; about half of these individuals are from the Netherlands.
+
+---
+
+Q: What are the genetic changes related to Wagner syndrome ?
+A: Mutations in the VCAN gene cause Wagner syndrome. The VCAN gene provides instructions for making a protein called versican. Versican is found in the extracellular matrix, which is the intricate lattice of proteins and other molecules that forms in the spaces between cells. Versican interacts with many of these proteins and molecules to facilitate the assembly of the extracellular matrix and ensure its stability. Within the eye, versican interacts with other proteins to maintain the structure and gel-like consistency of the vitreous.  VCAN gene mutations that cause Wagner syndrome lead to insufficient levels of versican in the vitreous. Without enough versican to interact with the many proteins of the vitreous, the structure becomes unstable. This lack of stability in the vitreous affects other areas of the eye and contributes to the vision problems that occur in people with Wagner syndrome. It is unknown why VCAN gene mutations seem solely to affect vision.
+
+---
+
+Q: Is Wagner syndrome inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+
+---
+
+Q: What are the treatments for Wagner syndrome ?
+A: These resources address the diagnosis or management of Wagner syndrome:  - Gene Review: Gene Review: VCAN-Related Vitreoretinopathy  - Genetic Testing Registry: Wagner syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

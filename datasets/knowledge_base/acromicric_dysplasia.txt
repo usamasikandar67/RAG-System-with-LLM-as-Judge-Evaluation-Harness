@@ -1,0 +1,24 @@
+Topic: acromicric dysplasia
+
+Q: What is (are) acromicric dysplasia ?
+A: Acromicric dysplasia is a condition characterized by severely short stature, short limbs, stiff joints, and distinctive facial features.  Newborns with acromicric dysplasia are of normal size, but slow growth over time results in short stature. The average height of adults with this disorder is about 4 feet, 2 inches for women and 4 feet, 5 inches for men. The long bones of the arms and legs, and the bones in the hands and feet, are shorter than would be expected for the individual's height. Other skeletal features that occur in this disorder include slowed mineralization of bone (delayed bone age), abnormally shaped bones of the spine (vertebrae), and constrained movement of joints. Affected individuals often develop carpal tunnel syndrome, which is characterized by numbness, tingling, and weakness in the hands and fingers. A misalignment of the hip joints (hip dysplasia) can also occur in this disorder. These skeletal and joint problems may require treatment, but most affected individuals have few limitations in their activities.  Children with acromicric dysplasia may have a round face, sharply defined eyebrows, long eyelashes, a bulbous nose with upturned nostrils, a long space between the nose and upper lip (philtrum), and a small mouth with thick lips. These facial differences become less apparent in adulthood. Intelligence is unaffected in this disorder, and life expectancy is generally normal.
+
+---
+
+Q: How many people are affected by acromicric dysplasia ?
+A: Acromicric dysplasia is a rare disorder; its prevalence is unknown.
+
+---
+
+Q: What are the genetic changes related to acromicric dysplasia ?
+A: Acromicric dysplasia is caused by mutations in the FBN1 gene, which provides instructions for making a large protein called fibrillin-1. This protein is transported out of cells into the extracellular matrix, which is an intricate lattice of proteins and other molecules that forms in the spaces between cells. In this matrix, molecules of fibrillin-1 attach (bind) to each other and to other proteins to form threadlike filaments called microfibrils. The microfibrils become part of the fibers that provide strength and flexibility to connective tissues, which support the bones, skin, and other tissues and organs. Additionally, microfibrils store molecules called growth factors, including transforming growth factor beta (TGF-), and release them at various times to control the growth and repair of tissues and organs throughout the body.  Most of the FBN1 gene mutations that cause acromicric dysplasia change single protein building blocks in the fibrillin-1 protein. The mutations result in a reduction and disorganization of the microfibrils. Without enough normal microfibrils to store TGF-, the growth factor is abnormally active. These effects likely contribute to the physical abnormalities that occur in acromicric dysplasia, but the mechanisms are unclear.
+
+---
+
+Q: Is acromicric dysplasia inherited ?
+A: Acromicric dysplasia is an autosomal dominant condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from new mutations in the gene and occur in people with no history of the disorder in their family. In other cases, an affected person inherits the mutation from one affected parent.
+
+---
+
+Q: What are the treatments for acromicric dysplasia ?
+A: These resources address the diagnosis or management of acromicric dysplasia:  - Genetic Testing Registry: Acromicric dysplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

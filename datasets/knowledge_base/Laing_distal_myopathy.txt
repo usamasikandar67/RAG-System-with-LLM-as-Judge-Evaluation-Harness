@@ -1,0 +1,34 @@
+Topic: Laing distal myopathy
+
+Q: What is (are) Laing distal myopathy ?
+A: Laing distal myopathy is a slowly progressive muscle disorder that tends to begin in childhood.   Early symptoms include weakness in the feet and ankles, followed by weakness in the hands and wrists. Weakness in the feet leads to tightening of the Achilles tendon, an inability to lift the big toe, and a high-stepping walk.  Weakness in the hands makes it more difficult to lift the fingers, especially the third and fourth fingers. As the muscle weakness slowly progresses over the course of many years, other muscles of the body (e.g., neck, face, legs, hips, and shoulders) weaken. Most affected people remain mobile throughout life. Life expectancy is normal. Laing distal myopathy is caused by mutations in the MYH7 gene and is inherited in an autosomal dominant fashion.
+
+---
+
+Q: What are the symptoms of Laing distal myopathy ?
+A: What are the signs and symptoms of Laing distal myopathy? The Human Phenotype Ontology provides the following list of signs and symptoms for Laing distal myopathy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Dilated cardiomyopathy 7.5% Proximal muscle weakness 7.5% Amyotrophy of ankle musculature - Autosomal dominant inheritance - Childhood onset - Distal muscle weakness - Elevated serum creatine phosphokinase - EMG: neuropathic changes - Facial palsy - Gait disturbance - High palate - Infantile onset - Mildly elevated creatine phosphokinase - Myalgia - Neck muscle weakness - Pes cavus - Phenotypic variability - Ragged-red muscle fibers - Scoliosis - Slow progression - Toe extensor amyotrophy - Type 1 muscle fiber predominance - Weakness of long finger extensor muscles - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Laing distal myopathy ?
+A: Laing distal myopathy is a condition that affects skeletal muscles, which are muscles that the body uses for movement. This disorder causes progressive muscle weakness that appears in childhood. The first sign of Laing distal myopathy is usually weakness in certain muscles in the feet and ankles. This weakness leads to tightening of the Achilles tendon (the band that connects the heel of the foot to the calf muscles), an inability to lift the first (big) toe, and a high-stepping walk. Months to years later, muscle weakness develops in the hands and wrists. Weakness in these muscles makes it difficult to lift the fingers, particularly the third and fourth fingers. Many affected people also experience hand tremors.  In addition to muscle weakness in the hands and feet, Laing distal myopathy causes weakness in several muscles of the neck and face. A decade or more after the onset of symptoms, mild weakness also spreads to muscles in the legs, hips, and shoulders. Laing distal myopathy progresses very gradually, and most affected people remain mobile throughout life. Life expectancy is normal in people with this condition.
+
+---
+
+Q: How many people are affected by Laing distal myopathy ?
+A: Although Laing distal myopathy is thought to be rare, its prevalence is unknown. Several families with the condition have been identified worldwide.
+
+---
+
+Q: What are the genetic changes related to Laing distal myopathy ?
+A: Mutations in the MYH7 gene cause Laing distal myopathy. The MYH7 gene provides instructions for making a protein that is found in heart (cardiac) muscle and in type I skeletal muscle fibers. Type I fibers, which are also known as slow-twitch fibers, are one of two types of fibers that make up skeletal muscles. Type I fibers are the primary component of skeletal muscles that are resistant to fatigue. For example, muscles involved in posture, such as the neck muscles that hold the head steady, are made predominantly of type I fibers.  In cardiac and skeletal muscle cells, the protein produced from the MYH7 gene forms part of a larger protein called type II myosin. This type of myosin generates the mechanical force that is needed for muscles to contract. In the heart, regular contractions of cardiac muscle pump blood to the rest of the body. The coordinated contraction and relaxation of skeletal muscles allow the body to move.  It is unknown how mutations in the MYH7 gene cause progressive muscle weakness in people with Laing distal myopathy. Researchers have proposed that these mutations alter the structure of myosin in skeletal muscles, which prevents it from interacting with other proteins. The abnormal myosin gradually impairs the function of type I skeletal muscle fibers.  In most people with Laing distal myopathy, the signs and symptoms of the disorder are limited to weakness of skeletal muscles. Although myosin made with the MYH7 protein is also found in cardiac muscle, it is unclear why heart problems are not a typical feature of this condition.
+
+---
+
+Q: Is Laing distal myopathy inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. A small percentage of cases result from new mutations in the gene. These cases occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for Laing distal myopathy ?
+A: These resources address the diagnosis or management of Laing distal myopathy:  - Gene Review: Gene Review: Laing Distal Myopathy  - Genetic Testing Registry: Myopathy, distal, 1   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

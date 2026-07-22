@@ -1,0 +1,302 @@
+{
+  "cancer_doc_0.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "79bb99e7d094512d364320ee6a3be82d52708e33d77af09c2a784a6b559adf14",
+    "char_length": 3200
+  },
+  "cancer_doc_1.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "e57a6e0d223f547a47ad77d8d7907f4f4ad6f96ae17a3d34391c255c51691dfa",
+    "char_length": 1504
+  },
+  "cancer_doc_2.txt": {
+    "topic": "cancer",
+    "split": "test",
+    "hash": "26dca7d775a4797b8d6a2d1ba0a6d7e4a94965ae0ec17fb2fbd761da119d597e",
+    "char_length": 727
+  },
+  "cancer_doc_3.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "da3e7f6b6796b6ac12effb2ae929e5561d53881a046c5d31686847046f35a30e",
+    "char_length": 3928
+  },
+  "cancer_doc_4.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "24dba2721133252464b6315879516aae84b160eca137a29b2bcc37b995954994",
+    "char_length": 608
+  },
+  "cancer_doc_5.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "d0ff2faa0cfbcbfd213db82ae7e1460f09fa078841689ecfd2cf1501bcb64d69",
+    "char_length": 14629
+  },
+  "cancer_doc_6.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "45f1e448257b5f28bb3711a25a36aa996f3ca51c22c5837bb242bbbf18e39357",
+    "char_length": 21984
+  },
+  "cancer_doc_7.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "eba638b0f00c606a129b6f49b3f7c604d1ed9603ed6664d865211418ec640a19",
+    "char_length": 2315
+  },
+  "cancer_doc_8.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "7cee02fb63a5bb9f0332d7cde5e67568dae8b98fcc88860bb2d3f2b663b997b6",
+    "char_length": 1258
+  },
+  "cancer_doc_9.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "09562706eac0e1a9a6fff63d3876f9bf0d805f1fe0b9cf14597c11015ca2a347",
+    "char_length": 639
+  },
+  "cancer_doc_10.txt": {
+    "topic": "cancer",
+    "split": "test",
+    "hash": "f78ad024ee360650c8da3aa1323839a7346a377aef0c6d8b366c7f38cb3b159a",
+    "char_length": 420
+  },
+  "cancer_doc_11.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "8d4fec72260deb2ef5cd4611028707e57a250b86cb6a77d1a1908e770526d316",
+    "char_length": 2502
+  },
+  "cancer_doc_12.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "d38f8c9e6f8a48d574f20029e6175a626b2ddeae7417338aec5f7378e0a49d35",
+    "char_length": 342
+  },
+  "cancer_doc_13.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "9effdacdc9e2624c0ce48290a24503d803586ae0ad860e187cdafbba09f0a7e6",
+    "char_length": 7349
+  },
+  "cancer_doc_14.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "2c2919cc2dc269414e3fd7ef6a44fce43b3d21737484bb3265b5f71756b57574",
+    "char_length": 8523
+  },
+  "cancer_doc_15.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "c0b73f8ecc718349a28126db4fa2813c1ca786d717824e20abb14b3798b53ddc",
+    "char_length": 1538
+  },
+  "cancer_doc_16.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "05e46d5d37e6565f1ea2ad3e2ca37e252a15f8ef5ba64e9c5dbb495ef3813c57",
+    "char_length": 1842
+  },
+  "cancer_doc_17.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "43c8e7b4c2d1b8abce86d98a8f64b0e743397f9cd090442ebeef8e8dba650025",
+    "char_length": 496
+  },
+  "cancer_doc_18.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "32f9aa165f036e093078931cca9e5334bc9897acbcb92c88ee0bebae39d31deb",
+    "char_length": 514
+  },
+  "cancer_doc_19.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "6d965e1e85aabbd8842711295c0bc73ce8a294b9ca502a76da2d03b1c0f7a5ae",
+    "char_length": 2787
+  },
+  "cancer_doc_20.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "64df176adbe785929d6b6f02de03d55306233bf67a36255d85af7cbc22fefee4",
+    "char_length": 508
+  },
+  "cancer_doc_21.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "a2e8a4dcc02f9f5b16ccb11ef395a8cc38d537f7287ec51ca9ed742b42d20b7e",
+    "char_length": 3842
+  },
+  "cancer_doc_22.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "dc5263a2aaf77de6eca0b757acb78126381ae88b808b6926afe83214b6a18cc3",
+    "char_length": 8639
+  },
+  "cancer_doc_23.txt": {
+    "topic": "cancer",
+    "split": "test",
+    "hash": "9fbf32fee01a3d4ada0e6452eadad8773ba628d63fedddcfe51ebab14f9540b1",
+    "char_length": 2227
+  },
+  "cancer_doc_24.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "d2d899ef2be6fbe4195afdf3c0b5509db716d3a6c1e6da5977ed8d891697f2c3",
+    "char_length": 1620
+  },
+  "cancer_doc_25.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "7b8adabec9d06a1b78bb86858a27f3a3b66bb3987982c0325f473cddbaaf9d2e",
+    "char_length": 8479
+  },
+  "cancer_doc_26.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "07cdb4262cb2e4ac05569e911fa900745cda5fae694d7cc69a4ed7984a94a463",
+    "char_length": 5787
+  },
+  "cancer_doc_27.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "6705143bb7761f00bdb77fa3364eeb29ce01779b4dc6aadedc461ed274be3435",
+    "char_length": 1233
+  },
+  "cancer_doc_28.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "16e844a3c0d65adeb7987d896738b1cd6751f3332093bfe632bbf00eb1c12ead",
+    "char_length": 2934
+  },
+  "cancer_doc_29.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "821c4767f36cfa5a877368b66ab118dc997b0a243b5d1816fa932d7de373a099",
+    "char_length": 1721
+  },
+  "cancer_doc_30.txt": {
+    "topic": "cancer",
+    "split": "test",
+    "hash": "ae345160eefa651c656ad77cac3886778f4f76ec586e1937a1dbab37a9c95fc6",
+    "char_length": 470
+  },
+  "cancer_doc_31.txt": {
+    "topic": "cancer",
+    "split": "test",
+    "hash": "dfee04e4f85dbf7a6d8feed4d37847ed04fce13a5a0476a0729f2ab526aaa638",
+    "char_length": 2187
+  },
+  "cancer_doc_32.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "5ae876de47f1a623b63ddad46e82408ed9ceb8b5f779d79075f491d1cec45438",
+    "char_length": 501
+  },
+  "cancer_doc_33.txt": {
+    "topic": "cancer",
+    "split": "test",
+    "hash": "3d799e06c461f0356eb87fb2dad1ceb759e8fefac28e3770d66c6b1fd4918018",
+    "char_length": 6826
+  },
+  "cancer_doc_34.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "153704c7eaf74882009ddb6af36ae67f7bd5e443910d8fc3485a5267f4f4aa71",
+    "char_length": 11654
+  },
+  "cancer_doc_35.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "c0b73f8ecc718349a28126db4fa2813c1ca786d717824e20abb14b3798b53ddc",
+    "char_length": 1538
+  },
+  "cancer_doc_36.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "80959d8173f235a70ecd1885072ab25573eb778388184207f57ed4482da277ab",
+    "char_length": 2556
+  },
+  "cancer_doc_37.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "081da921d46a8faeada15a04596a40da1bb7fd2c50bf13d1ea15dd1fdaa128a8",
+    "char_length": 1500
+  },
+  "cancer_doc_38.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "06cb331664620096ca8543f3b73c433b21f9244e1d76c7bc407caeb4e43e8cec",
+    "char_length": 628
+  },
+  "cancer_doc_39.txt": {
+    "topic": "cancer",
+    "split": "test",
+    "hash": "e4b43748ff072ac7a36888720c813ece54f4a1564a714641d00537feb3b061db",
+    "char_length": 4459
+  },
+  "cancer_doc_40.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "2097503cbe2df06f0d4df1fa004231ad2a928fb2020c8f4327739479a5e5b753",
+    "char_length": 4392
+  },
+  "cancer_doc_41.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "f1a9e9401acf23794f35a6c6e5671ca5e75a3f7359ee6560a9f023e54816346f",
+    "char_length": 8391
+  },
+  "cancer_doc_42.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "c0b73f8ecc718349a28126db4fa2813c1ca786d717824e20abb14b3798b53ddc",
+    "char_length": 1538
+  },
+  "cancer_doc_43.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "9e4d30f2fe7c325c287dcd0958fe0e05e3db349e88aaf84fd7310ce74210c60a",
+    "char_length": 6241
+  },
+  "cancer_doc_44.txt": {
+    "topic": "cancer",
+    "split": "test",
+    "hash": "202355c41a5afe4bb911687422cf57b87f55b73f84ee36779e97345aa248bebe",
+    "char_length": 625
+  },
+  "cancer_doc_45.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "0afc293d67b7ba3d145b95573ad0ae9508a941cfb70f44887ad13c0f2e32fb47",
+    "char_length": 3961
+  },
+  "cancer_doc_46.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "474449767cbbb6f1f383c1f6f60540c0e340cc0f62654f8c30fec7243def4f20",
+    "char_length": 776
+  },
+  "cancer_doc_47.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "69acac4ca5c1d466b934b089ed8e4e56517c106ef16e3ec326874c44721400bd",
+    "char_length": 2903
+  },
+  "cancer_doc_48.txt": {
+    "topic": "cancer",
+    "split": "train",
+    "hash": "b639df3a9c89a0ef8774c064ef249da821dd644c6f47aa9a8347c05bc33d706e",
+    "char_length": 15107
+  },
+  "cancer_doc_49.txt": {
+    "topic": "cancer",
+    "split": "test",
+    "hash": "9fd009223b8621122876dccdd159023169d3182a60e9a25c7ca3b04efbdf6098",
+    "char_length": 3797
+  }
+}

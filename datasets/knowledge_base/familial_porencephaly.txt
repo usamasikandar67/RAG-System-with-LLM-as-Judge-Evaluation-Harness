@@ -1,0 +1,24 @@
+Topic: familial porencephaly
+
+Q: What is (are) familial porencephaly ?
+A: Familial porencephaly is part of a group of conditions called the COL4A1-related disorders. The conditions in this group have a range of signs and symptoms that involve fragile blood vessels. In familial porencephaly, fluid-filled cysts develop in the brain (porencephaly) during fetal development or soon after birth. These cysts typically occur in only one side of the brain and vary in size. The cysts are thought to be the result of bleeding within the brain (hemorrhagic stroke). People with this condition also have leukoencephalopathy, which is a change in a type of brain tissue called white matter that can be seen with magnetic resonance imaging (MRI).  During infancy, people with familial porencephaly typically have paralysis affecting one side of the body (infantile hemiplegia). Affected individuals may also have recurrent seizures (epilepsy), migraine headaches, speech problems, intellectual disability, and uncontrolled muscle tensing (dystonia). Some people are severely affected, and others may have no symptoms related to the brain cysts.
+
+---
+
+Q: How many people are affected by familial porencephaly ?
+A: Familial porencephaly is a rare condition, although the exact prevalence is unknown. At least eight affected families have been described in the scientific literature.
+
+---
+
+Q: What are the genetic changes related to familial porencephaly ?
+A: Mutations in the COL4A1 gene cause familial porencephaly. The COL4A1 gene provides instructions for making one component of a protein called type IV collagen. Type IV collagen molecules attach to each other to form complex protein networks. These protein networks are the main components of basement membranes, which are thin sheet-like structures that separate and support cells in many tissues. Type IV collagen networks play an important role in the basement membranes in virtually all tissues throughout the body, particularly the basement membranes surrounding the body's blood vessels (vasculature).  The COL4A1 gene mutations that cause familial porencephaly result in the production of a protein that disrupts the structure of type IV collagen. As a result, type IV collagen molecules cannot attach to each other to form the protein networks in basement membranes. Basement membranes without normal type IV collagen are unstable, leading to weakening of the tissues that they surround. In people with familial porencephaly, the vasculature in the brain weakens, which can lead to blood vessel breakage and hemorrhagic stroke. Bleeding within the brain is followed by the formation of fluid-filled cysts characteristic of this condition. It is thought that the pressure and stress on the head during birth contributes to vessel breakage in people with this condition; however in some individuals, bleeding in the brain can occur before birth.
+
+---
+
+Q: Is familial porencephaly inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+
+---
+
+Q: What are the treatments for familial porencephaly ?
+A: These resources address the diagnosis or management of familial porencephaly:  - Gene Review: Gene Review: COL4A1-Related Disorders  - Genetic Testing Registry: Familial porencephaly   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

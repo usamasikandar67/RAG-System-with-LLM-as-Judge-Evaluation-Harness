@@ -1,0 +1,24 @@
+Topic: hypermethioninemia
+
+Q: What is (are) hypermethioninemia ?
+A: Hypermethioninemia is an excess of a particular protein building block (amino acid), called methionine, in the blood. This condition can occur when methionine is not broken down (metabolized) properly in the body.  People with hypermethioninemia often do not show any symptoms. Some individuals with hypermethioninemia exhibit intellectual disability and other neurological problems; delays in motor skills such as standing or walking; sluggishness; muscle weakness; liver problems; unusual facial features; and their breath, sweat, or urine may have a smell resembling boiled cabbage.  Hypermethioninemia can occur with other metabolic disorders, such as homocystinuria, tyrosinemia and galactosemia, which also involve the faulty breakdown of particular molecules. It can also result from liver disease or excessive dietary intake of methionine from consuming large amounts of protein or a methionine-enriched infant formula.
+
+---
+
+Q: How many people are affected by hypermethioninemia ?
+A: Primary hypermethioninemia that is not caused by other disorders or excess methionine intake appears to be rare; only a small number of cases have been reported. The actual incidence is difficult to determine, however, since many individuals with hypermethioninemia have no symptoms.
+
+---
+
+Q: What are the genetic changes related to hypermethioninemia ?
+A: Mutations in the AHCY, GNMT, and MAT1A genes cause hypermethioninemia.  Inherited hypermethioninemia that is not associated with other metabolic disorders can be caused by shortages (deficiencies) in the enzymes that break down methionine. These enzymes are produced from the MAT1A, GNMT and AHCY genes. The reactions involved in metabolizing methionine help supply some of the amino acids needed for protein production. These reactions are also involved in transferring methyl groups, consisting of a carbon atom and three hydrogen atoms, from one molecule to another (transmethylation), which is important in many cellular processes.  The MAT1A gene provides instructions for producing the enzyme methionine adenosyltransferase. This enzyme converts methionine into a compound called S-adenosylmethionine, also known as AdoMet or SAMe. The GNMT gene provides instructions for making the enzyme glycine N-methyltransferase. This enzyme starts the next step in the process, converting AdoMet to a compound called S-adenosyl homocysteine, or AdoHcy. The AHCY gene provides instructions for producing the enzyme S-adenosylhomocysteine hydrolase. This enzyme converts the AdoHcy into the compound homocysteine. Homocysteine may be converted back to methionine or into another amino acid, cysteine.  A deficiency of any of these enzymes results in a buildup of methionine in the body, and may cause signs and symptoms related to hypermethioninemia.
+
+---
+
+Q: Is hypermethioninemia inherited ?
+A: Hypermethioninemia can have different inheritance patterns. This condition is usually inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.  Hypermethioninemia is occasionally inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In these cases, an affected person usually has one parent with the condition.
+
+---
+
+Q: What are the treatments for hypermethioninemia ?
+A: These resources address the diagnosis or management of hypermethioninemia:  - Baby's First Test  - Genetic Testing Registry: Glycine N-methyltransferase deficiency  - Genetic Testing Registry: Hepatic methionine adenosyltransferase deficiency  - Genetic Testing Registry: Hypermethioninemia with s-adenosylhomocysteine hydrolase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

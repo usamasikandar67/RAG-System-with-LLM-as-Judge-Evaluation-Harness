@@ -1,0 +1,24 @@
+Topic: COL4A1-related brain small-vessel disease
+
+Q: What is (are) COL4A1-related brain small-vessel disease ?
+A: COL4A1-related brain small-vessel disease is part of a group of conditions called the COL4A1-related disorders. The conditions in this group have a range of signs and symptoms that involve fragile blood vessels. COL4A1-related brain small-vessel disease is characterized by weakening of the blood vessels in the brain. Stroke is often the first symptom of this condition, typically occurring in mid-adulthood. In affected individuals, stroke is usually caused by bleeding in the brain (hemorrhagic stroke) rather than a lack of blood flow in the brain (ischemic stroke), although either type can occur. Individuals with this condition are at increased risk of having more than one stroke in their lifetime. People with COL4A1-related brain small vessel disease also have leukoencephalopathy, which is a change in a type of brain tissue called white matter that can be seen with magnetic resonance imaging (MRI). Affected individuals may also experience seizures and migraine headaches accompanied by visual sensations known as auras.  Some people with COL4A1-related brain small-vessel disease have an eye abnormality called Axenfeld-Rieger anomaly. Axenfeld-Rieger anomaly involves underdevelopment and eventual tearing of the colored part of the eye (iris) and a pupil that is not in the center of the eye. Other eye problems experienced by people with COL4A1-related brain small-vessel disease include clouding of the lens of the eye (cataract) and the presence of arteries that twist and turn abnormally within the light-sensitive tissue at the back of the eye (arterial retinal tortuosity). Axenfeld-Rieger anomaly and cataract can cause impaired vision. Arterial retinal tortuosity can cause episodes of bleeding within the eye following any minor trauma to the eye, leading to temporary vision loss.  The severity of the condition varies greatly among affected individuals. Some individuals with COL4A1-related brain small-vessel disease do not have any signs or symptoms of the condition.
+
+---
+
+Q: How many people are affected by COL4A1-related brain small-vessel disease ?
+A: COL4A1-related brain small-vessel disease is a rare condition, although the exact prevalence is unknown. At least 50 individuals with this condition have been described in the scientific literature.
+
+---
+
+Q: What are the genetic changes related to COL4A1-related brain small-vessel disease ?
+A: As the name suggests, mutations in the COL4A1 gene cause COL4A1-related brain small vessel disease. The COL4A1 gene provides instructions for making one component of a protein called type IV collagen. Type IV collagen molecules attach to each other to form complex protein networks. These protein networks are the main components of basement membranes, which are thin sheet-like structures that separate and support cells in many tissues. Type IV collagen networks play an important role in the basement membranes in virtually all tissues throughout the body, particularly the basement membranes surrounding the body's blood vessels (vasculature).  The COL4A1 gene mutations that cause COL4A1-related brain small-vessel disease result in the production of a protein that disrupts the structure of type IV collagen. As a result, type IV collagen molecules cannot attach to each other to form the protein networks in basement membranes. Basement membranes without these networks are unstable, leading to weakening of the tissues that they surround. In people with COL4A1-related brain small-vessel disease, the vasculature in the brain weakens, which can lead to blood vessel breakage and stroke. Similar blood vessel weakness and breakage occurs in the eyes of some affected individuals.
+
+---
+
+Q: Is COL4A1-related brain small-vessel disease inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition. Rarely, new mutations in the gene occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for COL4A1-related brain small-vessel disease ?
+A: These resources address the diagnosis or management of COL4A1-related brain small-vessel disease:  - Gene Review: Gene Review: COL4A1-Related Disorders  - Genetic Testing Registry: Brain small vessel disease with hemorrhage   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,24 @@
+Topic: hypermanganesemia with dystonia, polycythemia, and cirrhosis
+
+Q: What is (are) hypermanganesemia with dystonia, polycythemia, and cirrhosis ?
+A: Hypermanganesemia with dystonia, polycythemia, and cirrhosis (HMDPC) is an inherited disorder in which excessive amounts of the element manganese accumulate in the body, particularly in the brain, liver, and blood (hypermanganesemia). Signs and symptoms of this condition can appear in childhood (early-onset), typically between ages 2 and 15, or in adulthood (adult-onset).  Manganese accumulates in a region of the brain responsible for the coordination of movement, causing neurological problems that make controlling movement difficult. Most children with the early-onset form of HMDPC experience involuntary tensing of the muscles in the arms and legs (four-limb dystonia), which often leads to a characteristic high-stepping walk described as a "cock-walk gait." Other neurological symptoms in affected children include involuntary trembling (tremor), unusually slow movement (bradykinesia), and slurred speech (dysarthria). The adult-onset form of HMDPC is characterized by a pattern of movement abnormalities known as parkinsonism, which includes bradykinesia, tremor, muscle rigidity, and an inability to hold the body upright and balanced (postural instability).  Affected individuals have an increased number of red blood cells (polycythemia) and low levels of iron stored in the body. Additional features of HMDPC can include an enlarged liver (hepatomegaly), scarring (fibrosis) in the liver, and irreversible liver disease (cirrhosis).
+
+---
+
+Q: How many people are affected by hypermanganesemia with dystonia, polycythemia, and cirrhosis ?
+A: The prevalence of HMDPC is unknown. A small number of cases have been described in the scientific literature.
+
+---
+
+Q: What are the genetic changes related to hypermanganesemia with dystonia, polycythemia, and cirrhosis ?
+A: Mutations in the SLC30A10 gene cause HMDPC. This gene provides instructions for making a protein that transports manganese across cell membranes. Manganese is important for many cellular functions, but large amounts are toxic, particularly to brain and liver cells. The SLC30A10 protein is found in the membranes surrounding liver cells and nerve cells in the brain, as well as in the membranes of structures within these cells. The protein protects these cells from high concentrations of manganese by removing manganese when levels become elevated.  Mutations in the SLC30A10 gene impair the transport of manganese out of cells, allowing the element to build up in the brain and liver. Manganese accumulation in the brain leads to the movement problems characteristic of HMDPC. Damage from manganese buildup in the liver leads to liver abnormalities in people with this condition. High levels of manganese help increase the production of red blood cells, so excess amounts of this element also result in polycythemia.
+
+---
+
+Q: Is hypermanganesemia with dystonia, polycythemia, and cirrhosis inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for hypermanganesemia with dystonia, polycythemia, and cirrhosis ?
+A: These resources address the diagnosis or management of HMDPC:  - Gene Review: Gene Review: Dystonia/Parkinsonism, Hypermanganesemia, Polycythemia, and Chronic Liver Disease  - Genetic Testing Registry: Hypermanganesemia with dystonia, polycythemia and cirrhosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,34 @@
+Topic: ADCY5-related dyskinesia
+
+Q: What is (are) ADCY5-related dyskinesia ?
+A: ADCY5-related dyskinesia is a movement disorder that is characterized by several different types of involuntary movements. Affected people generally develop sudden jerks, twitches, tremors, muscle tensing, and/or writhing movements between infancy and late adolescence. The arms, legs, neck and face are most commonly involved. Hypotonia and delayed motor milestones (i.e. crawling, walking) may also be present in more severely affected infants. As the name suggests, ADCY5-related dyskinesia is caused by changes (mutations) in the ADCY5 gene. It is inherited in an autosomal dominant manner. Treatment is based on the signs and symptoms present in each person and may include medications, physical therapy, and occupational therapy.
+
+---
+
+Q: What are the symptoms of ADCY5-related dyskinesia ?
+A: What are the signs and symptoms of ADCY5-related dyskinesia ? The Human Phenotype Ontology provides the following list of signs and symptoms for ADCY5-related dyskinesia . If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Congestive heart failure 5% Dilated cardiomyopathy 5% Hyperreflexia 5% Motor delay 5% Muscular hypotonia of the trunk 5% Resting tremor 5% Anxiety - Autosomal dominant inheritance - Chorea - Dysarthria - Dyskinesia - Dystonia - Facial myokymia - Juvenile onset - Limb hypertonia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) ADCY5-related dyskinesia ?
+A: ADCY5-related dyskinesia is a movement disorder; the term "dyskinesia" refers to abnormal involuntary movements. The abnormal movements that occur in ADCY5-related dyskinesia typically appear as sudden (paroxysmal) jerks, twitches, tremors, muscle tensing (dystonia), or writhing (choreiform) movements, and can affect the limbs, neck, and face.  The abnormal movements associated with ADCY5-related dyskinesia usually begin between infancy and late adolescence. They can occur continually during waking hours and in some cases also during sleep. Severely affected infants may experience weak muscle tone (hypotonia) and delay in development of motor skills such as crawling and walking; these individuals may have difficulties with activities of daily living and may eventually require a wheelchair. In more mildly affected individuals, the condition has little impact on walking and other motor skills, although the abnormal movements can lead to clumsiness or difficulty with social acceptance in school or other situations.  In some people with ADCY5-related dyskinesia, the disorder is generally stable throughout their lifetime. In others, it slowly gets worse (progresses) in both frequency and severity before stabilizing or even improving in middle age. Anxiety, fatigue, and other stress can temporarily increase the severity of the signs and symptoms of ADCY5-related dyskinesia, while some affected individuals may experience remission periods of days or weeks without abnormal movements. Life expectancy and intelligence are unaffected by this disorder.
+
+---
+
+Q: How many people are affected by ADCY5-related dyskinesia ?
+A: The prevalence of ADCY5-related dyskinesia is unknown. At least 50 affected individuals have been described in the medical literature.
+
+---
+
+Q: What are the genetic changes related to ADCY5-related dyskinesia ?
+A: As its name suggests, ADCY5-related dyskinesia is caused by mutations in the ADCY5 gene. This gene provides instructions for making an enzyme called adenylate cyclase 5. This enzyme helps convert a molecule called adenosine triphosphate (ATP) to another molecule called cyclic adenosine monophosphate (cAMP). ATP is a molecule that supplies energy for cells' activities, including muscle contraction, and cAMP is involved in signaling for many cellular functions. Some ADCY5 gene mutations that cause ADCY5-related dyskinesia are thought to increase adenylate cyclase 5 enzyme activity and the level of cAMP within cells. Others prevent production of adenylate cyclase 5. It is unclear how either type of mutation leads to the abnormal movements that occur in this disorder.
+
+---
+
+Q: Is ADCY5-related dyskinesia inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for ADCY5-related dyskinesia ?
+A: These resources address the diagnosis or management of ADCY5-related dyskinesia:  - Gene Review: Gene Review: ADCY5-Related Dyskinesia  - Genetic Testing Registry: Dyskinesia, familial, with facial myokymia  - National Ataxia Foundation: Movement Disorder Clinics   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

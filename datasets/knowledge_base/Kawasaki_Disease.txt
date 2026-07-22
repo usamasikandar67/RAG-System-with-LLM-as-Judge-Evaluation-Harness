@@ -1,0 +1,24 @@
+Topic: Kawasaki disease
+
+Q: What is (are) Kawasaki disease ?
+A: Kawasaki disease is a sudden and time-limited (acute) illness that affects infants and young children. Affected children develop a prolonged fever lasting several days, a skin rash, and swollen lymph nodes in the neck (cervical lymphadenopathy). They also develop redness in the whites of the eyes (conjunctivitis) and redness (erythema) of the lips, lining of the mouth (oral mucosa), tongue, palms of the hands, and soles of the feet.  Without treatment, 15 to 25 percent of individuals with Kawasaki disease develop bulging and thinning of the walls of the arteries that supply blood to the heart muscle (coronary artery aneurysms) or other damage to the coronary arteries, which can be life-threatening.
+
+---
+
+Q: How many people are affected by Kawasaki disease ?
+A: In the United States and other Western countries, Kawasaki disease occurs in approximately 1 in 10,000 children under 5 each year. The condition is 10 to 20 times more common in East Asia, including Japan, Korea, and Taiwan.
+
+---
+
+Q: What are the genetic changes related to Kawasaki disease ?
+A: The causes of Kawasaki disease are not well understood. The disorder is generally regarded as being the result of an abnormal immune system activation, but the triggers of this abnormal response are unknown. Because cases of the disorder tend to cluster geographically and by season, researchers have suggested that an infection may be involved. However, no infectious agent (such as a virus or bacteria) has been identified.  A variation in the ITPKC gene has been associated with an increased risk of Kawasaki disease. The ITPKC gene provides instructions for making an enzyme called inositol 1,4,5-trisphosphate 3-kinase C. This enzyme helps limit the activity of immune system cells called T cells. T cells identify foreign substances and defend the body against infection. Reducing the activity of T cells when appropriate prevents the overproduction of immune proteins called cytokines that lead to inflammation and which, in excess, cause tissue damage. Researchers suggest that the ITPKC gene variation may interfere with the body's ability to reduce T cell activity, leading to inflammation that damages blood vessels and results in the signs and symptoms of Kawasaki disease.  It appears likely that other factors, including changes in other genes, also influence the development of this complex disorder.
+
+---
+
+Q: Is Kawasaki disease inherited ?
+A: A predisposition to Kawasaki disease appears to be passed through generations in families, but the inheritance pattern is unknown. Children of parents who have had Kawasaki disease have twice the risk of developing the disorder compared to the general population. Children with affected siblings have a tenfold higher risk.
+
+---
+
+Q: What are the treatments for Kawasaki disease ?
+A: These resources address the diagnosis or management of Kawasaki disease:  - Cincinnati Children's Hospital Medical Center  - Genetic Testing Registry: Acute febrile mucocutaneous lymph node syndrome  - National Heart, Lung, and Blood Institute: How is Kawasaki Disease Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

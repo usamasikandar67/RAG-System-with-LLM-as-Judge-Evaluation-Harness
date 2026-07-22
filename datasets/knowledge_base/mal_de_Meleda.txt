@@ -1,0 +1,24 @@
+Topic: mal de Meleda
+
+Q: What is (are) mal de Meleda ?
+A: Mal de Meleda is a rare skin disorder that begins in early infancy. Affected individuals have a condition known as palmoplantar keratoderma, in which the skin of the palms of the hands and soles of the feet becomes thick, hard, and callused. In mal de Meleda, the thickened skin is also found on the back of the hands and feet and on the wrists and ankles. In addition, affected individuals may have rough, thick pads on the joints of the fingers and toes and on the elbows and knees. Some people with mal de Meleda have recurrent fungal infections in the thickened skin, which can lead to a strong odor. Other features of this disorder can include short fingers and toes (brachydactyly), nail abnormalities, red skin around the mouth, and excessive sweating (hyperhidrosis).
+
+---
+
+Q: How many people are affected by mal de Meleda ?
+A: Mal de Meleda is a rare disorder; its prevalence is unknown. The disorder was first identified on the Croatian island of Mjlet (called Meleda in Italian) and has since been found in populations worldwide.
+
+---
+
+Q: What are the genetic changes related to mal de Meleda ?
+A: Mal de Meleda is caused by mutations in the SLURP1 gene. This gene provides instructions for making a protein that interacts with other proteins, called receptors, and is likely involved in signaling within cells. Studies show that the SLURP-1 protein can attach (bind) to nicotinic acetylcholine receptors (nAChRs) in the skin. Through interaction with these receptors, the SLURP-1 protein is thought to be involved in controlling the growth and division (proliferation), maturation (differentiation), and survival of skin cells.  Mutations in the SLURP1 gene lead to little or no SLURP-1 protein in the body. It is unclear how a lack of this protein leads to the skin problems that occur in mal de Meleda. Researchers speculate that without SLURP-1, the activity of genes controlled by nAChR signaling is altered, leading to overgrowth of skin cells or survival of cells that normally would have died. The excess of cells can result in skin thickening. It is unclear why skin on the hands and feet is particularly affected.
+
+---
+
+Q: Is mal de Meleda inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for mal de Meleda ?
+A: These resources address the diagnosis or management of mal de Meleda:  - Foundation for Ichthyosis and Related Skin Types: Palmoplantar Keratodermas  - Genetic Testing Registry: Acroerythrokeratoderma   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,9 @@
+Topic: Hypoaldosteronism
+
+Q: What is (are) Hypoaldosteronism ?
+A: Hypoaldosteronism is a condition characterized by the shortage (deficiency) or impaired function of a hormone called aldosterone. Hypoaldosteronism may be described as hyporeninemic or hyperreninemic depending on renin levels. Hyporeninemic hypoaldosteronism occurs when there is decreased production of aldosterone due to decreased production of renin . Affected individuals typically have kidney (renal) disease due to various conditions, such as diabetes, interstitial nephritis, or multiple myeloma. Hyperreninemic hypoaldosteronism occurs when there is a problem with the production of aldosterone, but renin is produced normally by the kidneys. Common causes of this form of hypoaldosteronism are medications (ACE inhibitors), lead poisoning, severe illness, and aldosterone enzyme defects.
+
+---
+
+Q: What are the treatments for Hypoaldosteronism ?
+A: How might hypoaldosteronism be treated? Treatment for hypoaldosteronism depends on the underlying condition. Affected individuals are often advised to follow a low-potassium diet with liberal sodium intake. People with hypoaldosteronism should typically avoid ACE inhibitors and potassium-sparing diuretics. Individuals with hypoaldosteronism and a deficiency of adrenal glucocorticoid hormones are usually given fludrocortisone. People with hyporeninemic hypoaldosteronism are frequently given furosemide to correct hyperkalemia.

@@ -1,0 +1,24 @@
+Topic: cherubism
+
+Q: What is (are) cherubism ?
+A: Cherubism is a disorder characterized by abnormal bone tissue in the lower part of the face. Beginning in early childhood, both the lower jaw (the mandible) and the upper jaw (the maxilla) become enlarged as bone is replaced with painless, cyst-like growths. These growths give the cheeks a swollen, rounded appearance and often interfere with normal tooth development. In some people the condition is so mild that it may not be noticeable, while other cases are severe enough to cause problems with vision, breathing, speech, and swallowing. Enlargement of the jaw usually continues throughout childhood and stabilizes during puberty. The abnormal growths are gradually replaced with normal bone in early adulthood. As a result, many affected adults have a normal facial appearance.  Most people with cherubism have few, if any, signs and symptoms affecting other parts of the body. Rarely, however, this condition occurs as part of another genetic disorder. For example, cherubism can occur with Ramon syndrome, which also involves short stature, intellectual disability, and overgrowth of the gums (gingival fibrosis). Additionally, cherubism has been reported in rare cases of Noonan syndrome (a developmental disorder characterized by unusual facial characteristics, short stature, and heart defects) and fragile X syndrome (a condition primarily affecting males that causes learning disabilities and cognitive impairment).
+
+---
+
+Q: How many people are affected by cherubism ?
+A: The incidence of cherubism is unknown. At least 250 cases have been reported worldwide.
+
+---
+
+Q: What are the genetic changes related to cherubism ?
+A: Mutations in the SH3BP2 gene have been identified in about 80 percent of people with cherubism. In most of the remaining cases, the genetic cause of the condition is unknown.  The SH3BP2 gene provides instructions for making a protein whose exact function is unclear. The protein plays a role in transmitting chemical signals within cells, particularly cells involved in the replacement of old bone tissue with new bone (bone remodeling) and certain immune system cells.  Mutations in the SH3BP2 gene lead to the production of an overly active version of this protein. The effects of SH3BP2 mutations are still under study, but researchers believe that the abnormal protein disrupts critical signaling pathways in cells associated with the maintenance of bone tissue and in some immune system cells. The overactive protein likely causes inflammation in the jaw bones and triggers the production of osteoclasts, which are cells that break down bone tissue during bone remodeling. An excess of these bone-eating cells contributes to the destruction of bone in the upper and lower jaws. A combination of bone loss and inflammation likely underlies the cyst-like growths characteristic of cherubism.
+
+---
+
+Q: Is cherubism inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+
+---
+
+Q: What are the treatments for cherubism ?
+A: These resources address the diagnosis or management of cherubism:  - Gene Review: Gene Review: Cherubism  - Genetic Testing Registry: Fibrous dysplasia of jaw   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

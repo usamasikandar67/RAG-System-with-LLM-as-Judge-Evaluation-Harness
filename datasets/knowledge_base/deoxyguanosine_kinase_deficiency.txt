@@ -1,0 +1,24 @@
+Topic: deoxyguanosine kinase deficiency
+
+Q: What is (are) deoxyguanosine kinase deficiency ?
+A: Deoxyguanosine kinase deficiency is an inherited disorder that can cause liver disease and neurological problems. Researchers have described two forms of this disorder. The majority of affected individuals have the more severe form, which is called hepatocerebral because of the serious problems it causes in the liver and brain.  Newborns with the hepatocerebral form of deoxyguanosine kinase deficiency may have a buildup of lactic acid in the body (lactic acidosis) within the first few days after birth. They may also have weakness, behavior changes such as poor feeding and decreased activity, and vomiting. Affected newborns sometimes have low blood sugar (hypoglycemia) as a result of liver dysfunction. During the first few weeks of life they begin showing other signs of liver disease which may result in liver failure. They also develop progressive neurological problems including very weak muscle tone (severe hypotonia), abnormal eye movements (nystagmus) and the loss of skills they had previously acquired (developmental regression). Children with this form of the disorder usually do not survive past the age of 2 years.  Some individuals with deoxyguanosine kinase deficiency have a milder form of the disorder without severe neurological problems. Liver disease is the primary symptom of this form of the disorder, generally becoming evident during infancy or childhood. Occasionally it first appears after an illness such as a viral infection. Affected individuals may also develop kidney problems. Mild hypotonia is the only neurological effect associated with this form of the disorder.
+
+---
+
+Q: How many people are affected by deoxyguanosine kinase deficiency ?
+A: The prevalence of deoxyguanosine kinase deficiency is unknown. Approximately 100 affected individuals have been identified.
+
+---
+
+Q: What are the genetic changes related to deoxyguanosine kinase deficiency ?
+A: The DGUOK gene provides instructions for making the enzyme deoxyguanosine kinase. This enzyme plays a critical role in mitochondria, which are structures within cells that convert the energy from food into a form that cells can use. Mitochondria each contain a small amount of DNA, known as mitochondrial DNA or mtDNA, which is essential for the normal function of these structures. Deoxyguanosine kinase is involved in producing and maintaining the building blocks of mitochondrial DNA.  Mutations in the DGUOK gene reduce or eliminate the activity of the deoxyguanosine kinase enzyme. Reduced enzyme activity leads to problems with the production and maintenance of mitochondrial DNA. A reduction in the amount of mitochondrial DNA (known as mitochondrial DNA depletion) impairs mitochondrial function in many of the body's cells and tissues. These problems lead to the neurological and liver dysfunction associated with deoxyguanosine kinase deficiency.
+
+---
+
+Q: Is deoxyguanosine kinase deficiency inherited ?
+A: Deoxyguanosine kinase deficiency is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. In most cases, the parents of an individual with this condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for deoxyguanosine kinase deficiency ?
+A: These resources address the diagnosis or management of deoxyguanosine kinase deficiency:  - Gene Review: Gene Review: DGUOK-Related Mitochondrial DNA Depletion Syndrome, Hepatocerebral Form  - Genetic Testing Registry: Mitochondrial DNA-depletion syndrome 3, hepatocerebral  - MedlinePlus Encyclopedia: Hypotonia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

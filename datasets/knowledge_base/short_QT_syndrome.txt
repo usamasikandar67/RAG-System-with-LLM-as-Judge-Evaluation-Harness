@@ -1,0 +1,24 @@
+Topic: short QT syndrome
+
+Q: What is (are) short QT syndrome ?
+A: Short QT syndrome is a condition that can cause a disruption of the heart's normal rhythm (arrhythmia). In people with this condition, the heart (cardiac) muscle takes less time than usual to recharge between beats. The term "short QT" refers to a specific pattern of heart activity that is detected with an electrocardiogram (EKG), which is a test used to measure the electrical activity of the heart. In people with this condition, the part of the heartbeat known as the QT interval is abnormally short.  If untreated, the arrhythmia associated with short QT syndrome can lead to a variety of signs and symptoms, from dizziness and fainting (syncope) to cardiac arrest and sudden death. These signs and symptoms can occur any time from early infancy to old age. This condition may explain some cases of sudden infant death syndrome (SIDS), which is a major cause of unexplained death in babies younger than 1 year. However, some people with short QT syndrome never experience any health problems associated with the condition.
+
+---
+
+Q: How many people are affected by short QT syndrome ?
+A: Short QT syndrome appears to be rare. At least 70 cases have been identified worldwide since the condition was discovered in 2000. However, the condition may be underdiagnosed because some affected individuals never experience symptoms.
+
+---
+
+Q: What are the genetic changes related to short QT syndrome ?
+A: Mutations in the KCNH2, KCNJ2, and KCNQ1 genes can cause short QT syndrome. These genes provide instructions for making channels that transport positively charged atoms (ions) of potassium out of cells. In cardiac muscle, these ion channels play critical roles in maintaining the heart's normal rhythm. Mutations in the KCNH2, KCNJ2, or KCNQ1 gene increase the activity of the channels, which enhances the flow of potassium ions across the membrane of cardiac muscle cells. This change in ion transport alters the electrical activity of the heart and can lead to the abnormal heart rhythms characteristic of short QT syndrome.  Some affected individuals do not have an identified mutation in the KCNH2, KCNJ2, or KCNQ1 gene. Changes in other genes that have not been identified may cause the disorder in these cases.
+
+---
+
+Q: Is short QT syndrome inherited ?
+A: Short QT syndrome appears to have an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Some affected individuals have a family history of short QT syndrome or related heart problems and sudden cardiac death. Other cases of short QT syndrome are classified as sporadic and occur in people with no apparent family history of related heart problems.
+
+---
+
+Q: What are the treatments for short QT syndrome ?
+A: These resources address the diagnosis or management of short QT syndrome:  - Genetic Testing Registry: Short QT syndrome 1  - Genetic Testing Registry: Short QT syndrome 2  - Genetic Testing Registry: Short QT syndrome 3  - MedlinePlus Encyclopedia: Arrhythmias   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

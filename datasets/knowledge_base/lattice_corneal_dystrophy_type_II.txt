@@ -1,0 +1,24 @@
+Topic: lattice corneal dystrophy type II
+
+Q: What is (are) lattice corneal dystrophy type II ?
+A: Lattice corneal dystrophy type II is characterized by an accumulation of protein clumps called amyloid deposits in tissues throughout the body. The deposits frequently occur in blood vessel walls and basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. Amyloid deposits lead to characteristic signs and symptoms involving the eyes, nerves, and skin that worsen with age.  The earliest sign of this condition, which is usually identified in a person's twenties, is accumulation of amyloid deposits in the cornea (lattice corneal dystrophy). The cornea is the clear, outer covering of the eye. It is made up of several layers of tissue, and in lattice corneal dystrophy type II, the amyloid deposits form in the stromal layer. The amyloid deposits form as delicate, branching fibers that create a lattice pattern. Because these protein deposits cloud the cornea, they often lead to vision impairment. In addition, affected individuals can have recurrent corneal erosions, which are caused by separation of particular layers of the cornea from one another. Corneal erosions are very painful and can cause sensitivity to bright light (photophobia). Amyloid deposits and corneal erosions are usually bilateral, which means they affect both eyes.  As lattice corneal dystrophy type II progresses, the nerves become involved, typically starting in a person's forties. It is thought that the amyloid deposits disrupt nerve function. Dysfunction of the nerves in the head and face (cranial nerves) can cause paralysis of facial muscles (facial palsy); decreased sensations in the face (facial hypoesthesia); and difficulty speaking, chewing, and swallowing. Dysfunction of the nerves that connect the brain and spinal cord to muscles and to sensory cells that detect sensations such as touch, pain, and heat (peripheral nerves) can cause loss of sensation and weakness in the limbs (peripheral neuropathy). Peripheral neuropathy usually occurs in the lower legs and arms, leading to muscle weakness, clumsiness, and difficulty sensing vibrations.  The skin is also commonly affected in people with lattice corneal dystrophy type II, typically beginning in a person's forties. People with this condition may have thickened, sagging skin, especially on the scalp and forehead, and a condition called cutis laxa, which is characterized by loose skin that lacks elasticity. The skin can also be dry and itchy. Because of loose skin and muscle paralysis in the face, individuals with lattice corneal dystrophy type II can have a facial expression that appears sad.
+
+---
+
+Q: How many people are affected by lattice corneal dystrophy type II ?
+A: Lattice corneal dystrophy type II is a rare condition; however, the prevalence is unknown. While this condition can be found in populations worldwide, it was first described in Finland and is more common there.
+
+---
+
+Q: What are the genetic changes related to lattice corneal dystrophy type II ?
+A: Lattice corneal dystrophy type II is caused by mutations in the GSN gene. This gene provides instructions for making a protein called gelsolin. This protein is found throughout the body and helps regulate the formation of the network of protein filaments that gives structure to cells (the cytoskeleton). Mutations that cause lattice corneal dystrophy type II change a single protein building block (amino acid) in the gelsolin protein. The altered gelsolin protein is broken down differently than the normal protein, which results in an abnormal gelsolin protein fragment that is released from the cell. These protein fragments clump together and form amyloid deposits, which lead to the signs and symptoms of lattice corneal dystrophy type II.
+
+---
+
+Q: Is lattice corneal dystrophy type II inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Although a mutation in one copy of the gene can cause the disorder, people with mutations in both copies of the gene have more severe signs and symptoms.
+
+---
+
+Q: What are the treatments for lattice corneal dystrophy type II ?
+A: These resources address the diagnosis or management of lattice corneal dystrophy type II:  - American Foundation for the Blind: Living with Vision Loss  - Genetic Testing Registry: Meretoja syndrome  - Merck Manual Home Health Edition: Diagnosis of Eye Disorders: Slit-Lamp Examination   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

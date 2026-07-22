@@ -1,0 +1,24 @@
+Topic: 3MC syndrome
+
+Q: What is (are) 3MC syndrome ?
+A: 3MC syndrome is a disorder characterized by unusual facial features and problems affecting other tissues and organs of the body.  The distinctive facial features of people with 3MC syndrome include widely spaced eyes (hypertelorism), a narrowing of the eye opening (blepharophimosis), droopy eyelids (ptosis), highly arched eyebrows, and an opening in the upper lip (cleft lip) with an opening in the roof of the mouth (cleft palate). Common features affecting other body systems include developmental delay, intellectual disability, hearing loss, and slow growth after birth resulting in short stature. Other features of 3MC syndrome can include abnormal fusion of certain bones in the skull (craniosynostosis) or forearm (radioulnar synostosis); an outgrowth of the tailbone (caudal appendage); a soft out-pouching around the belly-button (an umbilical hernia); and abnormalities of the kidneys, bladder, or genitals.  3MC syndrome encompasses four disorders that were formerly considered to be separate: Mingarelli, Malpeuch, Michels, and Carnevale syndromes. Researchers now generally consider these disorders to be part of the same condition, which is called 3MC based on the initials of the older condition names.
+
+---
+
+Q: How many people are affected by 3MC syndrome ?
+A: 3MC syndrome is a rare disorder; its exact prevalence is unknown.
+
+---
+
+Q: What are the genetic changes related to 3MC syndrome ?
+A: 3MC syndrome is caused by mutations in the COLEC11 or MASP1 gene. These genes provide instructions for making proteins that are involved in a series of reactions called the lectin complement pathway. This pathway is thought to help direct the movement (migration) of cells during early development before birth to form the organs and systems of the body. It appears to be particularly important in directing the migration of neural crest cells, which give rise to various tissues including many tissues in the face and skull, the glands that produce hormones (endocrine glands), and portions of the nervous system.  The COLEC11 gene provides instructions for making a protein called CL-K1. Three different proteins, MASP-1, MASP-3, and MAp44 can be produced from the MASP1 gene, depending on how the gene's instructions are pieced together. The MASP1 gene mutations identified in people with 3MC syndrome affect the MASP-3 protein; some affect the MASP-1 protein in addition to MASP-3. COLEC11 and MASP1 gene mutations that cause 3MC syndrome impair or eliminate the function of the corresponding proteins, resulting in faulty control of cell migration in embryonic development and leading to the various abnormalities that occur in this disorder.  In some people with 3MC syndrome, no mutations in the COLEC11 or MASP1 gene have been identified. In these individuals, the cause of the disorder is unknown.
+
+---
+
+Q: Is 3MC syndrome inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for 3MC syndrome ?
+A: These resources address the diagnosis or management of 3MC syndrome:  - Genetic Testing Registry: Carnevale syndrome  - Genetic Testing Registry: Craniofacial-ulnar-renal syndrome  - Genetic Testing Registry: Malpuech facial clefting syndrome  - Genetic Testing Registry: Michels syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

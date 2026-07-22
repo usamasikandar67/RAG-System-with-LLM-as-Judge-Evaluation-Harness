@@ -1,0 +1,24 @@
+Topic: adermatoglyphia
+
+Q: What is (are) adermatoglyphia ?
+A: Adermatoglyphia is the absence of ridges on the skin on the pads of the fingers and toes, as well as on the palms of the hands and soles of the feet. The patterns of these ridges (called dermatoglyphs) form whorls, arches, and loops that are the basis for each person's unique fingerprints. Because no two people have the same patterns, fingerprints have long been used as a way to identify individuals. However, people with adermatoglyphia do not have these ridges, and so they cannot be identified by their fingerprints. Adermatoglyphia has been called the "immigration delay disease" because affected individuals have had difficulty entering countries that require fingerprinting for identification.  In some families, adermatoglyphia occurs without any related signs and symptoms. In others, a lack of dermatoglyphs is associated with other features, typically affecting the skin. These can include small white bumps called milia on the face, blistering of the skin in areas exposed to heat or friction, and a reduced number of sweat glands on the hands and feet. Adermatoglyphia is also a feature of several rare syndromes classified as ectodermal dysplasias, including a condition called Naegeli-Franceschetti-Jadassohn syndrome/dermatopathia pigmentosa reticularis that affects the skin, hair, sweat glands, and teeth.
+
+---
+
+Q: How many people are affected by adermatoglyphia ?
+A: Adermatoglyphia appears to be a rare condition. Only a few affected families have been identified worldwide.
+
+---
+
+Q: What are the genetic changes related to adermatoglyphia ?
+A: Adermatoglyphia is caused by mutations in the SMARCAD1 gene. This gene provides information for making two versions of the SMARCAD1 protein: a full-length version that is active (expressed) in multiple tissues and a shorter version that is expressed only in the skin. Studies suggest that the full-length SMARCAD1 protein regulates the activity of a wide variety of genes involved in maintaining the stability of cells' genetic information. Little is known about the function of the skin-specific version of the SMARCAD1 protein, but it appears to play a critical role in dermatoglyph formation. Dermatoglyphs develop before birth and remain the same throughout life. The activity of this protein is likely one of several factors that determine each person's unique fingerprint pattern.  The SMARCAD1 gene mutations that cause adermatoglyphia affect only the skin-specific version of the SMARCAD1 protein. These mutations reduce the total amount of this protein available in skin cells. Although it is unclear how these genetic changes cause adermatoglyphia, researchers speculate that a shortage of the skin-specific version of the SMARCAD1 protein impairs signaling pathways needed for normal skin development and function, including the formation of dermatoglyphs.
+
+---
+
+Q: Is adermatoglyphia inherited ?
+A: Adermatoglyphia is inherited in an autosomal dominant pattern, which means one copy of the altered SMARCAD1 gene in each cell is sufficient to cause the condition. In many cases, an affected person has one parent with the condition.
+
+---
+
+Q: What are the treatments for adermatoglyphia ?
+A: These resources address the diagnosis or management of adermatoglyphia:  - Genetic Testing Registry: Adermatoglyphia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

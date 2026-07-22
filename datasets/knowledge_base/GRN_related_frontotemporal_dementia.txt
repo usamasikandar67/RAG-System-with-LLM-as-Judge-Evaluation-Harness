@@ -1,0 +1,24 @@
+Topic: GRN-related frontotemporal dementia
+
+Q: What is (are) GRN-related frontotemporal dementia ?
+A: GRN-related frontotemporal dementia is a progressive brain disorder that can affect behavior, language, and movement. The symptoms of this disorder usually become noticeable in a person's fifties or sixties, and affected people typically survive 6 to 7 years after the appearance of symptoms. However, the features of this condition vary significantly, even among affected members of the same family.  Behavioral changes are the most common early signs of GRN-related frontotemporal dementia. These include marked changes in personality, judgment, and insight. It may become difficult for affected individuals to interact with others in a socially appropriate manner. Affected people may also become easily distracted and unable to complete tasks. They increasingly require help with personal care and other activities of daily living.  Many people with GRN-related frontotemporal dementia develop progressive problems with speech and language (aphasia). Affected individuals may have trouble speaking, remembering words and names (dysnomia), and understanding speech. Over time, they may completely lose the ability to communicate.  Some people with GRN-related frontotemporal dementia also develop movement disorders, such as parkinsonism and corticobasal syndrome. The signs and symptoms of these disorders include tremors, rigidity, unusually slow movement (bradykinesia), involuntary muscle spasms (myoclonus), uncontrolled muscle tensing (dystonia), and an inability to carry out purposeful movements (apraxia).
+
+---
+
+Q: How many people are affected by GRN-related frontotemporal dementia ?
+A: GRN-related frontotemporal dementia affects an estimated 3 to 15 per 100,000 people aged 45 to 64. This condition accounts for 5 to 10 percent of all cases of frontotemporal dementia.
+
+---
+
+Q: What are the genetic changes related to GRN-related frontotemporal dementia ?
+A: GRN-related frontotemporal dementia results from mutations in the GRN gene. This gene provides instructions for making a protein called granulin (also known as progranulin). Granulin is active in many different tissues in the body, where it helps control the growth, division, and survival of cells. Granulin's function in the brain is not well understood, although it appears to play an important role in the survival of nerve cells (neurons).  Most mutations in the GRN gene prevent any granulin from being produced from one copy of the gene in each cell. As a result, cells make only half the usual amount of granulin. It is unclear how a shortage of this protein leads to the features of GRN-related frontotemporal dementia. However, studies have shown that the disorder is characterized by the buildup of a protein called TAR DNA-binding protein (TDP-43) in certain brain cells. The TDP-43 protein forms clumps (aggregates) that may interfere with cell functions and ultimately lead to cell death. Researchers are working to determine how mutations in the GRN gene, and the resulting loss of granulin, are related to a buildup of TDP-43 in the brain.  The features of GRN-related frontotemporal dementia result from the gradual loss of neurons in regions near the front of the brain called the frontal and temporal lobes. The frontal lobes are involved in reasoning, planning, judgment, and problem-solving, while the temporal lobes help process hearing, speech, memory, and emotion. The death of neurons in these areas causes problems with many critical brain functions. However, it is unclear why the loss of neurons occurs in the frontal and temporal lobes more often than other brain regions in people with GRN-related frontotemporal dementia.
+
+---
+
+Q: Is GRN-related frontotemporal dementia inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has a parent and other family members with the condition.
+
+---
+
+Q: What are the treatments for GRN-related frontotemporal dementia ?
+A: These resources address the diagnosis or management of GRN-related frontotemporal dementia:  - Family Caregiver Alliance  - Gene Review: Gene Review: GRN-Related Frontotemporal Dementia  - Genetic Testing Registry: Frontotemporal dementia, ubiquitin-positive   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

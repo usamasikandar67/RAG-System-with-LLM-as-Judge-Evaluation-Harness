@@ -1,0 +1,34 @@
+Topic: Char syndrome
+
+Q: What is (are) Char syndrome ?
+A: Char syndrome is a condition that affects the development of the face, heart, and limbs. It is characterized by a combination of three major features: a distinctive facial appearance, a heart defect called patent ductus arteriosus, and hand abnormalities. Char syndrome is caused by mutations in the TFAP2B gene and is inherited in an autosomal dominant fashion.
+
+---
+
+Q: What are the symptoms of Char syndrome ?
+A: What are the signs and symptoms of Char syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Char syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Depressed nasal bridge 90% Depressed nasal ridge 90% Hypertelorism 90% Malar flattening 90% Patent ductus arteriosus 90% Ptosis 90% Short philtrum 90% Thick lower lip vermilion 90% Clinodactyly of the 5th finger 50% Cognitive impairment 7.5% Foot polydactyly 7.5% Hand polydactyly 7.5% Hearing impairment 7.5% Myopia 7.5% Prominent occiput 7.5% Reduced consciousness/confusion 7.5% Reduced number of teeth 7.5% Strabismus 7.5% Supernumerary nipple 7.5% Symphalangism affecting the phalanges of the hand 7.5% Toe syndactyly 7.5% Ventricular septal defect 7.5% Autosomal dominant inheritance - Broad forehead - Broad nasal tip - Distal/middle symphalangism of 5th finger - Highly arched eyebrow - Intellectual disability, mild - Low-set ears - Protruding ear - Thick eyebrow - Triangular mouth - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Char syndrome ?
+A: Char syndrome is a condition that affects the development of the face, heart, and limbs. It is characterized by a combination of three major features: a distinctive facial appearance, a heart defect called patent ductus arteriosus, and hand abnormalities.  Most people with Char syndrome have a characteristic facial appearance that includes flattened cheek bones and a flat nasal bridge (the area of the nose between the eyes). The tip of the nose is also flat and broad. The eyes are wide-set with droopy eyelids (ptosis) and outside corners that point downward (down-slanting palpebral fissures). Additional facial differences include a shortened distance between the nose and upper lip (a short philtrum), a triangular-shaped mouth, and thick, prominent lips.  Patent ductus arteriosus is a common heart defect in newborns, and it occurs in most babies with Char syndrome. Before birth, the ductus arteriosus forms a connection between two major arteries (the aorta and the pulmonary artery). This connection normally closes shortly after birth, but it remains open in babies with patent ductus arteriosus. If untreated, this heart defect causes infants to breathe rapidly, feed poorly, and gain weight slowly. In severe cases, it can lead to heart failure. People with patent ductus arteriosus also have an increased risk of infection.  Hand abnormalities are another feature of Char syndrome. In most people with this condition, the middle section of the fifth (pinky) finger is shortened or absent. Other abnormalities of the hands and feet have been reported but are less common.
+
+---
+
+Q: How many people are affected by Char syndrome ?
+A: Char syndrome is rare, although its exact incidence is unknown. Only a few families with this condition have been identified worldwide.
+
+---
+
+Q: What are the genetic changes related to Char syndrome ?
+A: Mutations in the TFAP2B gene cause Char syndrome. This gene provides instructions for making a protein known as transcription factor AP-2. A transcription factor is a protein that attaches (binds) to specific regions of DNA and helps control the activity of particular genes. Transcription factor AP-2 regulates genes that are involved in development before birth. In particular, this protein appears to play a role in the normal formation of structures in the face, heart, and limbs.  TFAP2B mutations alter the structure of transcription factor AP-2. Some of these mutations prevent the protein from binding to DNA, while other mutations render it unable to regulate the activity of other genes. A loss of this protein's function disrupts the normal development of several parts of the body before birth, resulting in the major features of Char syndrome.
+
+---
+
+Q: Is Char syndrome inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases may result from new mutations in the gene and occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for Char syndrome ?
+A: These resources address the diagnosis or management of Char syndrome:  - Gene Review: Gene Review: Char Syndrome  - Genetic Testing Registry: Char syndrome  - MedlinePlus Encyclopedia: Patent Ductus Arteriosus   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,24 @@
+Topic: aromatase excess syndrome
+
+Q: What is (are) aromatase excess syndrome ?
+A: Aromatase excess syndrome is a condition characterized by elevated levels of the female sex hormone estrogen in both males and females. Males with aromatase excess syndrome experience breast enlargement (gynecomastia) in late childhood or adolescence. The bones of affected males grow and develop more quickly and stop growing sooner than usual (advanced bone age). As a result males have an early growth spurt, typically during late childhood, with short stature as an adult. Affected females rarely show signs and symptoms of the condition, but they may have increased breast growth (macromastia), irregular menstrual periods, and short stature. The ability to have children (fertility) is usually normal in both males and females with aromatase excess syndrome.
+
+---
+
+Q: How many people are affected by aromatase excess syndrome ?
+A: The prevalence of aromatase excess syndrome is unknown; more than 20 cases have been described in the medical literature.
+
+---
+
+Q: What are the genetic changes related to aromatase excess syndrome ?
+A: Rearrangements of genetic material involving the CYP19A1 gene cause aromatase excess syndrome. The CYP19A1 gene provides instructions for making an enzyme called aromatase. This enzyme converts a class of hormones called androgens, which are involved in male sexual development, to different forms of estrogen. In females, estrogen guides female sexual development before birth and during puberty. In both males and females, estrogen plays a role in regulating bone growth.  The condition can result from several types of genetic rearrangements involving the CYP19A1 gene. These rearrangements alter the activity of the gene and lead to an increase in aromatase production. In affected males, the increased aromatase and subsequent conversion of androgens to estrogen are responsible for the gynecomastia and limited bone growth characteristic of aromatase excess syndrome. Increased estrogen in females can cause symptoms such as irregular menstrual periods and short stature.
+
+---
+
+Q: Is aromatase excess syndrome inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means a genetic rearrangement involving one copy of the CYP19A1 gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new genetic changes and occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for aromatase excess syndrome ?
+A: These resources address the diagnosis or management of aromatase excess syndrome:  - Genetic Testing Registry: Familial gynecomastia, due to increased aromatase activity   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,24 @@
+Topic: gnathodiaphyseal dysplasia
+
+Q: What is (are) gnathodiaphyseal dysplasia ?
+A: Gnathodiaphyseal dysplasia is a disorder that affects the bones. People with this condition have reduced bone mineral density (osteopenia), which causes the bones to be unusually fragile. As a result, affected individuals typically experience multiple bone fractures in childhood, often from mild trauma or with no apparent cause.  While most bone tissue is less dense than normal in gnathodiaphyseal dysplasia, the outer layer (cortex) of the shafts of the long bones in the arms and legs is abnormally hard and thick (diaphyseal sclerosis). Bowing of the long bones also occurs in this disorder.  Jaw problems are common in gnathodiaphyseal dysplasia; the prefix "gnatho-" in the condition name refers to the jaw. Affected individuals may develop bone infections (osteomyelitis) in the jaw, which can lead to pain, swelling, discharge of pus from the gums, loose teeth, and slow healing after teeth are lost or extracted. Areas of the jawbone may lose the protective coverage of the gums, which can result in deterioration of the exposed bone (osteonecrosis of the jaw). Also, normal bone in areas of the jaw may be replaced by fibrous tissue and a hard material called cementum, which normally surrounds the roots of teeth and anchors them in the jaw. These areas of abnormal bone, called cementoosseous lesions, may be present at birth or develop later in life.  When gnathodiaphyseal dysplasia was first described, it was thought to be a variation of another bone disorder called osteogenesis imperfecta, which is also characterized by frequent bone fractures. However, gnathodiaphyseal dysplasia is now generally considered to be a separate condition. Unlike in osteogenesis imperfecta, the fractures in gnathodiaphyseal dysplasia heal normally without causing deformity or loss of height.
+
+---
+
+Q: How many people are affected by gnathodiaphyseal dysplasia ?
+A: The prevalence of gnathodiaphyseal dysplasia is unknown, but it is thought to be a rare disorder. A few affected individuals and families have been described in the medical literature.
+
+---
+
+Q: What are the genetic changes related to gnathodiaphyseal dysplasia ?
+A: Gnathodiaphyseal dysplasia is caused by mutations in the ANO5 gene, which provides instructions for making a protein called anoctamin-5. While the specific function of this protein is not well understood, it belongs to a family of proteins, called anoctamins, that act as chloride channels. Studies suggest that most anoctamin channels are turned on (activated) in the presence of positively charged calcium atoms (calcium ions); these channels are known as calcium-activated chloride channels. The mechanism for this calcium activation is unclear.  The ANO5 gene mutations that have been identified in people with gnathodiaphyseal dysplasia change single protein building blocks (amino acids) in the anoctamin-5 protein. It is unclear how these protein changes lead to the fragile bones, jaw problems, and other skeletal abnormalities that occur in gnathodiaphyseal dysplasia. Researchers suggest that the mutations may affect the way cells process calcium, an important mineral in bone development and growth.
+
+---
+
+Q: Is gnathodiaphyseal dysplasia inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for gnathodiaphyseal dysplasia ?
+A: These resources address the diagnosis or management of gnathodiaphyseal dysplasia:  - Cleveland Clinic: Osteomyelitis  - MedlinePlus Encyclopedia: Bone Mineral Density Testing   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

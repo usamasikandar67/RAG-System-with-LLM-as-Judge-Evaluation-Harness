@@ -1,0 +1,24 @@
+Topic: cryptogenic cirrhosis
+
+Q: What is (are) cryptogenic cirrhosis ?
+A: Cryptogenic cirrhosis is a condition that impairs liver function. People with this condition develop irreversible liver disease caused by scarring of the liver (cirrhosis), typically in mid- to late adulthood.  The liver is a part of the digestive system that helps break down food, store energy, and remove waste products, including toxins. Minor damage to the liver can be repaired by the body. However, severe or long-term damage can lead to the replacement of normal liver tissue with scar tissue.  In the early stages of cryptogenic cirrhosis, people often have no symptoms because the liver has enough normal tissue to function. Signs and symptoms become apparent as more of the liver is replaced by scar tissue. Affected individuals can experience fatigue, weakness, loss of appetite, weight loss, nausea, swelling (edema), enlarged blood vessels, and yellowing of the skin and whites of the eyes (jaundice).  People with cryptogenic cirrhosis may develop high blood pressure in the vein that supplies blood to the liver (portal hypertension). Cryptogenic cirrhosis can lead to type 2 diabetes, although the mechanism is unclear. Some people with cryptogenic cirrhosis develop cancer of the liver (hepatocellular cancer).
+
+---
+
+Q: How many people are affected by cryptogenic cirrhosis ?
+A: Cirrhosis affects more than 600,000 people in the United States; cryptogenic cirrhosis likely accounts for 5 to 30 percent of these cases.
+
+---
+
+Q: What are the genetic changes related to cryptogenic cirrhosis ?
+A: Unlike most cases of cirrhosis, cryptogenic cirrhosis is not caused by the hepatitis C or B virus or chronic alcohol use. A diagnosis of cryptogenic cirrhosis is typically given when all other causes of cirrhosis have been ruled out. When a disorder occurs without an apparent underlying reason, it is described as cryptogenic.  Research has shown that many cases of cryptogenic cirrhosis likely result from a condition called non-alcoholic fatty liver disease (NAFLD). In NAFLD, fat accumulates in the liver, impairing its function. If the fat buildup leads to inflammation and damage to liver tissue, NAFLD progresses to a condition called non-alcoholic steatohepatitis (NASH). Long term inflammation in people with NASH can cause the formation of scar tissue and a decrease in fat buildup. As a result, individuals progress from NASH to cirrhosis.  Cryptogenic cirrhosis may also develop from autoimmune hepatitis, which is a condition that occurs when the body's immune system malfunctions and attacks the liver, causing inflammation and liver damage.  In very rare cases, cryptogenic cirrhosis has been associated with mutations in genes that provide instructions for making certain keratin proteins. Keratins are a group of tough, fibrous proteins that form the structural framework of certain cells, particularly cells that make up the skin, hair, nails, and similar tissues. People with these keratin gene mutations are more likely to have fibrous deposits in their livers than individuals without the mutations. These deposits impair liver function, leading to cirrhosis. Mutations in these genes have also been found in people with other liver disorders.  In many cases, the cause of cryptogenic cirrhosis is unknown. Many people with predisposing conditions do not develop cirrhosis. Researchers are working to discover the causes of cryptogenic cirrhosis as well as to find out why some people seem to be protected from developing cirrhosis and others seem to be susceptible.
+
+---
+
+Q: Is cryptogenic cirrhosis inherited ?
+A: Most cases of cryptogenic cirrhosis are not inherited. However, people with a family history of liver disease or autoimmune disease are at an increased risk of developing these diseases themselves, and possibly cirrhosis.  In individuals with an associated keratin gene mutation, the risk of developing cryptogenic cirrhosis appears to have an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means that one copy of an altered gene in each cell is sufficient to increase the risk of developing cryptogenic cirrhosis. In these families, people inherit an increased risk of cryptogenic cirrhosis, not the disease itself.
+
+---
+
+Q: What are the treatments for cryptogenic cirrhosis ?
+A: These resources address the diagnosis or management of cryptogenic cirrhosis:  - Children's Hospital of Pittsburgh: Cirrhosis  - Cleveland Clinic: Cirrhosis of the Liver  - Genetic Testing Registry: Cirrhosis, cryptogenic  - Genetic Testing Registry: Familial cirrhosis  - MedlinePlus Encyclopedia: Cirrhosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

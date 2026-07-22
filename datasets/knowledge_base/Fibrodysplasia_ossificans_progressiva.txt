@@ -1,0 +1,24 @@
+Topic: fibrodysplasia ossificans progressiva
+
+Q: What is (are) fibrodysplasia ossificans progressiva ?
+A: Fibrodysplasia ossificans progressiva (FOP) is a disorder in which muscle tissue and connective tissue such as tendons and ligaments are gradually replaced by bone (ossified), forming bone outside the skeleton (extra-skeletal or heterotopic bone) that constrains movement. This process generally becomes noticeable in early childhood, starting with the neck and shoulders and proceeding down the body and into the limbs.  Extra-skeletal bone formation causes progressive loss of mobility as the joints become affected. Inability to fully open the mouth may cause difficulty in speaking and eating. Over time, people with this disorder may experience malnutrition due to their eating problems. They may also have breathing difficulties as a result of extra bone formation around the rib cage that restricts expansion of the lungs.  Any trauma to the muscles of an individual with fibrodysplasia ossificans progressiva, such as a fall or invasive medical procedures, may trigger episodes of muscle swelling and inflammation (myositis) followed by more rapid ossification in the injured area. Flare-ups may also be caused by viral illnesses such as influenza.  People with fibrodysplasia ossificans progressiva are generally born with malformed big toes. This abnormality of the big toes is a characteristic feature that helps to distinguish this disorder from other bone and muscle problems. Affected individuals may also have short thumbs and other skeletal abnormalities.
+
+---
+
+Q: How many people are affected by fibrodysplasia ossificans progressiva ?
+A: Fibrodysplasia ossificans progressiva is a very rare disorder, believed to occur in approximately 1 in 2 million people worldwide. Several hundred cases have been reported.
+
+---
+
+Q: What are the genetic changes related to fibrodysplasia ossificans progressiva ?
+A: Mutations in the ACVR1 gene cause fibrodysplasia ossificans progressiva.  The ACVR1 gene provides instructions for producing a member of a protein family called bone morphogenetic protein (BMP) type I receptors. The ACVR1 protein is found in many tissues of the body including skeletal muscle and cartilage. It helps to control the growth and development of the bones and muscles, including the gradual replacement of cartilage by bone (ossification) that occurs in normal skeletal maturation from birth to young adulthood.  Researchers believe that a mutation in the ACVR1 gene may change the shape of the receptor under certain conditions and disrupt mechanisms that control the receptor's activity. As a result, the receptor may be constantly turned on (constitutive activation). Constitutive activation of the receptor causes overgrowth of bone and cartilage and fusion of joints, resulting in the signs and symptoms of fibrodysplasia ossificans progressiva.
+
+---
+
+Q: Is fibrodysplasia ossificans progressiva inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  Most cases of fibrodysplasia ossificans progressiva result from new mutations in the gene. These cases occur in people with no history of the disorder in their family. In a small number of cases, an affected person has inherited the mutation from one affected parent.
+
+---
+
+Q: What are the treatments for fibrodysplasia ossificans progressiva ?
+A: These resources address the diagnosis or management of fibrodysplasia ossificans progressiva:  - Genetic Testing Registry: Progressive myositis ossificans   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

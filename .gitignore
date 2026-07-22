@@ -18,4 +18,5 @@ env/
 data/
 mlruns/
 *.db
+*.csv
 .env

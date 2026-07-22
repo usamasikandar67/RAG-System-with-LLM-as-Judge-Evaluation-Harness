@@ -1,0 +1,34 @@
+Topic: Chanarin-Dorfman syndrome
+
+Q: What is (are) Chanarin-Dorfman syndrome ?
+A: Chanarin-Dorfman syndrome is an inherited condition in which fats are stored abnormally in the body. Affected individuals cannot break down certain fats called triglycerides. These fats accumulate in organs and tissues, including skin, liver, muscles, intestine, eyes, and ears. At birth, affected individuals usually present with dry, scaly skin. Additional features include an enlarged liver,cataracts, difficulty with coordinating movements (ataxia), hearing loss, short stature, muscle weakness, nystagmus, and mild intellectual disability. The signs and symptoms vary greatly among individuals with this condition. Some people may have ichthyosis only, while others may have problems affecting many areas of the body. This condition is caused by mutations in the ABHD5 gene and is inherited in an autosomal recessive pattern.
+
+---
+
+Q: What are the symptoms of Chanarin-Dorfman syndrome ?
+A: What are the signs and symptoms of Chanarin-Dorfman syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Chanarin-Dorfman syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of blood and blood-forming tissues - Alopecia - Ataxia - Autosomal recessive inheritance - Congenital nonbullous ichthyosiform erythroderma - Ectropion - Hepatic steatosis - Hepatomegaly - Intellectual disability - Microtia - Muscle weakness - Myopathy - Nystagmus - Sensorineural hearing impairment - Strabismus - Subcapsular cataract - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Chanarin-Dorfman syndrome ?
+A: Chanarin-Dorfman syndrome is a condition in which fats (lipids) are stored abnormally in the body. Affected individuals cannot break down certain fats called triglycerides, and these fats accumulate in organs and tissues, including skin, liver, muscles, intestine, eyes, and ears. People with this condition also have dry, scaly skin (ichthyosis), which is usually present at birth. Additional features of this condition include an enlarged liver (hepatomegaly), clouding of the lens of the eyes (cataracts), difficulty with coordinating movements (ataxia), hearing loss, short stature, muscle weakness (myopathy), involuntary movement of the eyes (nystagmus), and mild intellectual disability.  The signs and symptoms vary greatly among individuals with Chanarin-Dorfman syndrome. Some people may have ichthyosis only, while others may have problems affecting many areas of the body.
+
+---
+
+Q: How many people are affected by Chanarin-Dorfman syndrome ?
+A: Chanarin-Dorfman syndrome is a rare condition; its incidence is unknown.
+
+---
+
+Q: What are the genetic changes related to Chanarin-Dorfman syndrome ?
+A: Mutations in the ABHD5 gene cause Chanarin-Dorfman syndrome. The ABHD5 gene provides instructions for making a protein that turns on (activates) the ATGL enzyme, which breaks down triglycerides. Triglycerides are the main source of stored energy in cells. These fats must be broken down into simpler molecules called fatty acids before they can be used for energy.  ABHD5 gene mutations impair the protein's ability to activate the ATGL enzyme. An inactive enzyme makes the breakdown of triglycerides impossible, causing them to accumulate in tissues throughout the body. The buildup of triglycerides results in the signs and symptoms of Chanarin-Dorfman syndrome.
+
+---
+
+Q: Is Chanarin-Dorfman syndrome inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for Chanarin-Dorfman syndrome ?
+A: These resources address the diagnosis or management of Chanarin-Dorfman syndrome:  - Genetic Testing Registry: Triglyceride storage disease with ichthyosis  - MedlinePlus Encyclopedia: Ichthyosis vulgaris   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

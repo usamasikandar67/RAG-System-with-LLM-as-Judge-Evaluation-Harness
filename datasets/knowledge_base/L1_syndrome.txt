@@ -1,0 +1,34 @@
+Topic: L1 syndrome
+
+Q: What is (are) L1 syndrome ?
+A: L1 syndrome is a mild to severe congenital disorder with hydrocephalus of varying degrees of severity, intellectual disability, spasticity of the legs, and adducted thumbs. It includes several conditions, some more severe than others: X-linked hydrocephalus with stenosis of the aqueduct of Sylvius (HSAS) - the most severe of all; MASA syndrome (intellectual disability, aphasia (delayed speech), spastic paraplegia (shuffling gait), adducted thumbs); SPG1 (X-linked complicated hereditary spastic paraplegia type 1) X-linked complicated corpus callosum agenesis. It is inherited in an X-linked manner; therefore, it only affects males. It is caused by alterations (mutations) in L1CAM gene. The diagnosis is made in males who have the clinical and neurologic findings and a family history consistent with X-linked inheritance and is confirmed by a genetic test showing the L1CAM gene mutation. The treatment involves doing a surgery for the hydrocephalus.
+
+---
+
+Q: What are the symptoms of L1 syndrome ?
+A: What are the signs and symptoms of L1 syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for L1 syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aqueductal stenosis 90% Behavioral abnormality 90% Cognitive impairment 90% Gait disturbance 90% Hemiplegia/hemiparesis 90% Hydrocephalus 90% Hyperreflexia 90% Hypertonia 90% Migraine 90% Nausea and vomiting 90% Neurological speech impairment 90% Adducted thumb 50% Aganglionic megacolon 7.5% Seizures 7.5% Skeletal muscle atrophy 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) L1 syndrome ?
+A: L1 syndrome is an inherited disorder that primarily affects the nervous system. L1 syndrome involves a variety of features that were once thought to be distinct disorders, but are now considered to be part of the same syndrome. The most common characteristics of L1 syndrome are muscle stiffness (spasticity) of the lower limbs, intellectual disability, increased fluid in the center of the brain (hydrocephalus), and thumbs bent toward the palm (adducted thumbs). People with L1 syndrome can also have difficulty speaking (aphasia), seizures, and underdeveloped or absent tissue connecting the left and right halves of the brain (agenesis of the corpus callosum). The symptoms of L1 syndrome vary widely among affected individuals, even among members of the same family. Because this disorder involves spasticity of the lower limbs, L1 syndrome is sometimes referred to as spastic paraplegia type 1 (SPG1).
+
+---
+
+Q: How many people are affected by L1 syndrome ?
+A: L1 syndrome is estimated to occur in 1 in 25,000 to 60,000 males. Females are rarely affected by this condition.
+
+---
+
+Q: What are the genetic changes related to L1 syndrome ?
+A: L1 syndrome is caused by mutations in the L1CAM gene. The L1CAM gene provides instructions for producing the L1 protein, which is found throughout the nervous system on the surface of nerve cells (neurons). The L1 protein plays a role in the development and organization of neurons, the formation of the protective sheath (myelin) that surrounds certain neurons, and the formation of junctions between nerve cells (synapses), where cell-to-cell communication occurs. Mutations in the L1 protein can interfere with these developmental processes. Research suggests that a disruption in the development and function of neurons causes the signs and symptoms of L1 syndrome.
+
+---
+
+Q: Is L1 syndrome inherited ?
+A: This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+
+---
+
+Q: What are the treatments for L1 syndrome ?
+A: These resources address the diagnosis or management of L1 syndrome:  - Gene Review: Gene Review: Hereditary Spastic Paraplegia Overview  - Gene Review: Gene Review: L1 Syndrome  - Genetic Testing Registry: Corpus callosum, partial agenesis of, X-linked  - Genetic Testing Registry: L1 Syndrome  - Genetic Testing Registry: Spastic paraplegia 1  - Genetic Testing Registry: X-linked hydrocephalus syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

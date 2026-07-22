@@ -1,0 +1,44 @@
+Topic: Ewing sarcoma
+
+Q: What is (are) Ewing sarcoma ?
+A: Ewing sarcoma is a malignant (cancerous) bone tumor that affects children. It can occur any time during childhood and young adulthood, but usually develops during puberty, when bones are growing rapidly. The tumor may arise anywhere in the body, usually in the long bones of the arms and legs, the pelvis, or the chest. It may also develop in the skull or the flat bones of the trunk. There are few symptoms. The most common is pain and occasionally swelling at the site of the tumor. Fever may also be present. The tumor often spreads (metastasis) to the lungs and other bones. The cause of Ewing sarcoma is unknown. Most cases are thought to occur randomly and many involved a reciprocal translocation between chromosomes 11 and 22. Treatment depends upon a number of factors, but may include chemotherapy, radiation and/or surgical interventions.
+
+---
+
+Q: What are the symptoms of Ewing sarcoma ?
+A: What are the signs and symptoms of Ewing sarcoma? The Human Phenotype Ontology provides the following list of signs and symptoms for Ewing sarcoma. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Ewing's sarcoma - Somatic mutation - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Ewing sarcoma ?
+A: What causes Ewing sarcoma? The exact cause of Ewing sarcoma remains largely unknown. Chromosomal studies have found that Ewing sarcoma cells are often characterized by an abnormal change in their genetic makeup known as a reciprocal translocation. The most common mutation, occurring in approximately 85% of Ewing sarcoma tumors, involves two genes, the EWSR1 gene on chromosome 22 and the FLI1 gene on chromosome 11. This rearrangement of genetic material between chromosomes 22 and 11 fuses part of the EWSR1 gene with part of the FLI1 gene, creating the EWSR1/FLI1 fusion gene. This mutation is acquired during a person's lifetime and is present only in tumor cells. This type of genetic change, called a somatic mutation, is not inherited. In extremely rare cases, Ewing sarcoma may develop as a second malignancy, which means that the condition develops as a late-onset complication of earlier treatment for another form of cancer.
+
+---
+
+Q: Is Ewing sarcoma inherited ?
+A: Is Ewing sarcoma an inherited condition? This condition is generally not inherited but arises from a mutation in the body's cells that occurs after conception (somatic mutation). Most cases are considered to be sporadic. However, the incidence of neuroectodermal and stomach malignancies is increased among family members of patients with tumors of the Ewing sarcoma family.  A search of the medical literature did identify a very small number of cases of Ewing sarcoma among siblings. To access articles on this topic, click here.
+
+---
+
+Q: What is (are) Ewing sarcoma ?
+A: Ewing sarcoma is a cancerous tumor that occurs in bones or soft tissues, such as cartilage or nerves. There are several types of Ewing sarcoma, including Ewing sarcoma of bone, extraosseous Ewing sarcoma, peripheral primitive neuroectodermal tumor (pPNET), and Askin tumor. These tumors are considered to be related because they have similar genetic causes. These types of Ewing sarcoma can be distinguished from one another by the tissue in which the tumor develops. Approximately 87 percent of Ewing sarcomas are Ewing sarcoma of bone, which is a bone tumor that usually occurs in the thigh bones (femurs), pelvis, ribs, or shoulder blades. Extraosseous (or extraskeletal) Ewing sarcoma describes tumors in the soft tissues around bones, such as cartilage. pPNETs occur in nerve tissue and can be found in many parts of the body. A type of pPNET found in the chest is called Askin tumor.  Ewing sarcomas most often occur in children and young adults. Affected individuals usually feel stiffness, pain, swelling, or tenderness of the bone or surrounding tissue. Sometimes, there is a lump near the surface of the skin that feels warm and soft to the touch. Often, children have a fever that does not go away. Ewing sarcoma of bone can cause weakening of the involved bone, and affected individuals may have a broken bone with no obvious cause.  It is common for Ewing sarcoma to spread to other parts of the body (metastasize), usually to the lungs, to other bones, or to the bone marrow.
+
+---
+
+Q: How many people are affected by Ewing sarcoma ?
+A: Approximately 3 per 1 million children each year are diagnosed with a Ewing sarcoma. It is estimated that, in the United States, 250 children are diagnosed with one of these types of tumor each year. Ewing sarcoma accounts for about 1.5 percent of all childhood cancers, and it is the second most common type of bone tumor in children (the most common type of bone cancer is called osteosarcoma).
+
+---
+
+Q: What are the genetic changes related to Ewing sarcoma ?
+A: The most common mutation that causes Ewing sarcoma involves two genes, the EWSR1 gene on chromosome 22 and the FLI1 gene on chromosome 11. A rearrangement (translocation) of genetic material between chromosomes 22 and 11, written as t(11;22), fuses part of the EWSR1 gene with part of the FLI1 gene, creating the EWSR1/FLI1 fusion gene. This mutation is acquired during a person's lifetime and is present only in tumor cells. This type of genetic change, called a somatic mutation, is not inherited.  The protein produced from the EWSR1/FLI1 fusion gene, called EWS/FLI, has functions of the protein products of both genes. The FLI protein, produced from the FLI1 gene, attaches (binds) to DNA and regulates an activity called transcription, which is the first step in the production of proteins from genes. The FLI protein controls the growth and development of some cell types by regulating the transcription of certain genes. The EWS protein, produced from the EWSR1 gene, also regulates transcription. The EWS/FLI protein has the DNA-binding function of the FLI protein as well as the transcription regulation function of the EWS protein. It is thought that the EWS/FLI protein turns the transcription of a variety of genes on and off abnormally. This dysregulation of transcription leads to uncontrolled growth and division (proliferation) and abnormal maturation and survival of cells, causing tumor development.  The EWSR1/FLI1 fusion gene occurs in approximately 85 percent of Ewing sarcomas. Translocations that fuse the EWSR1 gene with other genes that are related to the FLI1 gene can also cause these types of tumors, although these alternative translocations are relatively uncommon. The fusion proteins produced from the less common gene translocations have the same function as the EWS/FLI protein.
+
+---
+
+Q: Is Ewing sarcoma inherited ?
+A: This condition is generally not inherited but arises from a mutation in the body's cells that occurs after conception. This alteration is called a somatic mutation.
+
+---
+
+Q: What are the treatments for Ewing sarcoma ?
+A: These resources address the diagnosis or management of Ewing sarcoma:  - Cancer.Net: Ewing Family of Tumors - Childhood: Diagnosis  - Cancer.Net: Ewing Family of Tumors - Childhood: Treatment  - Genetic Testing Registry: Ewing's sarcoma  - MedlinePlus Encyclopedia: Ewing Sarcoma   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

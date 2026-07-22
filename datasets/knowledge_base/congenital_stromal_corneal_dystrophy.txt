@@ -1,0 +1,24 @@
+Topic: congenital stromal corneal dystrophy
+
+Q: What is (are) congenital stromal corneal dystrophy ?
+A: Congenital stromal corneal dystrophy is an inherited eye disorder. This condition primarily affects the cornea, which is the clear outer covering of the eye. In people with this condition, the cornea appears cloudy and may have an irregular surface. These corneal changes lead to visual impairment, including blurring, glare, and a loss of sharp vision (reduced visual acuity). Visual impairment is often associated with additional eye abnormalities, including "lazy eye" (amblyopia), eyes that do not look in the same direction (strabismus), involuntary eye movements (nystagmus), and increased sensitivity to light (photophobia).
+
+---
+
+Q: How many people are affected by congenital stromal corneal dystrophy ?
+A: Congenital stromal corneal dystrophy is probably very rare; only a few affected families have been reported in the medical literature.
+
+---
+
+Q: What are the genetic changes related to congenital stromal corneal dystrophy ?
+A: Congenital stromal corneal dystrophy is caused by mutations in the DCN gene. This gene provides instructions for making a protein called decorin, which is involved in the organization of collagens. Collagens are proteins that strengthen and support connective tissues such as skin, bone, tendons, and ligaments. In the cornea, well-organized bundles of collagen make the cornea transparent. Decorin ensures that collagen fibrils in the cornea are uniformly sized and regularly spaced.  Mutations in the DCN gene lead to the production of a defective version of decorin. This abnormal protein interferes with the organization of collagen fibrils in the cornea. As poorly arranged collagen fibrils accumulate, the cornea becomes cloudy. These corneal changes lead to reduced visual acuity and related eye abnormalities.
+
+---
+
+Q: Is congenital stromal corneal dystrophy inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+
+---
+
+Q: What are the treatments for congenital stromal corneal dystrophy ?
+A: These resources address the diagnosis or management of congenital stromal corneal dystrophy:  - Gene Review: Gene Review: Congenital Stromal Corneal Dystrophy  - Genetic Testing Registry: Congenital Stromal Corneal Dystrophy  - MedlinePlus Encyclopedia: Cloudy Cornea   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

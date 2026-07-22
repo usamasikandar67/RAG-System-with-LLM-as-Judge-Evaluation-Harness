@@ -1,0 +1,34 @@
+Topic: Muckle-Wells syndrome
+
+Q: What is (are) Muckle-Wells syndrome ?
+A: Muckle-Wells syndrome is an autoinflammatory disease, and the intermediate form of cryopyrin-associated periodic syndrome (CAPS). Signs and symptoms may include recurrent episodes of fever, skin rash, joint pain, abdominal pain, and pinkeye; progressive sensorineural deafness; and amyloidosis. It is caused by mutations in the NLRP3 gene and is inherited in an autosomal dominant manner. Treatment includes a medication called Anakinra during acute episodes.
+
+---
+
+Q: What are the symptoms of Muckle-Wells syndrome ?
+A: What are the signs and symptoms of Muckle-Wells syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Muckle-Wells syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Arthralgia 90% Arthritis 90% Broad foot 90% Cranial nerve paralysis 90% Hepatomegaly 90% Splenomegaly 90% Abdominal pain 50% Nephropathy 50% Nephrotic syndrome 50% Urticaria 50% Abnormality of temperature regulation 7.5% Abnormality of the genital system 7.5% Abnormality of the nose 7.5% Abnormality of the palate 7.5% Abnormality of the voice 7.5% Anemia 7.5% Camptodactyly of finger 7.5% Glaucoma 7.5% Hernia of the abdominal wall 7.5% Ichthyosis 7.5% Macrocephaly 7.5% Myalgia 7.5% Optic atrophy 7.5% Pes cavus 7.5% Polyneuropathy 7.5% Restrictive lung disease 7.5% Short stature 7.5% Skeletal muscle atrophy 7.5% Vasculitis 7.5% Abnormality of the skin - Autosomal dominant inheritance - Conjunctivitis - Elevated erythrocyte sedimentation rate - Episodic fever - Hearing impairment - Infantile onset - Leukocytosis - Progressive sensorineural hearing impairment - Recurrent aphthous stomatitis - Renal amyloidosis - Renal insufficiency - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Muckle-Wells syndrome ?
+A: Muckle-Wells syndrome is a disorder characterized by periodic episodes of skin rash, fever, and joint pain. Progressive hearing loss and kidney damage also occur in this disorder.  People with Muckle-Wells syndrome have recurrent "flare-ups" that begin during infancy or early childhood. These episodes may appear to arise spontaneously or be triggered by cold, heat, fatigue, or other stresses. Affected individuals typically develop a non-itchy rash, mild to moderate fever, painful and swollen joints, and in some cases redness in the whites of the eyes (conjunctivitis).  Hearing loss caused by progressive nerve damage (sensorineural deafness) typically becomes apparent during the teenage years. Abnormal deposits of a protein called amyloid (amyloidosis) cause progressive kidney damage in about one-third of people with Muckle-Wells syndrome; these deposits may also damage other organs. In addition, pigmented skin lesions may occur in affected individuals.
+
+---
+
+Q: How many people are affected by Muckle-Wells syndrome ?
+A: Muckle-Wells syndrome is a rare disorder. It has been reported in many regions of the world, but its prevalence is unknown.
+
+---
+
+Q: What are the genetic changes related to Muckle-Wells syndrome ?
+A: Mutations in the NLRP3 gene (also known as CIAS1) cause Muckle-Wells syndrome. The NLRP3 gene provides instructions for making a protein called cryopyrin.  Cryopyrin belongs to a family of proteins called nucleotide-binding domain and leucine-rich repeat containing (NLR) proteins. These proteins are involved in the immune system, helping to regulate the process of inflammation. Inflammation occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and facilitate tissue repair. When this has been accomplished, the body stops (inhibits) the inflammatory response to prevent damage to its own cells and tissues.  Cryopyrin is involved in the assembly of a molecular complex called an inflammasome, which helps trigger the inflammatory process. Researchers believe that NLRP3 gene mutations that cause Muckle-Wells syndrome result in a hyperactive cryopyrin protein and an inappropriate inflammatory response. Impairment of the body's mechanisms for controlling inflammation results in the episodes of fever and damage to the body's cells and tissues seen in Muckle-Wells syndrome.
+
+---
+
+Q: Is Muckle-Wells syndrome inherited ?
+A: This condition is usually inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, the inheritance pattern is unknown.
+
+---
+
+Q: What are the treatments for Muckle-Wells syndrome ?
+A: These resources address the diagnosis or management of Muckle-Wells syndrome:  - Genetic Testing Registry: Familial amyloid nephropathy with urticaria AND deafness   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

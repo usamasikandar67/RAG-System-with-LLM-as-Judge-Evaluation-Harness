@@ -1,0 +1,19 @@
+Topic: 11-beta-hydroxylase deficiency
+
+Q: What is (are) 11-beta-hydroxylase deficiency ?
+A: Congenital adrenal hyperplasia (CAH) due to 11-beta-hydroxylase deficiency is one of a group of disorders (collectively called congenital adrenal hyperplasia) that affect the adrenal glands. In this condition, the adrenal glands produce excess androgens (male sex hormones). This condition is caused by mutations in the CYP11B1 gene and is inherited in an autosomal recessive pattern. There are two types, the classic form and the non-classic form. Females with the classic form have ambiguous external genitalia with normal internal reproductive organs. Males and females with the classic form have early development of their secondary sexual characteristics (precocious puberty). The early growth spurt can prevent growth later in adolescence and lead to short stature in adulthood. About two-thirds of individuals with the classic form have high blood pressure which develops in the first year of life.
+
+---
+
+Q: What are the symptoms of 11-beta-hydroxylase deficiency ?
+A: What are the signs and symptoms of 11-beta-hydroxylase deficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for 11-beta-hydroxylase deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the urinary system - Accelerated skeletal maturation - Adrenogenital syndrome - Ambiguous genitalia, female - Autosomal recessive inheritance - Clitoromegaly - Congenital adrenal hyperplasia - Decreased circulating aldosterone level - Decreased circulating renin level - Decreased testicular size - Hyperpigmentation of the skin - Hypertension - Hypokalemia - Hypoplasia of the uterus - Hypoplasia of the vagina - Long penis - Neonatal onset - Precocious puberty in males - Short stature - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: Is 11-beta-hydroxylase deficiency inherited ?
+A: How is 11-beta-hydroxylase deficiency inherited? This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: How to diagnose 11-beta-hydroxylase deficiency ?
+A: Is genetic testing available for 11-beta-hydroxylase deficiency? Yes. GeneTests lists laboratories offering clinical genetic testing for this condition. Clinical genetic tests are ordered to help diagnose a person or family and to aid in decisions regarding medical care or reproductive issues. Talk to your health care provider or a genetic professional to learn more about your testing options.

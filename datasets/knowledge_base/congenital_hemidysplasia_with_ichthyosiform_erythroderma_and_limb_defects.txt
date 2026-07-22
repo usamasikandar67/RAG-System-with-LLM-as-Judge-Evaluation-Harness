@@ -1,0 +1,24 @@
+Topic: congenital hemidysplasia with ichthyosiform erythroderma and limb defects
+
+Q: What is (are) congenital hemidysplasia with ichthyosiform erythroderma and limb defects ?
+A: Congenital hemidysplasia with ichthyosiform erythroderma and limb defects, more commonly known by the acronym CHILD syndrome, is a condition that affects the development of several parts of the body. The signs and symptoms of this disorder are typically limited to either the right side or the left side of the body. ("Hemi-" means "half," and "dysplasia" refers to abnormal growth.) The right side is affected about twice as often as the left side.  People with CHILD syndrome have a skin condition characterized by large patches of skin that are red and inflamed (erythroderma) and covered with flaky scales (ichthyosis). This condition is most likely to occur in skin folds and creases and usually does not affect the face. The skin abnormalities are present at birth and persist throughout life.  CHILD syndrome also disrupts the formation of the arms and legs during early development. Children with this disorder may be born with one or more limbs that are shortened or missing. The limb abnormalities occur on the same side of the body as the skin abnormalities.  Additionally, CHILD syndrome may affect the development of the brain, heart, lungs, and kidneys.
+
+---
+
+Q: How many people are affected by congenital hemidysplasia with ichthyosiform erythroderma and limb defects ?
+A: CHILD syndrome is a rare disorder; it has been reported in about 60 people worldwide. This condition occurs almost exclusively in females.
+
+---
+
+Q: What are the genetic changes related to congenital hemidysplasia with ichthyosiform erythroderma and limb defects ?
+A: Mutations in the NSDHL gene cause CHILD syndrome. This gene provides instructions for making an enzyme that is involved in the production of cholesterol. Cholesterol is a type of fat that is produced in the body and obtained from foods that come from animals, particularly egg yolks, meat, fish, and dairy products. Although high cholesterol levels are a well-known risk factor for heart disease, the body needs some cholesterol to develop and function normally both before and after birth. Cholesterol is an important component of cell membranes and the protective substance covering nerve cells (myelin). Additionally, cholesterol plays a role in the production of certain hormones and digestive acids.  The mutations that underlie CHILD syndrome eliminate the activity of the NSDHL enzyme, which disrupts the normal production of cholesterol within cells. A shortage of this enzyme may also allow potentially toxic byproducts of cholesterol production to build up in the body's tissues. Researchers suspect that low cholesterol levels and/or an accumulation of other substances disrupt the growth and development of many parts of the body. It is not known, however, how a disturbance in cholesterol production leads to the specific features of CHILD syndrome.
+
+---
+
+Q: Is congenital hemidysplasia with ichthyosiform erythroderma and limb defects inherited ?
+A: This condition has an X-linked dominant pattern of inheritance. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. The inheritance is dominant if one copy of the altered gene in each cell is sufficient to cause the condition.  Most cases of CHILD syndrome occur sporadically, which means only one member of a family is affected. Rarely, the condition can run in families and is passed from mother to daughter. Researchers believe that CHILD syndrome occurs almost exclusively in females because affected males die before birth. Only one male with CHILD syndrome has been reported.
+
+---
+
+Q: What are the treatments for congenital hemidysplasia with ichthyosiform erythroderma and limb defects ?
+A: These resources address the diagnosis or management of CHILD syndrome:  - Gene Review: Gene Review: NSDHL-Related Disorders  - Genetic Testing Registry: Child syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

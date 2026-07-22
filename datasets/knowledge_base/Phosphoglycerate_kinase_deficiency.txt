@@ -1,0 +1,24 @@
+Topic: phosphoglycerate kinase deficiency
+
+Q: What is (are) phosphoglycerate kinase deficiency ?
+A: Phosphoglycerate kinase deficiency is a genetic disorder that affects the body's ability to break down the simple sugar glucose, which is the primary energy source for most cells. Researchers have described two major forms of the condition. The most common form is sometimes called the hemolytic form. It is characterized by a condition known as chronic hemolytic anemia, in which red blood cells are broken down (undergo hemolysis) prematurely. Chronic hemolytic anemia can lead to unusually pale skin (pallor), yellowing of the eyes and skin (jaundice), fatigue, shortness of breath, and a rapid heart rate. Some people with the hemolytic form also have symptoms related to abnormal brain function, including intellectual disability, seizures, and stroke.  The other form of phosphoglycerate kinase deficiency is often called the myopathic form. It primarily affects muscles, causing progressive weakness, pain, and cramping, particularly with exercise. During exercise, muscle tissue can be broken down, releasing a protein called myoglobin. This protein is processed by the kidneys and released in the urine (myoglobinuria). If untreated, myoglobinuria can lead to kidney failure.  Most people with phosphoglycerate kinase deficiency have either the hemolytic form or the myopathic form. However, other combinations of signs and symptoms (such as muscle weakness with neurologic symptoms) have also been reported.
+
+---
+
+Q: How many people are affected by phosphoglycerate kinase deficiency ?
+A: Phosphoglycerate kinase deficiency appears to be a rare disorder. About 30 families with affected members have been reported in the scientific literature.
+
+---
+
+Q: What are the genetic changes related to phosphoglycerate kinase deficiency ?
+A: Phosphoglycerate kinase deficiency is caused by mutations in the PGK1 gene. This gene provides instructions for making an enzyme called phosphoglycerate kinase, which is involved in a critical energy-producing process in cells known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce energy.  Mutations in the PGK1 gene reduce the activity of phosphoglycerate kinase, which disrupts energy production and leads to cell damage or cell death. It is unclear why this abnormality preferentially affects red blood cells and brain cells in some people and muscle cells in others. Researchers speculate that different PGK1 gene mutations may have varying effects on the activity of phosphoglycerate kinase in different types of cells.
+
+---
+
+Q: Is phosphoglycerate kinase deficiency inherited ?
+A: This condition is inherited in an X-linked recessive pattern. The PGK1 gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Females with one altered PGK1 gene, however, may have some features of phosphoglycerate kinase deficiency, such as anemia. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.
+
+---
+
+Q: What are the treatments for phosphoglycerate kinase deficiency ?
+A: These resources address the diagnosis or management of phosphoglycerate kinase deficiency:  - Children Living with Inherited Metabolic Diseases (CLIMB) (UK): Phosphoglycerate Kinase Deficiency  - Genetic Testing Registry: Deficiency of phosphoglycerate kinase  - Genetic Testing Registry: Phosphoglycerate kinase 1 deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

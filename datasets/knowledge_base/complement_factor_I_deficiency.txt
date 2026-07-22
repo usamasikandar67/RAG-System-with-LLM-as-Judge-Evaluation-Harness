@@ -1,0 +1,24 @@
+Topic: complement factor I deficiency
+
+Q: What is (are) complement factor I deficiency ?
+A: Complement factor I deficiency is a disorder that affects the immune system. People with this condition are prone to recurrent infections, including infections of the upper respiratory tract, ears, skin, and urinary tract. They may also contract more serious infections such as pneumonia, meningitis, and sepsis, which may be life-threatening.  Some people with complement factor I deficiency have a kidney disorder called glomerulonephritis with isolated C3 deposits. Complement factor I deficiency can also be associated with autoimmune disorders such as rheumatoid arthritis or systemic lupus erythematosus (SLE). Autoimmune disorders occur when the immune system malfunctions and attacks the body's tissues and organs.
+
+---
+
+Q: How many people are affected by complement factor I deficiency ?
+A: Complement factor I deficiency is a rare disorder; its exact prevalence is unknown. At least 38 cases have been reported in the medical literature.
+
+---
+
+Q: What are the genetic changes related to complement factor I deficiency ?
+A: Complement factor I deficiency is caused by mutations in the CFI gene. This gene provides instructions for making a protein called complement factor I. This protein helps regulate a part of the body's immune response known as the complement system. The complement system is a group of proteins that work together to destroy foreign invaders (such as bacteria and viruses), trigger inflammation, and remove debris from cells and tissues. This system must be carefully regulated so it targets only unwanted materials and does not attack the body's healthy cells. Complement factor I and several related proteins protect healthy cells by preventing activation of the complement system when it is not needed.  Mutations in the CFI gene that cause complement factor I deficiency result in abnormal, nonfunctional, or absent complement factor I. The lack (deficiency) of functional complement factor I protein allows uncontrolled activation of the complement system. The unregulated activity of the complement system decreases blood levels of another complement protein called C3, reducing the immune system's ability to fight infections. In addition, the immune system may malfunction and attack its own tissues, resulting in autoimmune disorders.
+
+---
+
+Q: Is complement factor I deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for complement factor I deficiency ?
+A: These resources address the diagnosis or management of complement factor I deficiency:  - MedlinePlus Encyclopedia: Complement   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,24 @@
+Topic: spondyloperipheral dysplasia
+
+Q: What is (are) spondyloperipheral dysplasia ?
+A: Spondyloperipheral dysplasia is a disorder that impairs bone growth. This condition is characterized by flattened bones of the spine (platyspondyly) and unusually short fingers and toes (brachydactyly), with the exception of the first (big) toes. Other skeletal abnormalities associated with spondyloperipheral dysplasia include short stature, shortened long bones of the arms and legs, exaggerated curvature of the lower back (lordosis), and an inward- and upward-turning foot (clubfoot). Additionally, some affected individuals have nearsightedness (myopia), hearing loss, and intellectual disability.
+
+---
+
+Q: How many people are affected by spondyloperipheral dysplasia ?
+A: This condition is rare; only a few affected individuals have been reported worldwide.
+
+---
+
+Q: What are the genetic changes related to spondyloperipheral dysplasia ?
+A: Spondyloperipheral dysplasia is one of a spectrum of skeletal disorders caused by mutations in the COL2A1 gene. This gene provides instructions for making a protein that forms type II collagen. This type of collagen is found mostly in the clear gel that fills the eyeball (the vitreous) and in cartilage. Cartilage is a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears. Type II collagen is essential for the normal development of bones and other connective tissues that form the body's supportive framework.  Mutations in the COL2A1 gene interfere with the assembly of type II collagen molecules, reducing the amount of this type of collagen in the body. Instead of forming collagen molecules, the abnormal COL2A1 protein builds up in cartilage cells (chondrocytes). These changes disrupt the normal development of bones and other connective tissues, leading to the signs and symptoms of spondyloperipheral dysplasia.
+
+---
+
+Q: Is spondyloperipheral dysplasia inherited ?
+A: This condition is probably inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+
+---
+
+Q: What are the treatments for spondyloperipheral dysplasia ?
+A: These resources address the diagnosis or management of spondyloperipheral dysplasia:  - Genetic Testing Registry: Spondyloperipheral dysplasia  - MedlinePlus Encyclopedia: Nearsightedness   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

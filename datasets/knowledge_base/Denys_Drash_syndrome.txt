@@ -1,0 +1,44 @@
+Topic: Denys-Drash syndrome
+
+Q: What is (are) Denys-Drash syndrome ?
+A: Denys-Drash syndrome is a condition that affects the kidneys and genitalia. Kidney disease typically begins in the first few months of life, often leading to kidney failure in childhood. In addition, up to 90 percent of people with this condition develop a rare form of kidney cancer known as Wilms tumor. Males with Denys-Drash syndrome have gonadal dysgenesis, a condition in which the external genitalia do not look clearly male or clearly female (ambiguous genitalia) or the genitalia appear to be completely female. The testes are also undescended, meaning that they remain in the pelvis, abdomen, or groin. Affected females usually have normal genitalia. For this reason, females with this condition may be diagnosed with isolated nephrotic syndrome. Denys-Drash syndrome is caused by mutations in the WT1 gene. This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. However, most cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the symptoms of Denys-Drash syndrome ?
+A: What are the signs and symptoms of Denys-Drash syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Denys-Drash syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Male pseudohermaphroditism 90% Nephroblastoma (Wilms tumor) 90% Nephropathy 90% Nephrotic syndrome 90% Proteinuria 90% Hypertension 50% Gonadal dysgenesis 7.5% Ambiguous genitalia, female - Ambiguous genitalia, male - Autosomal dominant inheritance - Congenital diaphragmatic hernia - Diffuse mesangial sclerosis - Focal segmental glomerulosclerosis - Gonadal tissue inappropriate for external genitalia or chromosomal sex - Ovarian gonadoblastoma - Somatic mutation - Stage 5 chronic kidney disease - True hermaphroditism - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Denys-Drash syndrome ?
+A: What causes Denys-Drash syndrome? Denys-Drash syndrome is caused by mutations in the WT1 gene. This gene provides instructions for making a protein (the WT1 protein) that regulates the activity of other genes by attaching (binding) to specific regions of DNA. The WT1 protein plays a role in the development of the kidneys and gonads (ovaries in females and testes in males) before birth. The WT1 gene mutations that cause Denys-Drash syndrome lead to the production of an abnormal protein that cannot bind to DNA. As a result, the activity of certain genes is unregulated, which impairs the development of the kidneys and reproductive organs. Abnormal development of these organs leads to diffuse glomerulosclerosis (where scar tissue forms throughout glomeruli, the tiny blood vessels in the kidney that filter waste from blood) and gonadal dysgenesis, which are characteristic features of Denys-Drash syndrome. The abnormal gene activity caused by the loss of normal WT1 protein also increases the risk of developing Wilms tumor in affected individuals.
+
+---
+
+Q: Is Denys-Drash syndrome inherited ?
+A: Is Denys-Drash syndrome inherited? Denys-Drash syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases of Denys-Drash syndrome result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.
+
+---
+
+Q: What is (are) Denys-Drash syndrome ?
+A: Denys-Drash syndrome is a condition that affects the kidneys and genitalia.  Denys-Drash syndrome is characterized by kidney disease that begins within the first few months of life. Affected individuals have a condition called diffuse glomerulosclerosis, in which scar tissue forms throughout glomeruli, which are the tiny blood vessels in the kidneys that filter waste from blood. In people with Denys-Drash syndrome, this condition often leads to kidney failure in childhood. People with Denys-Drash syndrome have an estimated 90 percent chance of developing a rare form of kidney cancer known as Wilms tumor. Affected individuals may develop multiple tumors in one or both kidneys.  Although males with Denys-Drash syndrome have the typical male chromosome pattern (46,XY), they have gonadal dysgenesis, in which external genitalia do not look clearly male or clearly female (ambiguous genitalia) or the genitalia appear completely female. The testes of affected males are undescended, which means they are abnormally located in the pelvis, abdomen, or groin. As a result, males with Denys-Drash are typically unable to have biological children (infertile).  Affected females usually have normal genitalia and have only the kidney features of the condition. Because they do not have all the features of the condition, females are usually given the diagnosis of isolated nephrotic syndrome.
+
+---
+
+Q: How many people are affected by Denys-Drash syndrome ?
+A: The prevalence of Denys-Drash syndrome is unknown; at least 150 affected individuals have been reported in the scientific literature.
+
+---
+
+Q: What are the genetic changes related to Denys-Drash syndrome ?
+A: Mutations in the WT1 gene cause Denys-Drash syndrome. The WT1 gene provides instructions for making a protein that regulates the activity of other genes by attaching (binding) to specific regions of DNA. On the basis of this action, the WT1 protein is called a transcription factor. The WT1 protein plays a role in the development of the kidneys and kidneys and gonads (ovaries in females and testes in males) before birth.  WT1 gene mutations that cause Denys-Drash syndrome lead to the production of an abnormal protein that cannot bind to DNA. As a result, the activity of certain genes is unregulated, which impairs the development of the kidneys and reproductive organs. Abnormal development of these organs leads to diffuse glomerulosclerosis and gonadal dysgenesis, which are characteristic of Denys-Drash syndrome. Abnormal gene activity caused by the loss of normal WT1 protein increases the risk of developing Wilms tumor in affected individuals.  Denys-Drash syndrome has features similar to another condition called Frasier syndrome, which is also caused by mutations in the WT1 gene. Because these two conditions share a genetic cause and have overlapping features, some researchers have suggested that they are part of a spectrum and not two distinct conditions.
+
+---
+
+Q: Is Denys-Drash syndrome inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+
+---
+
+Q: What are the treatments for Denys-Drash syndrome ?
+A: These resources address the diagnosis or management of Denys-Drash syndrome:  - Gene Review: Gene Review: Wilms Tumor Overview  - Genetic Testing Registry: Drash syndrome  - MedlinePlus Encyclopedia: Nephrotic Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

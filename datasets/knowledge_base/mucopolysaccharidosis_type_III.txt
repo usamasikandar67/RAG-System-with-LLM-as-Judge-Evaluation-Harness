@@ -1,0 +1,24 @@
+Topic: mucopolysaccharidosis type III
+
+Q: What is (are) mucopolysaccharidosis type III ?
+A: Mucopolysaccharidosis type III (MPS III), also known as Sanfilippo syndrome, is a progressive disorder that mainly affects the brain and spinal cord (central nervous system).  People with MPS III generally do not display any features of the condition at birth, but they begin to show signs and symptoms of the disorder during early childhood. Affected children often initially have delayed speech and behavior problems. They may become restless, destructive, anxious, or aggressive. Sleep disturbances are also very common in children with MPS III. This condition causes progressive intellectual disability and the loss of previously acquired skills (developmental regression). In later stages of the disorder, people with MPS III may develop seizures and movement disorders.  The physical features of MPS III are less pronounced than those of other types of mucopolysaccharidosis. Individuals with MPS III typically have mildly "coarse" facial features, a large head (macrocephaly), a slightly enlarged liver (mild hepatomegaly), and a soft out-pouching around the belly-button (umbilical hernia) or lower abdomen (inguinal hernia). Some people with MPS III have short stature, joint stiffness, or mild dysostosis multiplex, which refers to multiple skeletal abnormalities seen on x-ray. Affected individuals often develop chronic diarrhea and recurrent upper respiratory and ear infections. People with MPS III may also experience hearing loss and vision problems.  MPS III is divided into types IIIA, IIIB, IIIC, and IIID, which are distinguished by their genetic cause. The different types of MPS III have similar signs and symptoms, although the features of MPS IIIA typically appear earlier in life and progress more rapidly. People with MPS III usually live into adolescence or early adulthood.
+
+---
+
+Q: How many people are affected by mucopolysaccharidosis type III ?
+A: MPS III is the most common type of mucopolysaccharidosis; the estimated incidence of all four types combined is 1 in 70,000 newborns. MPS IIIA and MPS IIIB are much more common than MPS IIIC and MPS IIID.
+
+---
+
+Q: What are the genetic changes related to mucopolysaccharidosis type III ?
+A: Mutations in the GNS, HGSNAT, NAGLU, and SGSH genes cause MPS III. These genes provide instructions for making enzymes involved in the breakdown of large sugar molecules called glycosaminoglycans (GAGs). GAGs were originally called mucopolysaccharides, which is where this condition gets its name. The GNS, HGSNAT, NAGLU, and SGSH enzymes are involved in the step-wise breakdown of a subset of GAGs called heparan sulfate.  MPS IIIA is caused by mutations in the SGSH gene, and MPS IIIB is caused by NAGLU gene mutations. Mutations in the HGSNAT gene result in MPS IIIC, and GNS gene mutations cause MPS IIID. Mutations in these genes reduce or eliminate enzyme function. A lack of any one of these enzymes disrupts the breakdown of heparan sulfate. As a result, partially broken down heparan sulfate accumulates within cells, specifically inside the lysosomes. Lysosomes are compartments in the cell that digest and recycle different types of molecules. Conditions such as MPS III that cause molecules to build up inside the lysosomes are called lysosomal storage disorders. Researchers believe that the accumulation of GAGs interferes with the functions of other proteins inside the lysosomes and disrupts the normal functions of cells. It is unknown why the buildup of heparan sulfate mostly affects the central nervous system in MPS III.
+
+---
+
+Q: Is mucopolysaccharidosis type III inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for mucopolysaccharidosis type III ?
+A: These resources address the diagnosis or management of mucopolysaccharidosis type III:  - Genetic Testing Registry: Mucopolysaccharidosis, MPS-III-A  - Genetic Testing Registry: Mucopolysaccharidosis, MPS-III-B  - Genetic Testing Registry: Mucopolysaccharidosis, MPS-III-C  - Genetic Testing Registry: Mucopolysaccharidosis, MPS-III-D  - MedlinePlus Encyclopedia: Sanfilippo Syndrome  - National MPS Society: A Guide to Understanding MPS III   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

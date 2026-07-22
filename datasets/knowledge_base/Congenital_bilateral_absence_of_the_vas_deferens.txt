@@ -1,0 +1,24 @@
+Topic: congenital bilateral absence of the vas deferens
+
+Q: What is (are) congenital bilateral absence of the vas deferens ?
+A: Congenital bilateral absence of the vas deferens occurs in males when the tubes that carry sperm out of the testes (the vas deferens) fail to develop properly. Although the testes usually develop and function normally, sperm cannot be transported through the vas deferens to become part of semen. As a result, men with this condition are unable to father children (infertile) unless they use assisted reproductive technologies. This condition has not been reported to affect sex drive or sexual performance.  This condition can occur alone or as a sign of cystic fibrosis, an inherited disease of the mucus glands. Cystic fibrosis causes progressive damage to the respiratory system and chronic digestive system problems. Many men with congenital bilateral absence of the vas deferens do not have the other characteristic features of cystic fibrosis; however, some men with this condition may experience mild respiratory or digestive problems.
+
+---
+
+Q: How many people are affected by congenital bilateral absence of the vas deferens ?
+A: This condition is responsible for 1 percent to 2 percent of all infertility in men.
+
+---
+
+Q: What are the genetic changes related to congenital bilateral absence of the vas deferens ?
+A: Mutations in the CFTR gene cause congenital bilateral absence of the vas deferens.  More than half of all men with this condition have mutations in the CFTR gene. Mutations in this gene also cause cystic fibrosis. When congenital bilateral absence of the vas deferens occurs with CFTR mutations, it is considered a form of atypical cystic fibrosis.  The protein made from the CFTR gene forms a channel that transports negatively charged particles called chloride ions into and out of cells. The flow of chloride ions helps control the movement of water in tissues, which is necessary for the production of thin, freely flowing mucus. Mucus is a slippery substance that lubricates and protects the linings of the airways, digestive system, reproductive system, and other organs and tissues.  Mutations in the CFTR gene disrupt the function of the chloride channels, preventing them from regulating the flow of chloride ions and water across cell membranes. As a result, cells in the male genital tract produce mucus that is abnormally thick and sticky. This mucus clogs the vas deferens as they are forming, causing them to deteriorate before birth.  In instances of congenital bilateral absence of the vas deferens without a mutation in the CFTR gene, the cause of this condition is often unknown. Some cases are associated with other structural problems of the urinary tract.
+
+---
+
+Q: Is congenital bilateral absence of the vas deferens inherited ?
+A: When this condition is caused by mutations in the CFTR gene, it is inherited in an autosomal recessive pattern. This pattern of inheritance means that both copies of the gene in each cell have a mutation. Men with this condition who choose to father children through assisted reproduction have an increased risk of having a child with cystic fibrosis. If congenital absence of the vas deferens is not caused by mutations in CFTR, the risk of having children with cystic fibrosis is not increased.
+
+---
+
+Q: What are the treatments for congenital bilateral absence of the vas deferens ?
+A: These resources address the diagnosis or management of congenital bilateral absence of the vas deferens:  - Gene Review: Gene Review: CFTR-Related Disorders  - Genetic Testing Registry: Congenital bilateral absence of the vas deferens  - MedlinePlus Encyclopedia: Infertility  - MedlinePlus Encyclopedia: Pathway of sperm (image)  - MedlinePlus Health Topic: Assisted Reproductive Technology   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

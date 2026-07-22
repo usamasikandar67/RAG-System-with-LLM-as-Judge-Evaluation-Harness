@@ -1,0 +1,24 @@
+Topic: Pallister-Hall syndrome
+
+Q: What is (are) Pallister-Hall syndrome ?
+A: Pallister-Hall syndrome is a disorder that affects the development of many parts of the body. Most people with this condition have extra fingers and/or toes (polydactyly), and the skin between some fingers or toes may be fused (cutaneous syndactyly). An abnormal growth in the brain called a hypothalamic hamartoma is characteristic of this disorder. In many cases, these growths do not cause any medical problems; however, some hypothalamic hamartomas lead to seizures or hormone abnormalities that can be life-threatening in infancy. Other features of Pallister-Hall syndrome include a malformation of the airway called a bifid epiglottis, an obstruction of the anal opening (imperforate anus), and kidney abnormalities. Although the signs and symptoms of this disorder vary from mild to severe, only a small percentage of affected people have serious complications.
+
+---
+
+Q: How many people are affected by Pallister-Hall syndrome ?
+A: This condition is very rare; its prevalence is unknown.
+
+---
+
+Q: What are the genetic changes related to Pallister-Hall syndrome ?
+A: Mutations in the GLI3 gene cause Pallister-Hall syndrome.  The GLI3 gene provides instructions for making a protein that controls gene expression, which is a process that regulates whether genes are turned on or off in particular cells. By interacting with certain genes at specific times during development, the GLI3 protein plays a role in the normal shaping (patterning) of many organs and tissues before birth.  Mutations that cause Pallister-Hall syndrome typically lead to the production of an abnormally short version of the GLI3 protein. Unlike the normal GLI3 protein, which can turn target genes on or off, the short protein can only turn off (repress) target genes. Researchers are working to determine how this change in the protein's function affects early development. It remains uncertain how GLI3 mutations can cause polydactyly, hypothalamic hamartoma, and the other features of Pallister-Hall syndrome.
+
+---
+
+Q: Is Pallister-Hall syndrome inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits a mutation in the GLI3 gene from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for Pallister-Hall syndrome ?
+A: These resources address the diagnosis or management of Pallister-Hall syndrome:  - Gene Review: Gene Review: Pallister-Hall Syndrome  - Genetic Testing Registry: Pallister-Hall syndrome  - MedlinePlus Encyclopedia: Epiglottis (Image)  - MedlinePlus Encyclopedia: Imperforate Anus  - MedlinePlus Encyclopedia: Polydactyly   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

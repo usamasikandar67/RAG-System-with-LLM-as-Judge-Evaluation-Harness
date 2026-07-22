@@ -1,0 +1,24 @@
+Topic: ophthalmo-acromelic syndrome
+
+Q: What is (are) ophthalmo-acromelic syndrome ?
+A: Ophthalmo-acromelic syndrome is a condition that results in malformations of the eyes, hands, and feet. The features of this condition are present from birth. The eyes are often absent or severely underdeveloped (anophthalmia), or they may be abnormally small (microphthalmia). Usually both eyes are similarly affected in this condition, but if only one eye is small or missing, the other eye may have a defect such as a gap or split in its structures (coloboma).  The most common hand and foot malformation seen in ophthalmo-acromelic syndrome is missing fingers or toes (oligodactyly). Other frequent malformations include fingers or toes that are fused together (syndactyly) or extra fingers or toes (polydactyly). These skeletal malformations are often described as acromelic, meaning that they occur in the bones that are away from the center of the body. Additional skeletal abnormalities involving the long bones of the arms and legs or the spinal bones (vertebrae) can also occur. Affected individuals may have distinctive facial features, an opening in the lip (cleft lip) with or without an opening in the roof of the mouth (cleft palate), or intellectual disability.
+
+---
+
+Q: How many people are affected by ophthalmo-acromelic syndrome ?
+A: The prevalence of ophthalmo-acromelic syndrome is not known; approximately 35 cases have been reported in the medical literature.
+
+---
+
+Q: What are the genetic changes related to ophthalmo-acromelic syndrome ?
+A: Mutations in the SMOC1 gene cause ophthalmo-acromelic syndrome. The SMOC1 gene provides instructions for making a protein called secreted modular calcium-binding protein 1 (SMOC-1). This protein is found in basement membranes, which are thin, sheet-like structures that support cells in many tissues and help anchor cells to one another during embryonic development. The SMOC-1 protein attaches (binds) to many different proteins and is thought to regulate molecules called growth factors that stimulate the growth and development of tissues throughout the body. These growth factors play important roles in skeletal formation, normal shaping (patterning) of the limbs, as well as eye formation and development. The SMOC-1 protein also likely promotes the maturation (differentiation) of cells that build bones, called osteoblasts.  SMOC1 gene mutations often result in a nonfunctional SMOC-1 protein. The loss of SMOC-1 could disrupt growth factor signaling, which would impair the normal development of the skeleton, limbs, and eyes. These changes likely underlie the anophthalmia and skeletal malformations of ophthalmo-acromelic syndrome. It is unclear how SMOC1 gene mutations lead to the other features of this condition.  Some people with ophthalmo-acromelic syndrome do not have an identified mutation in the SMOC1 gene. The cause of the condition in these individuals is unknown.
+
+---
+
+Q: Is ophthalmo-acromelic syndrome inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for ophthalmo-acromelic syndrome ?
+A: These resources address the diagnosis or management of ophthalmo-acromelic syndrome:  - Genetic Testing Registry: Anophthalmos with limb anomalies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

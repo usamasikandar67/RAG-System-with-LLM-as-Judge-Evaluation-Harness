@@ -1,0 +1,24 @@
+Topic: trichohepatoenteric syndrome
+
+Q: What is (are) trichohepatoenteric syndrome ?
+A: Trichohepatoenteric syndrome is a condition that affects the hair (tricho-), liver (hepato-), and intestines (enteric), as well as other tissues and organs in the body. This condition is also known as syndromic diarrhea because chronic, difficult-to-treat diarrhea is one of its major features. Within the first few weeks of life, affected infants develop watery diarrhea that occurs multiple times per day. Even with nutritional support through intravenous feedings (parenteral nutrition), many of these children experience failure to thrive, which means they do not gain weight or grow at the expected rate. Most children with trichohepatoenteric syndrome are small at birth, and they remain shorter than their peers throughout life.  Abnormal hair is another feature of trichohepatoenteric syndrome. Hair in affected individuals is described as wooly, brittle, patchy, and easily pulled out. Under a microscope, some strands of hair can be seen to vary in diameter, with thicker and thinner spots. This feature is known as trichorrhexis nodosa.  Other signs and symptoms of trichohepatoenteric syndrome can include liver disease; skin abnormalities; and distinctive facial features, including a wide forehead, a broad base of the nose, and widely spaced eyes. Overall, the facial features are described as "coarse." Most affected individuals also experience immune system abnormalities that can make them prone to developing infections. Less commonly, trichohepatoenteric syndrome is associated with heart (cardiac) abnormalities. Mild intellectual disability has been reported in at least half of all children with the condition.  Trichohepatoenteric syndrome is often life-threatening in childhood, particularly in children who develop liver disease or severe infections.
+
+---
+
+Q: How many people are affected by trichohepatoenteric syndrome ?
+A: Trichohepatoenteric syndrome is a rare condition with an estimated prevalence of about 1 in 1 million people. At least 44 cases have been reported in the medical literature.
+
+---
+
+Q: What are the genetic changes related to trichohepatoenteric syndrome ?
+A: Trichohepatoenteric syndrome can be caused by mutations in the TTC37 or SKIV2L gene. These genes provide instructions for making proteins whose functions have not been confirmed. Researchers speculate that they work together with other proteins within cells to help recognize and break down excess or abnormal messenger RNA (mRNA) molecules. mRNA is a chemical cousin of DNA that serves as the genetic blueprint for protein production. Studies suggest that getting rid of excess and abnormal mRNA is important for cell growth.  Mutations in the TTC37 or SKIV2L gene likely eliminate the function of their respective proteins, which is hypothesized to impair the breakdown of unneeded mRNA. However, it is unknown how these changes could lead to chronic diarrhea and the other features of trichohepatoenteric syndrome.
+
+---
+
+Q: Is trichohepatoenteric syndrome inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for trichohepatoenteric syndrome ?
+A: These resources address the diagnosis or management of trichohepatoenteric syndrome:  - American Society for Parenteral and Enteral Nutrition: What is Parenteral Nutrition?  - Genetic Testing Registry: Trichohepatoenteric syndrome  - Genetic Testing Registry: Trichohepatoenteric syndrome 2  - MedlinePlus Health Topic: Nutritional Support   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

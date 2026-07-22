@@ -1,0 +1,24 @@
+Topic: Gitelman syndrome
+
+Q: What is (are) Gitelman syndrome ?
+A: Gitelman syndrome is a kidney disorder that causes an imbalance of charged atoms (ions) in the body, including ions of potassium, magnesium, and calcium.  The signs and symptoms of Gitelman syndrome usually appear in late childhood or adolescence. Common features of this condition include painful muscle spasms (tetany), muscle weakness or cramping, dizziness, and salt craving. Also common is a tingling or prickly sensation in the skin (paresthesias), most often affecting the face. Some individuals with Gitelman syndrome experience excessive tiredness (fatigue), low blood pressure, and a painful joint condition called chondrocalcinosis. Studies suggest that Gitelman syndrome may also increase the risk of a potentially dangerous abnormal heart rhythm called ventricular arrhythmia.  The signs and symptoms of Gitelman syndrome vary widely, even among affected members of the same family. Most people with this condition have relatively mild symptoms, although affected individuals with severe muscle cramping, paralysis, and slow growth have been reported.
+
+---
+
+Q: How many people are affected by Gitelman syndrome ?
+A: Gitelman syndrome affects an estimated 1 in 40,000 people worldwide.
+
+---
+
+Q: What are the genetic changes related to Gitelman syndrome ?
+A: Gitelman syndrome is usually caused by mutations in the SLC12A3 gene. Less often, the condition results from mutations in the CLCNKB gene. The proteins produced from these genes are involved in the kidneys' reabsorption of salt (sodium chloride or NaCl) from urine back into the bloodstream. Mutations in either gene impair the kidneys' ability to reabsorb salt, leading to the loss of excess salt in the urine (salt wasting). Abnormalities of salt transport also affect the reabsorption of other ions, including ions of potassium, magnesium, and calcium. The resulting imbalance of ions in the body underlies the major features of Gitelman syndrome.
+
+---
+
+Q: Is Gitelman syndrome inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for Gitelman syndrome ?
+A: These resources address the diagnosis or management of Gitelman syndrome:  - Genetic Testing Registry: Familial hypokalemia-hypomagnesemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

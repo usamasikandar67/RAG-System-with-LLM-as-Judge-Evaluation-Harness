@@ -1,0 +1,34 @@
+Topic: 2-methylbutyryl-CoA dehydrogenase deficiency
+
+Q: What is (are) 2-methylbutyryl-CoA dehydrogenase deficiency ?
+A: 2-methylbutyryl-CoA dehydrogenase deficiency is a metabolic disorder in which individuals lack adequate levels of an enzyme called 2-methylbutyryl-CoA dehydrogenase. This enzyme assists in the processing of a particular amino acid called isoleucine. The inability to process isoleucine correctly leads to the buildup of the amino acid in the body.  The buildup can cause a variety of health problems, which vary widely from severe and life-threatening to mild or absent.  Signs and symptoms of the disorder can begin a few days after birth or later in childhood.  The initial symptoms often include poor feeding, lack of energy, vomiting, and irritability.
+
+---
+
+Q: What are the symptoms of 2-methylbutyryl-CoA dehydrogenase deficiency ?
+A: What are the signs and symptoms of 2-methylbutyryl-CoA dehydrogenase deficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for 2-methylbutyryl-CoA dehydrogenase deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Apneic episodes in infancy - Autosomal recessive inheritance - Exotropia - Generalized amyotrophy - Hypoglycemia - Hypothermia - Infantile onset - Lethargy - Microcephaly - Motor delay - Muscular hypotonia - Seizures - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) 2-methylbutyryl-CoA dehydrogenase deficiency ?
+A: 2-methylbutyryl-CoA dehydrogenase deficiency is a type of organic acid disorder in which the body is unable to process proteins properly. Organic acid disorders lead to an abnormal buildup of particular acids known as organic acids. Abnormal levels of organic acids in the blood (organic acidemia), urine (organic aciduria), and tissues can be toxic and can cause serious health problems.  Normally, the body breaks down proteins from food into smaller parts called amino acids. Amino acids can be further processed to provide energy for growth and development. People with 2-methylbutyryl-CoA dehydrogenase deficiency have inadequate levels of an enzyme that helps process a particular amino acid called isoleucine.  Health problems related to 2-methylbutyryl-CoA dehydrogenase deficiency vary widely from severe and life-threatening to mild or absent. Signs and symptoms of this disorder can begin a few days after birth or later in childhood. The initial symptoms often include poor feeding, lack of energy (lethargy), vomiting, and an irritable mood. These symptoms sometimes progress to serious medical problems such as difficulty breathing, seizures, and coma. Additional problems can include poor growth, vision problems, learning disabilities, muscle weakness, and delays in motor skills such as standing and walking.  Symptoms of 2-methylbutyryl-CoA dehydrogenase deficiency may be triggered by prolonged periods without food (fasting), infections, or eating an increased amount of protein-rich foods. Some people with this disorder never have any signs or symptoms (asymptomatic). For example, individuals of Hmong ancestry identified with 2-methylbutyryl-CoA dehydrogenase deficiency through newborn screening are usually asymptomatic.
+
+---
+
+Q: How many people are affected by 2-methylbutyryl-CoA dehydrogenase deficiency ?
+A: 2-methylbutyryl-CoA dehydrogenase deficiency is a rare disorder; its actual incidence is unknown. This disorder is more common, however, among Hmong populations in southeast Asia and in Hmong Americans. 2-methylbutyryl-CoA dehydrogenase deficiency occurs in 1 in 250 to 1 in 500 people of Hmong ancestry.
+
+---
+
+Q: What are the genetic changes related to 2-methylbutyryl-CoA dehydrogenase deficiency ?
+A: Mutations in the ACADSB gene cause 2-methylbutyryl-CoA dehydrogenase deficiency.  The ACADSB gene provides instructions for making an enzyme called 2-methylbutyryl-CoA dehydrogenase that helps process the amino acid isoleucine. Mutations in the ACADSB gene reduce or eliminate the activity of this enzyme. With a shortage (deficiency) of 2-methylbutyryl-CoA dehydrogenase, the body is unable to break down isoleucine properly. As a result, isoleucine is not converted to energy, which can lead to characteristic features of this disorder, such as lethargy and muscle weakness. Also, an organic acid called 2-methylbutyrylglycine and related compounds may build up to harmful levels, causing serious health problems.
+
+---
+
+Q: Is 2-methylbutyryl-CoA dehydrogenase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for 2-methylbutyryl-CoA dehydrogenase deficiency ?
+A: These resources address the diagnosis or management of 2-methylbutyryl-CoA dehydrogenase deficiency:  - Baby's First Test  - Genetic Testing Registry: Deficiency of 2-methylbutyryl-CoA dehydrogenase   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

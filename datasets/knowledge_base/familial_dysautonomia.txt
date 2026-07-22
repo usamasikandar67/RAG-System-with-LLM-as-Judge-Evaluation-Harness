@@ -1,0 +1,24 @@
+Topic: familial dysautonomia
+
+Q: What is (are) familial dysautonomia ?
+A: Familial dysautonomia is a genetic disorder that affects the development and survival of certain nerve cells. The disorder disturbs cells in the autonomic nervous system, which controls involuntary actions such as digestion, breathing, production of tears, and the regulation of blood pressure and body temperature. It also affects the sensory nervous system, which controls activities related to the senses, such as taste and the perception of pain, heat, and cold. Familial dysautonomia is also called hereditary sensory and autonomic neuropathy, type III.  Problems related to this disorder first appear during infancy. Early signs and symptoms include poor muscle tone (hypotonia), feeding difficulties, poor growth, lack of tears, frequent lung infections, and difficulty maintaining body temperature. Older infants and young children with familial dysautonomia may hold their breath for prolonged periods of time, which may cause a bluish appearance of the skin or lips (cyanosis) or fainting. This breath-holding behavior usually stops by age 6. Developmental milestones, such as walking and speech, are usually delayed, although some affected individuals show no signs of developmental delay.  Additional signs and symptoms in school-age children include bed wetting, episodes of vomiting, reduced sensitivity to temperature changes and pain, poor balance, abnormal curvature of the spine (scoliosis), poor bone quality and increased risk of bone fractures, and kidney and heart problems. Affected individuals also have poor regulation of blood pressure. They may experience a sharp drop in blood pressure upon standing (orthostatic hypotension), which can cause dizziness, blurred vision, or fainting. They can also have episodes of high blood pressure when nervous or excited, or during vomiting incidents. About one-third of children with familial dysautonomia have learning disabilities, such as a short attention span, that require special education classes. By adulthood, affected individuals often have increasing difficulties with balance and walking unaided. Other problems that may appear in adolescence or early adulthood include lung damage due to repeated infections, impaired kidney function, and worsening vision due to the shrinking size (atrophy) of optic nerves, which carry information from the eyes to the brain.
+
+---
+
+Q: How many people are affected by familial dysautonomia ?
+A: Familial dysautonomia occurs primarily in people of Ashkenazi (central or eastern European) Jewish descent. It affects about 1 in 3,700 individuals in Ashkenazi Jewish populations. Familial dysautonomia is extremely rare in the general population.
+
+---
+
+Q: What are the genetic changes related to familial dysautonomia ?
+A: Mutations in the IKBKAP gene cause familial dysautonomia.  The IKBKAP gene provides instructions for making a protein called IKK complex-associated protein (IKAP). This protein is found in a variety of cells throughout the body, including brain cells.  Nearly all individuals with familial dysautonomia have two copies of the same IKBKAP gene mutation in each cell. This mutation can disrupt how information in the IKBKAP gene is pieced together to make a blueprint for the production of IKAP protein. As a result of this error, a reduced amount of normal IKAP protein is produced. This mutation behaves inconsistently, however. Some cells produce near normal amounts of the protein, and other cellsparticularly brain cellshave very little of the protein. Critical activities in brain cells are probably disrupted by reduced amounts or the absence of IKAP protein, leading to the signs and symptoms of familial dysautonomia.
+
+---
+
+Q: Is familial dysautonomia inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for familial dysautonomia ?
+A: These resources address the diagnosis or management of familial dysautonomia:  - Gene Review: Gene Review: Familial Dysautonomia  - Genetic Testing Registry: Familial dysautonomia  - MedlinePlus Encyclopedia: Riley-Day Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,29 @@
+Topic: Weyers acrofacial dysostosis
+
+Q: What are the symptoms of Weyers acrofacial dysostosis ?
+A: What are the signs and symptoms of Weyers acrofacial dysostosis? The Human Phenotype Ontology provides the following list of signs and symptoms for Weyers acrofacial dysostosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of dental morphology 90% Abnormality of the fingernails 90% Advanced eruption of teeth 90% Hypoplastic toenails 90% Postaxial hand polydactyly 90% Reduced number of teeth 90% Short stature 90% Abnormality of the antihelix 50% Clinodactyly of the 5th finger 50% Facial cleft 50% Short palm 50% Autosomal dominant inheritance - Brachydactyly syndrome - Conical tooth - Hypotelorism - Mild short stature - Nail dysplasia - Postaxial foot polydactyly - Prominent antihelix - Small nail - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Weyers acrofacial dysostosis ?
+A: Weyers acrofacial dysostosis is a disorder that affects the development of the teeth, nails, and bones. Dental abnormalities can include small, peg-shaped teeth; fewer teeth than normal (hypodontia); and one front tooth instead of two (a single central incisor). Additionally, the lower jaw (mandible) may be abnormally shaped. People with Weyers acrofacial dysostosis have abnormally small or malformed fingernails and toenails. Most people with the condition are relatively short, and they may have extra fingers or toes (polydactyly).  The features of Weyers acrofacial dysostosis overlap with those of another, more severe condition called Ellis-van Creveld syndrome. In addition to tooth and nail abnormalities, people with Ellis-van Creveld syndrome have very short stature and are often born with heart defects. The two conditions are caused by mutations in the same genes.
+
+---
+
+Q: How many people are affected by Weyers acrofacial dysostosis ?
+A: Weyers acrofacial dysostosis appears to be a rare disorder. Only a few affected families have been identified worldwide.
+
+---
+
+Q: What are the genetic changes related to Weyers acrofacial dysostosis ?
+A: Most cases of Weyers acrofacial dysostosis result from mutations in the EVC2 gene. A mutation in a similar gene, EVC, has been found in at least one person with the characteristic features of the disorder. Little is known about the function of the EVC and EVC2 genes, although they appear to play important roles in cell-to-cell signaling during development. In particular, the proteins produced from these genes are thought to help regulate the Sonic Hedgehog signaling pathway. This pathway plays roles in cell growth, cell specialization, and the normal shaping (patterning) of many parts of the body.  The mutations that cause Weyers acrofacial dysostosis result in the production of an abnormal EVC or EVC2 protein. It is unclear how the abnormal proteins lead to the specific signs and symptoms of this condition. Studies suggest that they interfere with Sonic Hedgehog signaling in the developing embryo, disrupting the formation and growth of the teeth, nails, and bones.
+
+---
+
+Q: Is Weyers acrofacial dysostosis inherited ?
+A: Weyers acrofacial dysostosis is inherited in an autosomal dominant pattern, which means one copy of the altered EVC or EVC2 gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the altered gene from a parent who has the condition.
+
+---
+
+Q: What are the treatments for Weyers acrofacial dysostosis ?
+A: These resources address the diagnosis or management of Weyers acrofacial dysostosis:  - Genetic Testing Registry: Curry-Hall syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

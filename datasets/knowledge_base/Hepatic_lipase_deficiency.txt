@@ -1,0 +1,24 @@
+Topic: hepatic lipase deficiency
+
+Q: What is (are) hepatic lipase deficiency ?
+A: Hepatic lipase deficiency is a disorder that affects the body's ability to break down fats (lipids). People with this disorder have increased amounts of certain fats, known as triglycerides and cholesterol, in the blood. These individuals also have increased amounts of molecules known as high-density lipoproteins (HDLs) and decreased amounts of molecules called low-density lipoproteins (LDL). These molecules transport triglycerides and cholesterol throughout the body. In people with hepatic lipase deficiency, the LDL molecules are often abnormally large.  Normally, high levels of HDL (known as "good cholesterol") and low levels of LDL (known as "bad cholesterol") are protective against an accumulation of fatty deposits on the artery walls (atherosclerosis) and heart disease. However, some individuals with hepatic lipase deficiency, who have this imbalance of HDL and LDL, develop atherosclerosis and heart disease in mid-adulthood, while others do not. It is unknown whether people with hepatic lipase deficiency have a greater risk of developing atherosclerosis or heart disease than individuals in the general population. Similarly, it is unclear how increased blood triglycerides and cholesterol levels affect the risk of atherosclerosis and heart disease in people with hepatic lipase deficiency.
+
+---
+
+Q: How many people are affected by hepatic lipase deficiency ?
+A: Hepatic lipase deficiency is likely a rare disorder; only a few affected families have been reported in the scientific literature.
+
+---
+
+Q: What are the genetic changes related to hepatic lipase deficiency ?
+A: Hepatic lipase deficiency is caused by mutations in the LIPC gene. This gene provides instructions for making an enzyme called hepatic lipase. This enzyme is produced by liver cells and released into the bloodstream where it helps convert very low-density lipoproteins (VLDLs) and intermediate-density lipoproteins (IDLs) to LDLs. The enzyme also assists in transporting HDLs that carry cholesterol and triglycerides from the blood to the liver, where the HDLs deposit these fats so they can be redistributed to other tissues or removed from the body.  LIPC gene mutations prevent the release of hepatic lipase from the liver or decrease the enzyme's activity in the bloodstream. As a result, VLDLs and IDLs are not efficiently converted into LDLs, and HDLs carrying cholesterol and triglycerides remain in the bloodstream. It is unclear what effect this change in lipid levels has on people with hepatic lipase deficiency.
+
+---
+
+Q: Is hepatic lipase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for hepatic lipase deficiency ?
+A: These resources address the diagnosis or management of hepatic lipase deficiency:  - Genetic Testing Registry: Hepatic lipase deficiency  - MedlinePlus Encyclopedia: Cholesterol Testing and Results  - MedlinePlus Encyclopedia: Triglyceride Level   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

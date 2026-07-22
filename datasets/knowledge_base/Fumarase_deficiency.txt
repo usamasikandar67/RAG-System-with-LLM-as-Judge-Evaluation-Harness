@@ -1,0 +1,24 @@
+Topic: fumarase deficiency
+
+Q: What is (are) fumarase deficiency ?
+A: Fumarase deficiency is a condition that primarily affects the nervous system, especially the brain. Affected infants may have an abnormally small head size (microcephaly), abnormal brain structure, severe developmental delay, weak muscle tone (hypotonia), and failure to gain weight and grow at the expected rate (failure to thrive). They may also experience seizures. Some people with this disorder have unusual facial features, including a prominent forehead (frontal bossing), low-set ears, a small jaw (micrognathia), widely spaced eyes (ocular hypertelorism), and a depressed nasal bridge. An enlarged liver and spleen (hepatosplenomegaly) may also be associated with this disorder, as well as an excess of red blood cells (polycythemia) or deficiency of white blood cells (leukopenia) in infancy. Affected individuals usually survive only a few months, but a few have lived into early adulthood.
+
+---
+
+Q: How many people are affected by fumarase deficiency ?
+A: Fumarase deficiency is a very rare disorder. Approximately 100 affected individuals have been reported worldwide. Several were born in an isolated religious community in the southwestern United States.
+
+---
+
+Q: What are the genetic changes related to fumarase deficiency ?
+A: The FH gene provides instructions for making an enzyme called fumarase (also known as fumarate hydratase). Fumarase participates in an important series of reactions known as the citric acid cycle or Krebs cycle, which allows cells to use oxygen and generate energy. Specifically, fumarase helps convert a molecule called fumarate to a molecule called malate.  Mutations in the FH gene disrupt the enzyme's ability to help convert fumarate to malate, interfering with the function of this reaction in the citric acid cycle. Impairment of the process that generates energy for cells is particularly harmful to cells in the developing brain, and this impairment results in the signs and symptoms of fumarase deficiency.
+
+---
+
+Q: Is fumarase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for fumarase deficiency ?
+A: These resources address the diagnosis or management of fumarase deficiency:  - Gene Review: Gene Review: Fumarate Hydratase Deficiency  - Genetic Testing Registry: Fumarase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

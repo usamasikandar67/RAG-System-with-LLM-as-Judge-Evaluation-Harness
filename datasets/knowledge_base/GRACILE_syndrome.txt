@@ -1,0 +1,34 @@
+Topic: GRACILE syndrome
+
+Q: What is (are) GRACILE syndrome ?
+A: GRACILE syndrome is an inherited metabolic disease. GRACILE stands for growth retardation, aminoaciduria, cholestasis, iron overload, lactacidosis, and early death. Infants are very small at birth and quickly develop life-threatening complications. During the first days of life, infants will develop a buildup of lactic acid in the bloodstream (lactic acidosis) and amino acids in the urine (aminoaciduria). They will also have problems with the flow of bile from the liver (cholestasis) and too much iron in their blood. Affected individuals arent typically born with unique physical features. Although alkali therapy is used as treatment, about half of affected infants do not survive past the first days of life. Those that do survive this period generally do not live past 4 months despite receiving treatment. GRACILE syndrome is caused by a mutation in the BCS1L gene, and it is inherited in an autosomal recessive pattern. The BCS1L gene provides instructions needed by the mitochondria in cells to help produce energy.
+
+---
+
+Q: What are the symptoms of GRACILE syndrome ?
+A: What are the signs and symptoms of GRACILE syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for GRACILE syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of iron homeostasis 90% Abnormality of the renal tubule 90% Aminoaciduria 90% Cirrhosis 90% Hearing impairment 90% Hepatic steatosis 90% Abnormality of hair texture 50% Aminoaciduria 20/20 Cholestasis 19/20 Neonatal hypotonia 3/20 Chronic lactic acidosis - Increased serum ferritin - Increased serum iron - Increased serum pyruvate - Intrauterine growth retardation - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) GRACILE syndrome ?
+A: GRACILE syndrome is a severe disorder that begins before birth. GRACILE stands for the condition's characteristic features: growth retardation, aminoaciduria, cholestasis, iron overload, lactic acidosis, and early death.  In GRACILE syndrome, growth before birth is slow (intrauterine growth retardation). Affected newborns are smaller than average and have an inability to grow and gain weight at the expected rate (failure to thrive). A characteristic of GRACILE syndrome is excess iron in the liver, which likely begins before birth. Iron levels may begin to improve after birth, although they typically remain elevated. Within the first day of life, infants with GRACILE syndrome have a buildup of a chemical called lactic acid in the body (lactic acidosis). They also have kidney problems that lead to an excess of molecules called amino acids in the urine (aminoaciduria). Babies with GRACILE syndrome have cholestasis, which is a reduced ability to produce and release a digestive fluid called bile. Cholestasis leads to irreversible liver disease (cirrhosis) in the first few months of life.  Because of the severe health problems caused by GRACILE syndrome, infants with this condition do not survive for more than a few months, and about half die within a few days of birth.
+
+---
+
+Q: How many people are affected by GRACILE syndrome ?
+A: GRACILE syndrome is found almost exclusively in Finland, where it is estimated to affect 1 in 47,000 infants. At least 32 affected infants have been described in the medical literature.
+
+---
+
+Q: What are the genetic changes related to GRACILE syndrome ?
+A: GRACILE syndrome is caused by a mutation in the BCS1L gene. The protein produced from this gene is found in cell structures called mitochondria, which convert the energy from food into a form that cells can use. In mitochondria, the BCS1L protein plays a role in oxidative phosphorylation, which is a multistep process through which cells derive much of their energy. The BCS1L protein is critical for the formation of a group of proteins known as complex III, which is one of several protein complexes involved in oxidative phosphorylation.  The genetic change involved in GRACILE syndrome alters the BCS1L protein, and the abnormal protein is broken down more quickly than the normal protein. What little protein remains is able to help form some complete complex III, although the amount is severely reduced, particularly in the liver and kidneys. As a result, complex III activity and oxidative phosphorylation are decreased in these organs in people with GRACILE syndrome. Without energy, these organs become damaged, leading to many of the features of GRACILE syndrome. It is not clear why a change in the BCS1L gene leads to iron accumulation in people with this condition.
+
+---
+
+Q: Is GRACILE syndrome inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for GRACILE syndrome ?
+A: These resources address the diagnosis or management of GRACILE syndrome:  - Genetic Testing Registry: GRACILE syndrome  - MedlinePlus Encyclopedia: Aminoaciduria  - MedlinePlus Encyclopedia: Cholestasis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

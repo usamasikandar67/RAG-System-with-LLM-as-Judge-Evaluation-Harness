@@ -1,0 +1,24 @@
+Topic: neuroferritinopathy
+
+Q: What is (are) neuroferritinopathy ?
+A: Neuroferritinopathy is a disorder in which iron gradually accumulates in the brain. Certain brain regions that help control movement (basal ganglia) are particularly affected. People with neuroferritinopathy have progressive problems with movement that begin at about age 40. These movement problems can include involuntary jerking motions (chorea), rhythmic shaking (tremor), difficulty coordinating movements (ataxia), or uncontrolled tensing of muscles (dystonia). Symptoms of the disorder may be more apparent on one side of the body than on the other. Affected individuals may also have difficulty swallowing (dysphagia) and speaking (dysarthria).  Intelligence is unaffected in most people with neuroferritinopathy, but some individuals develop a gradual decline in thinking and reasoning abilities (dementia). Personality changes such as reduced inhibitions and difficulty controlling emotions may also occur as the disorder progresses.
+
+---
+
+Q: How many people are affected by neuroferritinopathy ?
+A: The prevalence of neuroferritinopathy is unknown. Fewer than 100 individuals with this disorder have been reported.
+
+---
+
+Q: What are the genetic changes related to neuroferritinopathy ?
+A: Mutations in the FTL gene cause neuroferritinopathy. The FTL gene provides instructions for making the ferritin light chain, which is one part (subunit) of a protein called ferritin. Ferritin stores and releases iron in cells. Each ferritin molecule can hold as many as 4,500 iron atoms. This storage capacity allows ferritin to regulate the amount of iron in the cells and tissues.  Mutations in the FTL gene that cause neuroferritinopathy are believed to reduce ferritin's ability to store iron, resulting in the release of excess iron in nerve cells (neurons) of the brain. The cells may respond by producing more ferritin in an attempt to handle the free iron. Excess iron and ferritin accumulate in the brain, particularly in the basal ganglia, resulting in the movement problems and other neurological changes seen in neuroferritinopathy.
+
+---
+
+Q: Is neuroferritinopathy inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. Other cases may result from new mutations in the gene. These cases occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for neuroferritinopathy ?
+A: These resources address the diagnosis or management of neuroferritinopathy:  - Gene Review: Gene Review: Neuroferritinopathy  - Genetic Testing Registry: Neuroferritinopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

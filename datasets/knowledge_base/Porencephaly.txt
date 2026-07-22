@@ -1,0 +1,29 @@
+Topic: Porencephaly
+
+Q: What is (are) Porencephaly ?
+A: Porencephaly is a rare condition that affects the central nervous system. People with porencephaly develop fluid-filled cysts or cavities in the brain either before or shortly after birth. The severity of the condition and the associated signs and symptoms vary significantly based on the size, location, and number of cysts. Common features include developmental delay, reduced muscle tone (hypotonia), seizures, macrocephaly (unusually large head size), spastic hemiplegia, speech problems, delayed growth, and intellectual disability. Porencephaly is usually the result of damage from infection or stroke after birth. In these cases, the condition occurs sporadically in people with no family history of the condition. There is an inherited form of the condition called familial porencephaly, which is caused by changes (mutations) in the COL4A1 or COL4A2 genes and is inherited in an autosomal dominant manner. Treatment is based on the signs and symptoms present in each person and may include physical therapy and medication for seizures.
+
+---
+
+Q: What are the symptoms of Porencephaly ?
+A: What are the signs and symptoms of Porencephaly? The Human Phenotype Ontology provides the following list of signs and symptoms for Porencephaly. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of movement 90% Hypertonia 90% Ventriculomegaly 90% Cognitive impairment 50% Hemiplegia/hemiparesis 50% Autosomal dominant inheritance - Babinski sign - Cerebellar atrophy - Elevated serum creatine phosphokinase - Exotropia - Hemiplegia - Hemolytic anemia - Hydrocephalus - Incomplete penetrance - Intellectual disability - Intracranial hemorrhage - Ischemic stroke - Leukoencephalopathy - Limb dystonia - Porencephaly - Schizencephaly - Seizures - Spasticity - Tetraparesis - Variable expressivity - Visual field defect - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Porencephaly ?
+A: Porencephaly is an extremely rare disorder of the central nervous system in which a cyst or cavity filled with cerebrospinal fluid develops in the brain. It is usually the result of damage from stroke or infection after birth (the more common type), but it can also be caused by abnormal development before birth (which is inherited and less common). Diagnosis is usually made before an infant reaches his or her first birthday. Symptoms of porencephaly include delayed growth and development, spastic hemiplegia (slight or incomplete paralysis), hypotonia (low muscle tone), seizures (often infantile spasms), and macrocephaly (large head) or microcephaly (small head). Children with porencephaly may have poor or absent speech development, epilepsy, hydrocephalus (accumulation of fluid in the brain), spastic contractures (shrinkage or shortening of the muscles), and cognitive impairment.
+
+---
+
+Q: What are the treatments for Porencephaly ?
+A: Treatment may include physical therapy, medication for seizures, and the placement of a shunt in the brain to remove excess fluid in the brain.
+
+---
+
+Q: What is the outlook for Porencephaly ?
+A: The prognosis for children with porencephaly varies according to the location and extent of the cysts or cavities. Some children with this disorder develop only minor neurological problems and have normal intelligence, while others may be severely disabled and die before their second decade of life.
+
+---
+
+Q: what research (or clinical trials) is being done for Porencephaly ?
+A: The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to porencephaly in laboratories at the NIH and also support additional research through grants to major medical institutions across the country. Much of this research explores the complex mechanisms of normal brain development. The knowledge gained from these fundamental studies will provide a foundation for developing ways to prevent porecephaly and the other cephalic disorders.

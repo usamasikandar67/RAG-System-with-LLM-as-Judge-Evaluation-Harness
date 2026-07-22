@@ -1,0 +1,24 @@
+Topic: 3-hydroxyacyl-CoA dehydrogenase deficiency
+
+Q: What is (are) 3-hydroxyacyl-CoA dehydrogenase deficiency ?
+A: 3-hydroxyacyl-CoA dehydrogenase deficiency is an inherited condition that prevents the body from converting certain fats to energy, particularly during prolonged periods without food (fasting).  Initial signs and symptoms of this disorder typically occur during infancy or early childhood and can include poor appetite, vomiting, diarrhea, and lack of energy (lethargy). Affected individuals can also have muscle weakness (hypotonia), liver problems, low blood sugar (hypoglycemia), and abnormally high levels of insulin (hyperinsulinism). Insulin controls the amount of sugar that moves from the blood into cells for conversion to energy. Individuals with 3-hydroxyacyl-CoA dehydrogenase deficiency are also at risk for complications such as seizures, life-threatening heart and breathing problems, coma, and sudden death. This condition may explain some cases of sudden infant death syndrome (SIDS), which is defined as unexplained death in babies younger than 1 year.  Problems related to 3-hydroxyacyl-CoA dehydrogenase deficiency can be triggered by periods of fasting or by illnesses such as viral infections. This disorder is sometimes mistaken for Reye syndrome, a severe disorder that may develop in children while they appear to be recovering from viral infections such as chicken pox or flu. Most cases of Reye syndrome are associated with the use of aspirin during these viral infections.
+
+---
+
+Q: How many people are affected by 3-hydroxyacyl-CoA dehydrogenase deficiency ?
+A: The exact incidence of 3-hydroxyacyl-CoA dehydrogenase deficiency is unknown; it has been reported in only a small number of people worldwide.
+
+---
+
+Q: What are the genetic changes related to 3-hydroxyacyl-CoA dehydrogenase deficiency ?
+A: Mutations in the HADH gene cause 3-hydroxyacyl-CoA dehydrogenase deficiency. The HADH gene provides instructions for making an enzyme called 3-hydroxyacyl-CoA dehydrogenase.  Normally, through a process called fatty acid oxidation, several enzymes work in a step-wise fashion to break down (metabolize) fats and convert them to energy. The 3-hydroxyacyl-CoA dehydrogenase enzyme is required for a step that metabolizes groups of fats called medium-chain fatty acids and short-chain fatty acids.  Mutations in the HADH gene lead to a shortage of 3-hydroxyacyl-CoA dehydrogenase. Medium-chain and short-chain fatty acids cannot be metabolized properly without sufficient levels of this enzyme. As a result, these fatty acids are not converted to energy, which can lead to characteristic features of 3-hydroxyacyl-CoA dehydrogenase deficiency, such as lethargy and hypoglycemia. Medium-chain and short-chain fatty acids that are not broken down can build up in tissues and damage the liver, heart, and muscles, causing serious complications.  Conditions that disrupt the metabolism of fatty acids, including 3-hydroxyacyl-CoA dehydrogenase deficiency, are known as fatty acid oxidation disorders.
+
+---
+
+Q: Is 3-hydroxyacyl-CoA dehydrogenase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for 3-hydroxyacyl-CoA dehydrogenase deficiency ?
+A: These resources address the diagnosis or management of 3-hydroxyacyl-CoA dehydrogenase deficiency:  - Baby's First Test  - Genetic Testing Registry: Deficiency of 3-hydroxyacyl-CoA dehydrogenase  - United Mitochondrial Disease Foundation: Treatments & Therapies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

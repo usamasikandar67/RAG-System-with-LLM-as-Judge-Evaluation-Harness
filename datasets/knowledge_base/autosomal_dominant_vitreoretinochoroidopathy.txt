@@ -1,0 +1,24 @@
+Topic: autosomal dominant vitreoretinochoroidopathy
+
+Q: What is (are) autosomal dominant vitreoretinochoroidopathy ?
+A: Autosomal dominant vitreoretinochoroidopathy (ADVIRC) is a disorder that affects several parts of the eyes, including the clear gel that fills the eye (the vitreous), the light-sensitive tissue that lines the back of the eye (the retina), and the network of blood vessels within the retina (the choroid). The eye abnormalities in ADVIRC can lead to varying degrees of vision impairment, from mild reduction to complete loss, although some people with the condition have normal vision.  The signs and symptoms of ADVIRC vary, even among members of the same family. Many affected individuals have microcornea, in which the clear front covering of the eye (cornea) is small and abnormally curved. The area behind the cornea can also be abnormally small, which is described as a shallow anterior chamber. Individuals with ADVIRC can develop increased pressure in the eyes (glaucoma) or clouding of the lens of the eye (cataract). In addition, some people have breakdown (degeneration) of the vitreous or the choroid.  A characteristic feature of ADVIRC, visible with a special eye exam, is a circular band of excess coloring (hyperpigmentation) in the retina. This feature can help physicians diagnose the disorder. Affected individuals may also have white spots on the retina.
+
+---
+
+Q: How many people are affected by autosomal dominant vitreoretinochoroidopathy ?
+A: ADVIRC is considered a rare disease. Its prevalence is unknown.
+
+---
+
+Q: What are the genetic changes related to autosomal dominant vitreoretinochoroidopathy ?
+A: ADVIRC is caused by mutations in the BEST1 gene. The protein produced from this gene, called bestrophin-1, is thought to play a critical role in normal vision. Bestrophin-1 is found in a thin layer of cells at the back of the eye called the retinal pigment epithelium. This cell layer supports and nourishes the retina and is involved in growth and development of the eye, maintenance of the retina, and the normal function of specialized cells called photoreceptors that detect light and color. In the retinal pigment epithelium, bestrophin-1 functions as a channel that transports charged chlorine atoms (chloride ions) across the cell membrane.  Mutations in the BEST1 gene alter how the gene's instructions are used to make bestrophin-1, which leads to production of versions of the protein that are missing certain segments or have extra segments. It is not clear how these versions of bestrophin affect chloride ion transport or lead to the eye abnormalities characteristic of ADVIRC. Researchers suspect that the abnormalities are related to defects in the retinal pigment epithelium or the photoreceptors.
+
+---
+
+Q: Is autosomal dominant vitreoretinochoroidopathy inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.
+
+---
+
+Q: What are the treatments for autosomal dominant vitreoretinochoroidopathy ?
+A: These resources address the diagnosis or management of autosomal dominant vitreoretinochoroidopathy:  - American Foundation for the Blind: Living with Vision Loss  - Genetic Testing Registry: Vitreoretinochoroidopathy dominant   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

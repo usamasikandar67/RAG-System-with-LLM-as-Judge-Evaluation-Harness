@@ -1,0 +1,19 @@
+Topic: Benign rolandic epilepsy (BRE)
+
+Q: What is (are) Benign rolandic epilepsy (BRE) ?
+A: Benign rolandic epilepsy is the most common form of childhood epilepsy.  It is referred to as "benign" because most children outgrow the condition by puberty, usually by 14 years of age.  This form of epilepsy is characterized by seizures involving the part of the frontal lobe of the brain called the rolandic area. The seizures associated with this condition typically occur during the nighttime.  Treatment is usually not prescribed, since the condition tends to disappear by puberty.
+
+---
+
+Q: What are the symptoms of Benign rolandic epilepsy (BRE) ?
+A: What are the signs and symptoms of Benign rolandic epilepsy (BRE)? Patients with this syndrome typically present between the ages of 3 and 13 years with nighttime seizures. The episodes usually begin with twitching and stiffness of the face, and often wake up the child.  The clonic activity causes a tingling feeling on one side of the mouth involving the tongue, lips, gum and inner side of the cheek.  The seizure may also involve the throat which may make speech unclear and difficult to understand.   Occasionally, both sides of the body may be affected, which can lead to loss of consciousness causing stiffness and jerking movements of the arms and legs.  The child may also be incontinent.  After an episode, a child may be sleepy and doze for a few hours. The Human Phenotype Ontology provides the following list of signs and symptoms for Benign rolandic epilepsy (BRE). If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Bilateral convulsive seizures - EEG with centrotemporal focal spike waves - Sporadic - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Benign rolandic epilepsy (BRE) ?
+A: What causes benign rolandic epilepsy? Benign rolandic epilepsy is a genetic syndrome with an autosomal dominant mode of inheritance.  Although the gene associated with the condition has not been identified, Neubauer et al. (1998) found evidence of linkage to chromosome 15q. Juvenile myoclonic epilepsy has been mapped to the same region.
+
+---
+
+Q: What are the treatments for Benign rolandic epilepsy (BRE) ?
+A: What treatment is available for benign rolandic epilepsy? Although treatment is usually not necessary since the episodes are infrequent and are typically outgrown by puberty, anticonvulsants such as carbamazepine.

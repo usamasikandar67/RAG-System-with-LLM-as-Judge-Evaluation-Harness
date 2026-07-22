@@ -1,0 +1,49 @@
+Topic: Rotor syndrome
+
+Q: What is (are) Rotor syndrome ?
+A: Rotor syndrome is an inherited disorder characterized by elevated levels of bilirubin in the blood (hyperbilirubinemia). Bilirubin is produced when red blood cells are broken down, and has an orange-yellow tint. The buildup of bilirubin in the body causes yellowing of the skin or whites of the eyes (jaundice), which is the only symptom of the disorder. Jaundice is usually evident in infancy or early childhood, and it may come and go. Rotor syndrome is caused by having mutations in both the SLCO1B1 and SLCO1B3 genes and is inherited in an autosomal recessive manner. The disorder is generally considered benign, and no treatment is needed.
+
+---
+
+Q: What are the symptoms of Rotor syndrome ?
+A: What are the signs and symptoms of Rotor syndrome? Jaundice, characterized by yellowing of the skin and/or whites of the eyes (conjunctival icterus), is usually the only symptom of Rotor syndrome. Jaundice usually begins shortly after birth or in childhood and may come and go. The Human Phenotype Ontology provides the following list of signs and symptoms for Rotor syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the liver 90% Abdominal pain 7.5% Abnormality of temperature regulation 7.5% Abnormality of the gastric mucosa 7.5% Abnormality of skin pigmentation - Abnormality of the skeletal system - Autosomal recessive inheritance - Conjugated hyperbilirubinemia - Jaundice - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Rotor syndrome ?
+A: What causes Rotor syndrome? Rotor syndrome is an inherited disorder caused by having mutations in both the SLCO1B1 and SLCO1B3 genes. These genes provide instructions for making proteins that are found in liver cells, where they transport bilirubin and other substances from the blood into the liver so that they can be cleared from the body. In the liver, bilirubin is dissolved in a digestive fluid called bile, and then excreted from the body. The mutations in the SLCO1B1 and SLCO1B3 genes that cause Rotor syndrome either prevent the production of the transporting proteins, or prevent them from functioning properly. When this occurs, bilirubin is not effectively removed from the body and builds up, leading to jaundice.
+
+---
+
+Q: How to diagnose Rotor syndrome ?
+A: How is Rotor syndrome diagnosed? Rotor syndrome is diagnosed based on symptoms and various laboratory tests. Physical exams in affected people are typically normal, except for mild jaundice. There are two forms of bilirubin in the body: a toxic form called unconjugated bilirubin and a nontoxic form called conjugated bilirubin. People with Rotor syndrome have a buildup of both in their blood (hyperbilirubinemia), but having elevated levels of conjugated bilirubin is the hallmark of the disorder. Conjugated bilirubin in affected people is usually more than 50% of total bilirubin. To confirm a disgnosis of Rotor syndrome, a person may have the following performed: testing for serum bilirubin concentration testing for bilirubin in the urine testing for hemolysis and liver enzyme activity (to rule out other conditions) cholescintigraphy (also called an HIDA scan) testing for total urinary porphyrins
+
+---
+
+Q: What are the treatments for Rotor syndrome ?
+A: How might Rotor syndrome be treated? Rotor syndrome is considered a benign disorder and does not require treatment. While no adverse drug reactions have been reported in people with Rotor syndrome, a number of commonly used drugs and/or their metabolites may have serious consequences in affected people. This is because some drugs enter the liver via one of the two transporter proteins that are absent in affected people. People with Rotor syndrome should make sure all of their health care providers are aware of their diagnosis and should check with their health care providers regarding drugs that should be avoided.
+
+---
+
+Q: What is (are) Rotor syndrome ?
+A: Rotor syndrome is a relatively mild condition characterized by elevated levels of a substance called bilirubin in the blood (hyperbilirubinemia). Bilirubin is produced when red blood cells are broken down. It has an orange-yellow tint, and buildup of this substance can cause yellowing of the skin or whites of the eyes (jaundice). In people with Rotor syndrome, jaundice is usually evident shortly after birth or in childhood and may come and go; yellowing of the whites of the eyes (also called conjunctival icterus) is often the only symptom.  There are two forms of bilirubin in the body: a toxic form called unconjugated bilirubin and a nontoxic form called conjugated bilirubin. People with Rotor syndrome have a buildup of both unconjugated and conjugated bilirubin in their blood, but the majority is conjugated.
+
+---
+
+Q: How many people are affected by Rotor syndrome ?
+A: Rotor syndrome is a rare condition, although its prevalence is unknown.
+
+---
+
+Q: What are the genetic changes related to Rotor syndrome ?
+A: The SLCO1B1 and SLCO1B3 genes are involved in Rotor syndrome. Mutations in both genes are required for the condition to occur. The SLCO1B1 and SLCO1B3 genes provide instructions for making similar proteins, called organic anion transporting polypeptide 1B1 (OATP1B1) and organic anion transporting polypeptide 1B3 (OATP1B3), respectively. Both proteins are found in liver cells; they transport bilirubin and other compounds from the blood into the liver so that they can be cleared from the body. In the liver, bilirubin is dissolved in a digestive fluid called bile and then excreted from the body.  The SLCO1B1 and SLCO1B3 gene mutations that cause Rotor syndrome lead to abnormally short, nonfunctional OATP1B1 and OATP1B3 proteins or an absence of these proteins. Without the function of either transport protein, bilirubin is less efficiently taken up by the liver and removed from the body. The buildup of this substance leads to jaundice in people with Rotor syndrome.
+
+---
+
+Q: Is Rotor syndrome inherited ?
+A: This condition is inherited in an autosomal recessive pattern. In autosomal recessive inheritance, both copies of a gene in each cell have mutations. In Rotor syndrome, an affected individual must have mutations in both the SLCO1B1 and the SLCO1B3 gene, so both copies of the two genes are altered. The parents of an individual with this condition each carry one altered copy of both genes, but they do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for Rotor syndrome ?
+A: These resources address the diagnosis or management of Rotor syndrome:  - Centers for Disease Control and Prevention: Facts About Jaundice and Kernicterus  - Gene Review: Gene Review: Rotor Syndrome  - Genetic Testing Registry: Rotor syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,44 @@
+Topic: Wolff-Parkinson-White syndrome
+
+Q: What is (are) Wolff-Parkinson-White syndrome ?
+A: Wolff-Parkinson-White syndrome is a condition that disrupts the heart's normal rhythm (arrhythmia). People with Wolff-Parkinson-White syndrome are born with a heart abnormality that affects the coordinated movement of electrical signals through the heart.  This abnormality leads to an abnormally fast heartbeat (tachycardia) and other arrhythmias. In most cases, the cause of Wolff-Parkinson-White syndrome is unknown. A small percentage of cases are caused by mutations in the PRKAG2 gene. These cases appear to be inherited in an autosomal dominant manner.
+
+---
+
+Q: What are the symptoms of Wolff-Parkinson-White syndrome ?
+A: What are the signs and symptoms of Wolff-Parkinson-White syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Wolff-Parkinson-White syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Arrhythmia 90% Cardiomyopathy - Palpitations - Paroxysmal atrial fibrillation - Paroxysmal supraventricular tachycardia - Prolonged QRS complex - Shortened PR interval - Stroke - Sudden cardiac death - Ventricular preexcitation with multiple accessory pathways - Wolff-Parkinson-White syndrome - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Wolff-Parkinson-White syndrome ?
+A: What causes Wolff-Parkinson-White syndrome? Normally, electrical signals in the heart go through a pathway that helps the heart beat regularly. The wiring of the heart prevents extra beats from occurring and keeps the next beat from happening too soon. In people with Wolff Parkinson White syndrome, there is an extra, or accessory, pathway that may cause a very rapid heart rate. This extra electrical pathway is present at birth. A mutation in the PRKAG2 gene  is the cause of a small percentage of cases of the disorder. Otherwise, little is known about why this extra pathway develops.
+
+---
+
+Q: Is Wolff-Parkinson-White syndrome inherited ?
+A: Is Wolff-Parkinson-White syndrome inherited?
+
+---
+
+Q: What is (are) Wolff-Parkinson-White syndrome ?
+A: Wolff-Parkinson-White syndrome is a condition characterized by abnormal electrical pathways in the heart that cause a disruption of the heart's normal rhythm (arrhythmia).  The heartbeat is controlled by electrical signals that move through the heart in a highly coordinated way. A specialized cluster of cells called the atrioventricular node conducts electrical impulses from the heart's upper chambers (the atria) to the lower chambers (the ventricles). Impulses move through the atrioventricular node during each heartbeat, stimulating the ventricles to contract slightly later than the atria.  People with Wolff-Parkinson-White syndrome are born with an extra connection in the heart, called an accessory pathway, that allows electrical signals to bypass the atrioventricular node and move from the atria to the ventricles faster than usual. The accessory pathway may also transmit electrical impulses abnormally from the ventricles back to the atria. This extra connection can disrupt the coordinated movement of electrical signals through the heart, leading to an abnormally fast heartbeat (tachycardia) and other arrhythmias. Resulting symptoms include dizziness, a sensation of fluttering or pounding in the chest (palpitations), shortness of breath, and fainting (syncope). In rare cases, arrhythmias associated with Wolff-Parkinson-White syndrome can lead to cardiac arrest and sudden death. The most common arrhythmia associated with Wolff-Parkinson-White syndrome is called paroxysmal supraventricular tachycardia.  Complications of Wolff-Parkinson-White syndrome can occur at any age, although some individuals born with an accessory pathway in the heart never experience any health problems associated with the condition.  Wolff-Parkinson-White syndrome often occurs with other structural abnormalities of the heart or underlying heart disease. The most common heart defect associated with the condition is Ebstein anomaly, which affects the valve that allows blood to flow from the right atrium to the right ventricle (the tricuspid valve). Additionally, Wolff-Parkinson-White syndrome can be a component of several other genetic syndromes, including hypokalemic periodic paralysis (a condition that causes episodes of extreme muscle weakness), Pompe disease (a disorder characterized by the storage of excess glycogen), and tuberous sclerosis (a condition that results in the growth of noncancerous tumors in many parts of the body).
+
+---
+
+Q: How many people are affected by Wolff-Parkinson-White syndrome ?
+A: Wolff-Parkinson-White syndrome affects 1 to 3 in 1,000 people worldwide. Only a small fraction of these cases appear to run in families.  Wolff-Parkinson-White syndrome is a common cause of an arrhythmia known as paroxysmal supraventricular tachycardia. Wolff-Parkinson-White syndrome is the most frequent cause of this abnormal heart rhythm in the Chinese population, where it is responsible for more than 70 percent of cases.
+
+---
+
+Q: What are the genetic changes related to Wolff-Parkinson-White syndrome ?
+A: Mutations in the PRKAG2 gene cause Wolff-Parkinson-White syndrome.  A small percentage of all cases of Wolff-Parkinson-White syndrome are caused by mutations in the PRKAG2 gene. Some people with these mutations also have features of hypertrophic cardiomyopathy, a form of heart disease that enlarges and weakens the heart (cardiac) muscle. The PRKAG2 gene provides instructions for making a protein that is part of an enzyme called AMP-activated protein kinase (AMPK). This enzyme helps sense and respond to energy demands within cells. It is likely involved in the development of the heart before birth, although its role in this process is unknown.  Researchers are uncertain how PRKAG2 mutations lead to the development of Wolff-Parkinson-White syndrome and related heart abnormalities. Research suggests that these mutations alter the activity of AMP-activated protein kinase in the heart, although it is unclear whether the genetic changes overactivate the enzyme or reduce its activity. Studies indicate that changes in AMP-activated protein kinase activity allow a complex sugar called glycogen to build up abnormally within cardiac muscle cells. Other studies have found that altered AMP-activated protein kinase activity is related to changes in the regulation of certain ion channels in the heart. These channels, which transport positively charged atoms (ions) into and out of cardiac muscle cells, play critical roles in maintaining the heart's normal rhythm.  In most cases, the cause of Wolff-Parkinson-White syndrome is unknown.
+
+---
+
+Q: Is Wolff-Parkinson-White syndrome inherited ?
+A: Most cases of Wolff-Parkinson-White syndrome occur in people with no apparent family history of the condition. These cases are described as sporadic and are not inherited.  Familial Wolff-Parkinson-White syndrome accounts for only a small percentage of all cases of this condition. The familial form of the disorder typically has an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the condition. In most cases, a person with familial Wolff-Parkinson-White syndrome has inherited the condition from an affected parent.
+
+---
+
+Q: What are the treatments for Wolff-Parkinson-White syndrome ?
+A: These resources address the diagnosis or management of Wolff-Parkinson-White syndrome:  - Genetic Testing Registry: Wolff-Parkinson-White pattern  - MedlinePlus Encyclopedia: Wolff-Parkinson-White syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

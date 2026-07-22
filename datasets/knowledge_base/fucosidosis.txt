@@ -1,0 +1,24 @@
+Topic: fucosidosis
+
+Q: What is (are) fucosidosis ?
+A: Fucosidosis is a condition that affects many areas of the body, especially the brain. Affected individuals have intellectual disability that worsens with age, and many develop dementia later in life. People with this condition often have delayed development of motor skills such as walking; the skills they do acquire deteriorate over time. Additional signs and symptoms of fucosidosis include impaired growth; abnormal bone development (dysostosis multiplex); seizures; abnormal muscle stiffness (spasticity); clusters of enlarged blood vessels forming small, dark red spots on the skin (angiokeratomas); distinctive facial features that are often described as "coarse"; recurrent respiratory infections; and abnormally large abdominal organs (visceromegaly).  In severe cases, symptoms typically appear in infancy, and affected individuals usually live into late childhood. In milder cases, symptoms begin at age 1 or 2, and affected individuals tend to survive into mid-adulthood.  In the past, researchers described two types of this condition based on symptoms and age of onset, but current opinion is that the two types are actually a single disorder with signs and symptoms that range in severity.
+
+---
+
+Q: How many people are affected by fucosidosis ?
+A: Fucosidosis is a rare condition; approximately 100 cases have been reported worldwide. This condition appears to be most prevalent in Italy, Cuba, and the southwestern United States.
+
+---
+
+Q: What are the genetic changes related to fucosidosis ?
+A: Mutations in the FUCA1 gene cause fucosidosis. The FUCA1 gene provides instructions for making an enzyme called alpha-L-fucosidase. This enzyme plays a role in the breakdown of complexes of sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins) and fats (glycolipids). Alpha-L-fucosidase is responsible for cutting (cleaving) off a sugar molecule called fucose toward the end of the breakdown process.  FUCA1 gene mutations severely reduce or eliminate the activity of the alpha-L-fucosidase enzyme. A lack of enzyme activity results in an incomplete breakdown of glycolipids and glycoproteins. These partially broken down compounds gradually accumulate within various cells and tissues throughout the body and cause cells to malfunction. Brain cells are particularly sensitive to the buildup of glycolipids and glycoproteins, which can result in cell death. Loss of brain cells is thought to cause the neurological symptoms of fucosidosis. Accumulation of glycolipids and glycoproteins also occurs in other organs such as the liver, spleen, skin, heart, pancreas, and kidneys, contributing to the additional symptoms of fucosidosis.
+
+---
+
+Q: Is fucosidosis inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for fucosidosis ?
+A: These resources address the diagnosis or management of fucosidosis:  - Genetic Testing Registry: Fucosidosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

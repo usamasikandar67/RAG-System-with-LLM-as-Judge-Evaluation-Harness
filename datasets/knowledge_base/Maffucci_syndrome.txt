@@ -1,0 +1,39 @@
+Topic: Maffucci syndrome
+
+Q: What is (are) Maffucci syndrome ?
+A: Maffucci syndrome is a disorder that primarily affects the bones and skin. It is characterized by multiple enchondromas (benign enlargements of cartilage), bone deformities, and hemangiomas (tangles of abnormal of blood vessels). The abnormal growths associated with Maffucci syndrome may become cancerous (malignant). In particular, affected individuals may develop bone cancers called chondrosarcomas, especially in the skull. They also have an increased risk of other cancers, such as ovarian or liver cancer. The underlying cause of Maffucci syndrome is unknown. No specific genes related to this disorder have been identified. Researchers suggest that the condition may be associated with abnormalities occurring before birth in the development of two embryonic cell layers called the ectoderm and the mesoderm.
+
+---
+
+Q: What are the symptoms of Maffucci syndrome ?
+A: What are the signs and symptoms of Maffucci syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Maffucci syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the metaphyses 90% Abnormality of the skin 90% Cavernous hemangioma 90% Lower limb asymmetry 90% Micromelia 90% Multiple enchondromatosis 90% Osteolysis 90% Recurrent fractures 90% Thrombophlebitis 90% Visceral angiomatosis 90% Abnormal joint morphology 50% Bone pain 50% Exostoses 50% Limitation of joint mobility 50% Scoliosis 50% Short stature 50% Abnormality of coagulation 7.5% Anemia 7.5% Cerebral palsy 7.5% Cranial nerve paralysis 7.5% Feeding difficulties in infancy 7.5% Goiter 7.5% Lymphangioma 7.5% Neoplasm of the adrenal gland 7.5% Neoplasm of the breast 7.5% Neoplasm of the nervous system 7.5% Neoplasm of the parathyroid gland 7.5% Ovarian neoplasm 7.5% Platyspondyly 7.5% Precocious puberty 7.5% Respiratory insufficiency 7.5% Sarcoma 7.5% Skin ulcer 7.5% Chondrosarcoma - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What are the treatments for Maffucci syndrome ?
+A: How might Maffucci syndrome be treated? Management aims at relief of symptoms and early detection of malignancies. Individuals with Maffucci syndrome may benefit from consultations with the following specialists: Radiologist: Radiography or CT scanning performed periodically to evaluate bone changes. Orthopedic surgeon: An orthopedic surgeon may be consulted to evaluate bone changes and skeletal neoplasms and to help in treatment of fractures associated with the disease. Dermatologist: A dermatologist may be consulted to evaluate hemangiomas associated with the condition and to identify any new lesions on the skin.
+
+---
+
+Q: What is (are) Maffucci syndrome ?
+A: Maffucci syndrome is a disorder that primarily affects the bones and skin. It is characterized by multiple enchondromas, which are noncancerous (benign) growths of cartilage that develop within the bones. These growths most commonly occur in the limb bones, especially in the bones of the hands and feet; however, they may also occur in the skull, ribs, and bones of the spine (vertebrae). Enchondromas may result in severe bone deformities, shortening of the limbs, and fractures.  The signs and symptoms of Maffucci syndrome may be detectable at birth, although they generally do not become apparent until around the age of 5. Enchondromas develop near the ends of bones, where normal growth occurs, and they frequently stop forming after affected individuals stop growing in early adulthood. As a result of the bone deformities associated with Maffucci syndrome, people with this disorder generally have short stature and underdeveloped muscles.  Maffucci syndrome is distinguished from a similar disorder that involves enchondromas (Ollier disease) by the presence of red or purplish growths in the skin consisting of tangles of abnormal blood vessels (hemangiomas). In addition to hemangiomas, individuals with Maffucci syndrome occasionally also have lymphangiomas, which are masses made up of the thin tubes that carry lymph fluid (lymphatic vessels). These growths may appear anywhere on the body.  Although the enchondromas associated with Maffucci syndrome start out as benign, they may become cancerous (malignant). In particular, affected individuals may develop bone cancers called chondrosarcomas, especially in the skull. People with Maffucci syndrome also have an increased risk of other cancers, such as ovarian or liver cancer.  People with Maffucci syndrome usually have a normal lifespan, and intelligence is unaffected. The extent of their physical impairment depends on their individual skeletal deformities, but in most cases they have no major limitations in their activities.
+
+---
+
+Q: How many people are affected by Maffucci syndrome ?
+A: Maffucci syndrome is very rare. Since it was first described in 1881, fewer than 200 cases have been reported worldwide.
+
+---
+
+Q: What are the genetic changes related to Maffucci syndrome ?
+A: In most people with Maffucci syndrome, the disorder is caused by mutations in the IDH1 or IDH2 gene. These genes provide instructions for making enzymes called isocitrate dehydrogenase 1 and isocitrate dehydrogenase 2, respectively. These enzymes convert a compound called isocitrate to another compound called 2-ketoglutarate. This reaction also produces a molecule called NADPH, which is necessary for many cellular processes. IDH1 or IDH2 gene mutations cause the enzyme produced from the respective gene to take on a new, abnormal function. Although these mutations have been found in some cells of enchondromas and hemangiomas in people with Maffucci syndrome, the relationship between the mutations and the signs and symptoms of the disorder is not well understood.  Mutations in other genes may also account for some cases of Maffucci syndrome.
+
+---
+
+Q: Is Maffucci syndrome inherited ?
+A: Maffucci syndrome is not inherited. The mutations that cause this disorder are somatic, which means they occur during a person's lifetime. A somatic mutation occurs in a single cell. As that cell continues to grow and divide, the cells derived from it also have the same mutation. In Maffucci syndrome, the mutation is thought to occur in a cell during early development before birth; cells that arise from that abnormal cell have the mutation, while the body's other cells do not. This situation is called mosaicism.
+
+---
+
+Q: What are the treatments for Maffucci syndrome ?
+A: These resources address the diagnosis or management of Maffucci syndrome:  - Genetic Testing Registry: Maffucci syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

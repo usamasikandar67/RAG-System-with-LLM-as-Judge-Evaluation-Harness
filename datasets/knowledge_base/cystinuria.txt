@@ -1,0 +1,24 @@
+Topic: cystinuria
+
+Q: What is (are) cystinuria ?
+A: Cystinuria is a condition characterized by the buildup of the amino acid cystine, a building block of most proteins, in the kidneys and bladder. As the kidneys filter blood to create urine, cystine is normally absorbed back into the bloodstream. People with cystinuria cannot properly reabsorb cystine into their bloodstream, so the amino acid accumulates in their urine.  As urine becomes more concentrated in the kidneys, the excess cystine forms crystals. Larger crystals become stones that may lodge in the kidneys or in the bladder. Sometimes cystine crystals combine with calcium molecules in the kidneys to form large stones. These crystals and stones can create blockages in the urinary tract and reduce the ability of the kidneys to eliminate waste through urine. The stones also provide sites where bacteria may cause infections.
+
+---
+
+Q: How many people are affected by cystinuria ?
+A: Cystinuria affects approximately 1 in 10,000 people.
+
+---
+
+Q: What are the genetic changes related to cystinuria ?
+A: Mutations in the SLC3A1 or SLC7A9 gene cause cystinuria. The SLC3A1 and SLC7A9 genes provide instructions for making the two parts (subunits) of a protein complex that is primarily found in the kidneys. Normally this protein complex controls the reabsorption of certain amino acids, including cystine, into the blood from the filtered fluid that will become urine. Mutations in either the SLC3A1 gene or SLC7A9 gene disrupt the ability of the protein complex to reabsorb amino acids, which causes the amino acids to become concentrated in the urine. As the levels of cystine in the urine increase, the crystals typical of cystinuria form. The other amino acids that are reabsorbed by the protein complex do not create crystals when they accumulate in the urine.
+
+---
+
+Q: Is cystinuria inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for cystinuria ?
+A: These resources address the diagnosis or management of cystinuria:  - Genetic Testing Registry: Cystinuria  - MedlinePlus Encyclopedia: Cystinuria  - MedlinePlus Encyclopedia: Cystinuria (image)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

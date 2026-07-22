@@ -1,0 +1,24 @@
+Topic: Sheldon-Hall syndrome
+
+Q: What is (are) Sheldon-Hall syndrome ?
+A: Sheldon-Hall syndrome, also known as distal arthrogryposis type 2B, is a disorder characterized by joint deformities (contractures) that restrict movement in the hands and feet. The term "arthrogryposis" comes from the Greek words for joint (arthro-) and crooked or hooked (gryposis). "Distal" refers to areas of the body away from the center. The characteristic features of this condition include permanently bent fingers and toes (camptodactyly), overlapping fingers, and a hand deformity called ulnar deviation in which all of the fingers are angled outward toward the fifth (pinky) finger. Inward- and upward-turning feet (a condition called clubfoot) is also commonly seen in Sheldon-Hall syndrome. The specific hand and foot abnormalities vary among affected individuals; the abnormalities are present at birth and generally do not get worse over time.  People with Sheldon-Hall syndrome also usually have distinctive facial features, which include a triangular face; outside corners of the eyes that point downward (down-slanting palpebral fissures); deep folds in the skin between the nose and lips (nasolabial folds); and a small mouth with a high, arched roof of the mouth (palate). Other features that may occur in Sheldon-Hall syndrome include extra folds of skin on the neck (webbed neck) and short stature.  Sheldon-Hall syndrome does not usually affect other parts of the body, and intelligence and life expectancy are normal in this disorder.
+
+---
+
+Q: How many people are affected by Sheldon-Hall syndrome ?
+A: The prevalence of Sheldon-Hall syndrome is unknown; however, it is thought to be the most common type of distal arthrogryposis. About 100 affected individuals have been described in the medical literature.
+
+---
+
+Q: What are the genetic changes related to Sheldon-Hall syndrome ?
+A: Sheldon-Hall syndrome can be caused by mutations in the MYH3, TNNI2, TNNT3, or TPM2 gene. These genes provide instructions for making proteins that are involved in muscle tensing (contraction).  Muscle contraction occurs when thick filaments made of proteins called myosins slide past thin filaments made of proteins called actins. The MYH3 gene provides instructions for making a myosin protein that is normally active only before birth and is important for early development of the muscles.  The process of muscle contraction is controlled (regulated) by other proteins called troponins and tropomyosins, which affect the interaction of myosin and actin. Certain troponin proteins are produced from the TNNI2 and TNNT3 genes. The TPM2 gene provides instructions for making a tropomyosin protein.  Mutations in the MYH3, TNNI2, TNNT3, or TPM2 gene likely interfere with normal muscle development or prevent muscle contractions from being properly controlled, resulting in the contractures and other muscle and skeletal abnormalities associated with Sheldon-Hall syndrome. It is unknown why the contractures mainly affect the hands and feet or how these gene mutations are related to other features of this disorder.
+
+---
+
+Q: Is Sheldon-Hall syndrome inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In about 50 percent of cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for Sheldon-Hall syndrome ?
+A: These resources address the diagnosis or management of Sheldon-Hall syndrome:  - Gillette Children's Hospital  - NYU Langone Medical Center   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

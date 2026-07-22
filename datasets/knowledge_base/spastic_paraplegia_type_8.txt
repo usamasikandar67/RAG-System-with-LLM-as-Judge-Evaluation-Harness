@@ -1,0 +1,24 @@
+Topic: spastic paraplegia type 8
+
+Q: What is (are) spastic paraplegia type 8 ?
+A: Spastic paraplegia type 8 is part of a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by progressive muscle stiffness (spasticity) and the development of paralysis of the lower limbs (paraplegia). Hereditary spastic paraplegias are divided into two types: pure and complex. The pure types involve only the nerves and muscles controlling the lower limbs and bladder, whereas the complex types also have significant involvement of the nervous system in other parts of the body. Spastic paraplegia type 8 is a pure hereditary spastic paraplegia.  Like all hereditary spastic paraplegias, spastic paraplegia type 8 involves spasticity of the leg muscles and muscle weakness. People with this condition can also experience exaggerated reflexes (hyperreflexia), a decreased ability to feel vibrations, muscle wasting (amyotrophy), and reduced bladder control. The signs and symptoms of spastic paraplegia type 8 usually appear in early to mid-adulthood. As the muscle weakness and spasticity get worse, some people may need the aid of a cane, walker, or wheelchair.
+
+---
+
+Q: How many people are affected by spastic paraplegia type 8 ?
+A: The prevalence of all hereditary spastic paraplegias combined is estimated to be 1 to 18 in 100,000 people worldwide. Spastic paraplegia type 8 likely accounts for only a small percentage of all spastic paraplegia cases.
+
+---
+
+Q: What are the genetic changes related to spastic paraplegia type 8 ?
+A: Mutations in the KIAA0196 gene cause spastic paraplegia type 8. The KIAA0196 gene provides instructions for making a protein called strumpellin. Strumpellin is active (expressed) throughout the body, although its exact function is unknown. The protein's structure suggests that strumpellin may interact with the structural framework inside cells (the cytoskeleton) and may attach (bind) to other proteins.  KIAA0196 gene mutations are thought to change the structure of the strumpellin protein. It is unknown how the altered strumpellin protein causes the signs and symptoms of spastic paraplegia type 8.
+
+---
+
+Q: Is spastic paraplegia type 8 inherited ?
+A: Spastic paraplegia type 8 is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for spastic paraplegia type 8 ?
+A: These resources address the diagnosis or management of spastic paraplegia type 8:  - Gene Review: Gene Review: Spastic Paraplegia 8  - Genetic Testing Registry: Spastic paraplegia 8  - Spastic Paraplegia Foundation, Inc.: Treatments and Therapies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,24 @@
+Topic: histidinemia
+
+Q: What is (are) histidinemia ?
+A: Histidinemia is an inherited condition characterized by elevated blood levels of the amino acid histidine, a building block of most proteins. Histidinemia is caused by the shortage (deficiency) of the enzyme that breaks down histidine. Histidinemia typically causes no health problems, and most people with elevated histidine levels are unaware that they have this condition.  The combination of histidinemia and a medical complication during or soon after birth (such as a temporary lack of oxygen) might increase a person's chances of developing intellectual disability, behavioral problems, or learning disorders.
+
+---
+
+Q: How many people are affected by histidinemia ?
+A: Estimates of the incidence of histidinemia vary widely, ranging between 1 in 8,600 to 1 in 90,000 people.
+
+---
+
+Q: What are the genetic changes related to histidinemia ?
+A: Histidinemia is caused by mutations in the HAL gene, which provides instructions for making an enzyme called histidase. Histidase breaks down histidine to a molecule called urocanic acid. Histidase is active (expressed) primarily in the liver and the skin.  HAL gene mutations lead to the production of a histidase enzyme that cannot break down histidine, which results in elevated levels of histidine in the blood and urine. These increased levels of histidine do not appear to have any negative effects on the body.
+
+---
+
+Q: Is histidinemia inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for histidinemia ?
+A: These resources address the diagnosis or management of histidinemia:  - Genetic Testing Registry: Histidinemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,19 @@
+Topic: Behr syndrome
+
+Q: What is (are) Behr syndrome ?
+A: Behr syndrome is a disorder mainly characterized by early-onset optic atrophy, ataxia, and spasticity. Other signs and symptoms may be present and vary from person to person.  Although the exact cause is unknown, the syndrome is believed to be genetic and inherited in an autosomal recessive fashion, in most cases. Autosomal dominant inheritance has been reported in one family. Treatment depends on the specific signs and symptoms seen in the patient.
+
+---
+
+Q: What are the symptoms of Behr syndrome ?
+A: What are the signs and symptoms of Behr syndrome? People with Behr syndrome typically have visual disturbances (e.g. optic atrophy, nystagmus), ataxia, and spasticity. Other signs and symptoms that may be present in patients with Behr syndrome include intellectual disability, loss of bladder control, and variable pyramidal tract dysfunction (e.g., increased tone in certain muscles, paralysis of voluntary movements, Babinski sign, increased deep tendon reflexes), peripheral neuropathy, dementia, and muscle contractures. The Human Phenotype Ontology provides the following list of signs and symptoms for Behr syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of color vision 90% Cognitive impairment 90% Hypertonia 90% Incoordination 90% Nystagmus 90% Optic atrophy 90% Strabismus 90% Visual impairment 50% Achilles tendon contracture - Adductor longus contractures - Ataxia - Autosomal recessive inheritance - Babinski sign - Cerebellar atrophy - Gait disturbance - Hamstring contractures - Hyperreflexia - Intellectual disability - Progressive spasticity - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Behr syndrome ?
+A: What causes Behr syndrome? The exact cause of Behr syndrome is not known; however, a genetic cause is suspected based on the families identified, thus far.
+
+---
+
+Q: What are the treatments for Behr syndrome ?
+A: How might Behr syndrome be treated? Treatment is symptomatic. For instance, people who develop muscle contractures may have to undergo surgery.

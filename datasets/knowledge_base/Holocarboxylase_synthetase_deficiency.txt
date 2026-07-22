@@ -1,0 +1,24 @@
+Topic: holocarboxylase synthetase deficiency
+
+Q: What is (are) holocarboxylase synthetase deficiency ?
+A: Holocarboxylase synthetase deficiency is an inherited disorder in which the body is unable to use the vitamin biotin effectively. This disorder is classified as a multiple carboxylase deficiency, a group of disorders characterized by impaired activity of certain enzymes that depend on biotin.  The signs and symptoms of holocarboxylase synthetase deficiency typically appear within the first few months of life, but the age of onset varies. Affected infants often have difficulty feeding, breathing problems, a skin rash, hair loss (alopecia), and a lack of energy (lethargy). Immediate treatment and lifelong management with biotin supplements may prevent many of these complications. If left untreated, the disorder can lead to delayed development, seizures, and coma. These medical problems may be life-threatening in some cases.
+
+---
+
+Q: How many people are affected by holocarboxylase synthetase deficiency ?
+A: The exact incidence of this condition is unknown, but it is estimated to affect 1 in 87,000 people.
+
+---
+
+Q: What are the genetic changes related to holocarboxylase synthetase deficiency ?
+A: Mutations in the HLCS gene cause holocarboxylase synthetase deficiency.  The HLCS gene provides instructions for making an enzyme called holocarboxylase synthetase. This enzyme is important for the effective use of biotin, a B vitamin found in foods such as liver, egg yolks, and milk. Holocarboxylase synthetase attaches biotin to certain enzymes that are essential for the normal production and breakdown of proteins, fats, and carbohydrates in the body. Mutations in the HLCS gene reduce the enzyme's ability to attach biotin to these enzymes, preventing them from processing nutrients properly and disrupting many cellular functions. These defects lead to the serious medical problems associated with holocarboxylase synthetase deficiency.
+
+---
+
+Q: Is holocarboxylase synthetase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for holocarboxylase synthetase deficiency ?
+A: These resources address the diagnosis or management of holocarboxylase synthetase deficiency:  - Baby's First Test  - Genetic Testing Registry: Holocarboxylase synthetase deficiency  - MedlinePlus Encyclopedia: Pantothenic Acid and Biotin   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

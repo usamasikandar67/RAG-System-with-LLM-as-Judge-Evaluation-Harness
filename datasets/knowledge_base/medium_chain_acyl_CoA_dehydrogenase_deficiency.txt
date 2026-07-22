@@ -1,0 +1,24 @@
+Topic: medium-chain acyl-CoA dehydrogenase deficiency
+
+Q: What is (are) medium-chain acyl-CoA dehydrogenase deficiency ?
+A: Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency is a condition that prevents the body from converting certain fats to energy, particularly during periods without food (fasting).  Signs and symptoms of MCAD deficiency typically appear during infancy or early childhood and can include vomiting, lack of energy (lethargy), and low blood sugar (hypoglycemia). In rare cases, symptoms of this disorder are not recognized early in life, and the condition is not diagnosed until adulthood. People with MCAD deficiency are at risk of serious complications such as seizures, breathing difficulties, liver problems, brain damage, coma, and sudden death.  Problems related to MCAD deficiency can be triggered by periods of fasting or by illnesses such as viral infections. This disorder is sometimes mistaken for Reye syndrome, a severe disorder that may develop in children while they appear to be recovering from viral infections such as chicken pox or flu. Most cases of Reye syndrome are associated with the use of aspirin during these viral infections.
+
+---
+
+Q: How many people are affected by medium-chain acyl-CoA dehydrogenase deficiency ?
+A: In the United States, the estimated incidence of MCAD deficiency is 1 in 17,000 people. The condition is more common in people of northern European ancestry than in other ethnic groups.
+
+---
+
+Q: What are the genetic changes related to medium-chain acyl-CoA dehydrogenase deficiency ?
+A: Mutations in the ACADM gene cause MCAD deficiency. This gene provides instructions for making an enzyme called medium-chain acyl-CoA dehydrogenase, which is required to break down (metabolize) a group of fats called medium-chain fatty acids. These fatty acids are found in foods and the body's fat tissues. Fatty acids are a major source of energy for the heart and muscles. During periods of fasting, fatty acids are also an important energy source for the liver and other tissues.  Mutations in the ACADM gene lead to a shortage (deficiency) of the MCAD enzyme within cells. Without sufficient amounts of this enzyme, medium-chain fatty acids are not metabolized properly. As a result, these fats are not converted to energy, which can lead to the characteristic signs and symptoms of this disorder such as lethargy and hypoglycemia. Medium-chain fatty acids or partially metabolized fatty acids may also build up in tissues and damage the liver and brain. This abnormal buildup causes the other signs and symptoms of MCAD deficiency.
+
+---
+
+Q: Is medium-chain acyl-CoA dehydrogenase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for medium-chain acyl-CoA dehydrogenase deficiency ?
+A: These resources address the diagnosis or management of MCAD deficiency:  - Baby's First Test  - Gene Review: Gene Review: Medium-Chain Acyl-Coenzyme A Dehydrogenase Deficiency  - Genetic Testing Registry: Medium-chain acyl-coenzyme A dehydrogenase deficiency  - MedlinePlus Encyclopedia: Newborn Screening Tests   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

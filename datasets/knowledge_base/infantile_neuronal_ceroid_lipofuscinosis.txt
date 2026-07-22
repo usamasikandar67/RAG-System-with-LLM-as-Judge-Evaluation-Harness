@@ -1,0 +1,24 @@
+Topic: infantile neuronal ceroid lipofuscinosis
+
+Q: What is (are) infantile neuronal ceroid lipofuscinosis ?
+A: Infantile neuronal ceroid lipofuscinosis (NCL) is an inherited disorder that primarily affects the nervous system. Beginning in infancy, children with this condition have intellectual and motor disability, rarely developing the ability to speak or walk. Affected children often have muscle twitches (myoclonus), recurrent seizures (epilepsy), or vision impairment. An unusually small head (microcephaly) and progressive loss of nerve cells in the brain are also characteristic features of this disorder. Children with infantile NCL usually do not survive past childhood.  Infantile NCL is one of a group of NCLs (collectively called Batten disease) that affect the nervous system and typically cause progressive problems with vision, movement, and thinking ability. The different types of NCLs are distinguished by the age at which signs and symptoms first appear.
+
+---
+
+Q: How many people are affected by infantile neuronal ceroid lipofuscinosis ?
+A: The incidence of infantile NCL is unknown. Collectively, all forms of NCL affect an estimated 1 in 100,000 individuals worldwide. NCLs are more common in Finland, where approximately 1 in 12,500 individuals are affected.
+
+---
+
+Q: What are the genetic changes related to infantile neuronal ceroid lipofuscinosis ?
+A: Mutations in the PPT1 gene cause most cases of infantile NCL. The PPT1 gene provides instructions for making an enzyme called palmitoyl-protein thioesterase 1. This enzyme is active in cell compartments called lysosomes, which digest and recycle different types of molecules. Palmitoyl-protein thioesterase 1 removes certain fats called long-chain fatty acids from proteins, which probably helps break down the proteins. Palmitoyl-protein thioesterase 1 is also thought to be involved in a variety of other cell functions.  PPT1 gene mutations that cause infantile NCL decrease the production or function of palmitoyl-protein thioesterase 1. A shortage of functional enzyme impairs the removal of fatty acids from proteins. In the lysosomes, these fats and proteins accumulate as fatty substances called lipopigments. These accumulations occur in cells throughout the body, but nerve cells in the brain seem to be particularly vulnerable to the damage caused by buildup of lipopigments and the loss of enzyme function. The progressive death of cells, especially in the brain, leads to the signs and symptoms of infantile NCL.
+
+---
+
+Q: Is infantile neuronal ceroid lipofuscinosis inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for infantile neuronal ceroid lipofuscinosis ?
+A: These resources address the diagnosis or management of infantile neuronal ceroid lipofuscinosis:  - Genetic Testing Registry: Ceroid lipofuscinosis neuronal 1  - Genetic Testing Registry: Infantile neuronal ceroid lipofuscinosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,24 @@
+Topic: myostatin-related muscle hypertrophy
+
+Q: What is (are) myostatin-related muscle hypertrophy ?
+A: Myostatin-related muscle hypertrophy is a rare condition characterized by reduced body fat and increased muscle size. Affected individuals have up to twice the usual amount of muscle mass in their bodies. They also tend to have increased muscle strength. Myostatin-related muscle hypertrophy is not known to cause any medical problems, and affected individuals are intellectually normal.
+
+---
+
+Q: How many people are affected by myostatin-related muscle hypertrophy ?
+A: The prevalence of this condition is unknown.
+
+---
+
+Q: What are the genetic changes related to myostatin-related muscle hypertrophy ?
+A: Mutations in the MSTN gene cause myostatin-related muscle hypertrophy. The MSTN gene provides instructions for making a protein called myostatin, which is active in muscles used for movement (skeletal muscles) both before and after birth. This protein normally restrains muscle growth, ensuring that muscles do not grow too large. Mutations that reduce the production of functional myostatin lead to an overgrowth of muscle tissue.
+
+---
+
+Q: Is myostatin-related muscle hypertrophy inherited ?
+A: Myostatin-related muscle hypertrophy has a pattern of inheritance known as incomplete autosomal dominance. People with a mutation in both copies of the MSTN gene in each cell (homozygotes) have significantly increased muscle mass and strength. People with a mutation in one copy of the MSTN gene in each cell (heterozygotes) also have increased muscle bulk, but to a lesser degree.
+
+---
+
+Q: What are the treatments for myostatin-related muscle hypertrophy ?
+A: These resources address the diagnosis or management of myostatin-related muscle hypertrophy:  - Gene Review: Gene Review: Myostatin-Related Muscle Hypertrophy  - Genetic Testing Registry: Myostatin-related muscle hypertrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

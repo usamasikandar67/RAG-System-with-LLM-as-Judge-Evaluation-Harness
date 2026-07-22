@@ -1,0 +1,24 @@
+Topic: von Hippel-Lindau syndrome
+
+Q: What is (are) von Hippel-Lindau syndrome ?
+A: Von Hippel-Lindau syndrome is an inherited disorder characterized by the formation of tumors and fluid-filled sacs (cysts) in many different parts of the body. Tumors may be either noncancerous or cancerous and most frequently appear during young adulthood; however, the signs and symptoms of von Hippel-Lindau syndrome can occur throughout life.  Tumors called hemangioblastomas are characteristic of von Hippel-Lindau syndrome. These growths are made of newly formed blood vessels. Although they are typically noncancerous, they can cause serious or life-threatening complications. Hemangioblastomas that develop in the brain and spinal cord can cause headaches, vomiting, weakness, and a loss of muscle coordination (ataxia). Hemangioblastomas can also occur in the light-sensitive tissue that lines the back of the eye (the retina). These tumors, which are also called retinal angiomas, may cause vision loss.  People with von Hippel-Lindau syndrome commonly develop cysts in the kidneys, pancreas, and genital tract. They are also at an increased risk of developing a type of kidney cancer called clear cell renal cell carcinoma and a type of pancreatic cancer called a pancreatic neuroendocrine tumor.  Von Hippel-Lindau syndrome is associated with a type of tumor called a pheochromocytoma, which most commonly occurs in the adrenal glands (small hormone-producing glands located on top of each kidney). Pheochromocytomas are usually noncancerous. They may cause no symptoms, but in some cases they are associated with headaches, panic attacks, excess sweating, or dangerously high blood pressure that may not respond to medication. Pheochromocytomas are particularly dangerous if they develop during pregnancy.  About 10 percent of people with von Hippel-Lindau syndrome develop endolymphatic sac tumors, which are noncancerous tumors in the inner ear. These growths can cause hearing loss in one or both ears, as well as ringing in the ears (tinnitus) and problems with balance. Without treatment, these tumors can cause sudden profound deafness.
+
+---
+
+Q: How many people are affected by von Hippel-Lindau syndrome ?
+A: The incidence of von Hippel-Lindau syndrome is estimated to be 1 in 36,000 individuals.
+
+---
+
+Q: What are the genetic changes related to von Hippel-Lindau syndrome ?
+A: Mutations in the VHL gene cause von Hippel-Lindau syndrome. The VHL gene is a tumor suppressor gene, which means it keeps cells from growing and dividing too rapidly or in an uncontrolled way. Mutations in this gene prevent production of the VHL protein or lead to the production of an abnormal version of the protein. An altered or missing VHL protein cannot effectively regulate cell survival and division. As a result, cells grow and divide uncontrollably to form the tumors and cysts that are characteristic of von Hippel-Lindau syndrome.
+
+---
+
+Q: Is von Hippel-Lindau syndrome inherited ?
+A: Mutations in the VHL gene are inherited in an autosomal dominant pattern, which means that one copy of the altered gene in each cell is sufficient to increase the risk of developing tumors and cysts. Most people with von Hippel-Lindau syndrome inherit an altered copy of the gene from an affected parent. In about 20 percent of cases, however, the altered gene is the result of a new mutation that occurred during the formation of reproductive cells (eggs or sperm) or very early in development.  Unlike most autosomal dominant conditions, in which one altered copy of a gene in each cell is sufficient to cause the disorder, two copies of the VHL gene must be altered to trigger tumor and cyst formation in von Hippel-Lindau syndrome. A mutation in the second copy of the VHL gene occurs during a person's lifetime in certain cells within organs such as the brain, retina, and kidneys. Cells with two altered copies of this gene make no functional VHL protein, which allows tumors and cysts to develop. Almost everyone who inherits one VHL mutation will eventually acquire a mutation in the second copy of the gene in some cells, leading to the features of von Hippel-Lindau syndrome.
+
+---
+
+Q: What are the treatments for von Hippel-Lindau syndrome ?
+A: These resources address the diagnosis or management of von Hippel-Lindau syndrome:  - Brigham and Women's Hospital  - Gene Review: Gene Review: Von Hippel-Lindau Syndrome  - Genetic Testing Registry: Von Hippel-Lindau syndrome  - Genomics Education Programme (UK)  - MD Anderson Cancer Center  - MedlinePlus Encyclopedia: Pheochromocytoma  - MedlinePlus Encyclopedia: Renal Cell Carcinoma  - National Cancer Institute: Genetic Testing for Hereditary Cancer Syndromes   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

@@ -1,0 +1,24 @@
+Topic: thanatophoric dysplasia
+
+Q: What is (are) thanatophoric dysplasia ?
+A: Thanatophoric dysplasia is a severe skeletal disorder characterized by extremely short limbs and folds of extra (redundant) skin on the arms and legs. Other features of this condition include a narrow chest, short ribs, underdeveloped lungs, and an enlarged head with a large forehead and prominent, wide-spaced eyes.  Researchers have described two major forms of thanatophoric dysplasia, type I and type II. Type I thanatophoric dysplasia is distinguished by the presence of curved thigh bones and flattened bones of the spine (platyspondyly). Type II thanatophoric dysplasia is characterized by straight thigh bones and a moderate to severe skull abnormality called a cloverleaf skull.  The term thanatophoric is Greek for "death bearing." Infants with thanatophoric dysplasia are usually stillborn or die shortly after birth from respiratory failure; however, a few affected individuals have survived into childhood with extensive medical help.
+
+---
+
+Q: How many people are affected by thanatophoric dysplasia ?
+A: This condition occurs in 1 in 20,000 to 50,000 newborns. Type I thanatophoric dysplasia is more common than type II.
+
+---
+
+Q: What are the genetic changes related to thanatophoric dysplasia ?
+A: Mutations in the FGFR3 gene cause thanatophoric dysplasia. Both types of this condition result from mutations in the FGFR3 gene. This gene provides instructions for making a protein that is involved in the development and maintenance of bone and brain tissue. Mutations in this gene cause the FGFR3 protein to be overly active, which leads to the severe disturbances in bone growth that are characteristic of thanatophoric dysplasia. It is not known how FGFR3 mutations cause the brain and skin abnormalities associated with this disorder.
+
+---
+
+Q: Is thanatophoric dysplasia inherited ?
+A: Thanatophoric dysplasia is considered an autosomal dominant disorder because one mutated copy of the FGFR3 gene in each cell is sufficient to cause the condition. Virtually all cases of thanatophoric dysplasia are caused by new mutations in the FGFR3 gene and occur in people with no history of the disorder in their family. No affected individuals are known to have had children; therefore, the disorder has not been passed to the next generation.
+
+---
+
+Q: What are the treatments for thanatophoric dysplasia ?
+A: These resources address the diagnosis or management of thanatophoric dysplasia:  - Gene Review: Gene Review: Thanatophoric Dysplasia  - Genetic Testing Registry: Thanatophoric dysplasia type 1  - Genetic Testing Registry: Thanatophoric dysplasia, type 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

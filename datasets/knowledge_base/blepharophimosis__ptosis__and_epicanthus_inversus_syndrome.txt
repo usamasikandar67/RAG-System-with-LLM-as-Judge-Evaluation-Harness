@@ -1,0 +1,24 @@
+Topic: blepharophimosis, ptosis, and epicanthus inversus syndrome
+
+Q: What is (are) blepharophimosis, ptosis, and epicanthus inversus syndrome ?
+A: Blepharophimosis, ptosis, and epicanthus inversus syndrome (BPES) is a condition that mainly affects development of the eyelids. People with this condition have a narrowing of the eye opening (blepharophimosis), droopy eyelids (ptosis), and an upward fold of the skin of the lower eyelid near the inner corner of the eye (epicanthus inversus). In addition, there is an increased distance between the inner corners of the eyes (telecanthus). Because of these eyelid abnormalities, the eyelids cannot open fully, and vision may be limited.  Other structures in the eyes and face may be mildly affected by BPES. Affected individuals are at an increased risk of developing vision problems such as nearsightedness (myopia) or farsightedness (hyperopia) beginning in childhood. They may also have eyes that do not point in the same direction (strabismus) or "lazy eye" (amblyopia) affecting one or both eyes. People with BPES may also have distinctive facial features including a broad nasal bridge, low-set ears, or a shortened distance between the nose and upper lip (a short philtrum).  There are two types of BPES, which are distinguished by their signs and symptoms. Both types I and II include the eyelid malformations and other facial features. Type I is also associated with an early loss of ovarian function (primary ovarian insufficiency) in women, which causes their menstrual periods to become less frequent and eventually stop before age 40. Primary ovarian insufficiency can lead to difficulty conceiving a child (subfertility) or a complete inability to conceive (infertility).
+
+---
+
+Q: How many people are affected by blepharophimosis, ptosis, and epicanthus inversus syndrome ?
+A: The prevalence of BPES is unknown.
+
+---
+
+Q: What are the genetic changes related to blepharophimosis, ptosis, and epicanthus inversus syndrome ?
+A: Mutations in the FOXL2 gene cause BPES types I and II. The FOXL2 gene provides instructions for making a protein that is active in the eyelids and ovaries. The FOXL2 protein is likely involved in the development of muscles in the eyelids. Before birth and in adulthood, the protein regulates the growth and development of certain ovarian cells and the breakdown of specific molecules.  It is difficult to predict the type of BPES that will result from the many FOXL2 gene mutations. However, mutations that result in a partial loss of FOXL2 protein function generally cause BPES type II. These mutations probably impair regulation of normal development of muscles in the eyelids, resulting in malformed eyelids that cannot open fully. Mutations that lead to a complete loss of FOXL2 protein function often cause BPES type I. These mutations impair the regulation of eyelid development as well as various activities in the ovaries, resulting in eyelid malformation and abnormally accelerated maturation of certain ovarian cells and the premature death of egg cells.
+
+---
+
+Q: Is blepharophimosis, ptosis, and epicanthus inversus syndrome inherited ?
+A: This condition is typically inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.
+
+---
+
+Q: What are the treatments for blepharophimosis, ptosis, and epicanthus inversus syndrome ?
+A: These resources address the diagnosis or management of BPES:  - Gene Review: Gene Review: Blepharophimosis, Ptosis, and Epicanthus Inversus  - Genetic Testing Registry: Blepharophimosis, ptosis, and epicanthus inversus  - MedlinePlus Encyclopedia: Ptosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

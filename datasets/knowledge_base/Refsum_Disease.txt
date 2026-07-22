@@ -1,0 +1,24 @@
+Topic: Refsum disease
+
+Q: What is (are) Refsum disease ?
+A: Refsum disease is an inherited condition that causes vision loss, absence of the sense of smell (anosmia), and a variety of other signs and symptoms.  The vision loss associated with Refsum disease is caused by an eye disorder called retinitis pigmentosa. This disorder affects the retina, the light-sensitive layer at the back of the eye. Vision loss occurs as the light-sensing cells of the retina gradually deteriorate. The first sign of retinitis pigmentosa is usually a loss of night vision, which often becomes apparent in childhood. Over a period of years, the disease disrupts side (peripheral) vision and may eventually lead to blindness.  Vision loss and anosmia are seen in almost everyone with Refsum disease, but other signs and symptoms vary. About one-third of affected individuals are born with bone abnormalities of the hands and feet. Features that appear later in life can include progressive muscle weakness and wasting; poor balance and coordination (ataxia); hearing loss; and dry, scaly skin (ichthyosis). Additionally, some people with Refsum disease develop an abnormal heart rhythm (arrhythmia) and related heart problems that can be life-threatening.
+
+---
+
+Q: How many people are affected by Refsum disease ?
+A: The prevalence of Refsum disease is unknown, although the condition is thought to be uncommon.
+
+---
+
+Q: What are the genetic changes related to Refsum disease ?
+A: More than 90 percent of all cases of Refsum disease result from mutations in the PHYH gene. The remaining cases are caused by mutations in a gene called PEX7.  The signs and symptoms of Refsum disease result from the abnormal buildup of a type of fatty acid called phytanic acid. This substance is obtained from the diet, particularly from beef and dairy products. It is normally broken down through a process called alpha-oxidation, which occurs in cell structures called peroxisomes. These sac-like compartments contain enzymes that process many different substances, such as fatty acids and certain toxic compounds.  Mutations in either the PHYH or PEX7 gene disrupt the usual functions of peroxisomes, including the breakdown of phytanic acid. As a result, this substance builds up in the body's tissues. The accumulation of phytanic acid is toxic to cells, although it is unclear how an excess of this substance affects vision and smell and causes the other specific features of Refsum disease.
+
+---
+
+Q: Is Refsum disease inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for Refsum disease ?
+A: These resources address the diagnosis or management of Refsum disease:  - Gene Review: Gene Review: Refsum Disease  - Gene Review: Gene Review: Retinitis Pigmentosa Overview  - Genetic Testing Registry: Phytanic acid storage disease  - MedlinePlus Encyclopedia: Retinitis Pigmentosa   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

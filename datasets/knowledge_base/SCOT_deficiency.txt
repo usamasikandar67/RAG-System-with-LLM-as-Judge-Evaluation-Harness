@@ -1,0 +1,19 @@
+Topic: SCOT deficiency
+
+Q: What is (are) SCOT deficiency ?
+A: SCOT deficiency is a metabolic disease that is caused by reduced or missing levels of 3-ketoacid CoA transferase. This enzyme is necessary for the body to use ketones. Ketones are substances produced when fat cells break down and are an important source of energy, especially when there is a shortage of glucose. SCOT deficiency is characterized by intermittent ketoacidosis, with the first episode often occurring in newborns or infants (6 to 20 months). In ketoacidosis ketones build-up in the body. Symptoms of ketoacidosis may vary but can include trouble breathing, poor feeding, vomiting, lethargy, unconsciousness, and coma. Crises need to be addressed immediately. Fortunately these crises tend to respond well to IV fluids including glucose and sodium bicarbonate. Patients with SCOT defiency are symptom free between episodes. This deficiency can be caused by mutations in the OXCT1 gene.
+
+---
+
+Q: What are the symptoms of SCOT deficiency ?
+A: What are the signs and symptoms of SCOT deficiency? Symptoms of SCOT deficiency include ketoacidosis crises that are often brought on by physical stress, fasting, or illness. Between crises, patients have no symptoms. Normal growth and development are expected under proper treatment which prevents the occurrence of severe ketoacidotic attacks. The Human Phenotype Ontology provides the following list of signs and symptoms for SCOT deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Episodic ketoacidosis - Ketonuria - Tachypnea - Vomiting - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: How to diagnose SCOT deficiency ?
+A: How is SCOT deficiency diagnosed? Diagnosis of SCOT deficiency is made in people showing the signs and symptoms of the condition and who have absent or reduced SCOT enzyme activity.
+
+---
+
+Q: What are the treatments for SCOT deficiency ?
+A: How might carnitine palmitoyltransferase I deficiency be treated?  Treatment of hypoketotic hypoglycemic attacks due to carnitine palmitoyltransferase I deficiency often involves prompt treatment with intravenous 10% dextrose.

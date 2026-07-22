@@ -1,0 +1,49 @@
+Topic: Gilbert syndrome
+
+Q: What is (are) Gilbert syndrome ?
+A: Gilbert syndrome is a common, mild liver disorder in which the liver doesn't properly process bilirubin, a substance produced by the breakdown of red blood cells. Gilbert syndrome typically doesn't require treatment or pose serious complications. In fact, Gilbert syndrome is usually not considered a disease because of its benign nature. Many individuals find out they have the disorder by accident, when they have a blood test that shows elevated bilirubin levels. More males than females have been diagnosed with Gilbert syndrome. This condition is caused by mutations in the UGT1A1 gene and is inherited in an autosomal recessive pattern.
+
+---
+
+Q: What are the symptoms of Gilbert syndrome ?
+A: What are the signs and symptoms of Gilbert syndrome? While many people with Gilbert syndrome never experience any symptoms,  mild jaundice may occur if bilirubin levels get high enough. Other possible symptoms may include fatigue, weakness and abdominal pain.  Patients may have more side effects from certain drugs such as irinotecan. The Human Phenotype Ontology provides the following list of signs and symptoms for Gilbert syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the liver 90% Abdominal pain 50% Nausea and vomiting 50% Reduced bone mineral density 7.5% Autosomal recessive inheritance - Jaundice - Unconjugated hyperbilirubinemia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: Is Gilbert syndrome inherited ?
+A: How is Gilbert syndrome inherited? Gilbert syndrome is inherited in an autosomal recessive manner, which means both copies of the gene in each cell have mutations. The parents of a person with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: How to diagnose Gilbert syndrome ?
+A: Is genetic testing available for Gilbert syndrome? The Genetic Testing Registry provides information about the genetic tests for this condition. The intended audience for the GTR is health care providers and researchers. Patients and consumers with specific questions about a genetic test should contact a health care provider or a genetics professional. Genetics clinics are a source of information for individuals and families regarding genetic conditions, treatment, inheritance, and genetic risks to other family members. More information about genetic consultations is available from Genetics Home Reference at http://ghr.nlm.nih.gov/handbook/consult. To find a genetics clinic, we recommend that you contact your primary healthcare provider for a referral. The following online resources can help you find a genetics professional in your community:   The National Society for Genetic Counselors provides a searchable directory of US and international genetic counseling services. The American College of Medical Genetics has a searchable database of US genetics clinics. The University of Kansas Medical Center provides a list of US and international genetic centers, clinics, and departments. The American Society of Human Genetics maintains a database of its members, which includes individuals who live outside of the United States. Visit the link to obtain a list of the geneticists in your country, some of whom may be researchers that do not provide medical care.
+
+---
+
+Q: What are the treatments for Gilbert syndrome ?
+A: How might Gilbert syndrome be treated? Gilbert syndrome generally doesn't require treatment. The bilirubin levels in the blood may fluctuate over time, causing episodes of jaundice. However, the jaundice is usually mild and goes away on its own. In some cases, doctors may prescribe phenobarbital to lower extremely elevated bilirubin levels and reduce signs of jaundice. Phenobarbital administration usually alleviates signs of jaundice fairly quickly.
+
+---
+
+Q: What is (are) Gilbert syndrome ?
+A: Gilbert syndrome is a relatively mild condition characterized by periods of elevated levels of a toxic substance called bilirubin in the blood (hyperbilirubinemia). Bilirubin, which has an orange-yellow tint, is produced when red blood cells are broken down. This substance is removed from the body only after it undergoes a chemical reaction in the liver, which converts the toxic form of bilirubin (unconjugated bilirubin) to a nontoxic form called conjugated bilirubin. People with Gilbert syndrome have a buildup of unconjugated bilirubin in their blood (unconjugated hyperbilirubinemia). In affected individuals, bilirubin levels fluctuate and very rarely increase to levels that cause jaundice, which is yellowing of the skin and whites of the eyes.  Gilbert syndrome is usually recognized in adolescence. If people with this condition have episodes of hyperbilirubinemia, these episodes are generally mild and typically occur when the body is under stress, for instance because of dehydration, prolonged periods without food (fasting), illness, vigorous exercise, or menstruation. Some people with Gilbert syndrome also experience abdominal discomfort or tiredness. However, approximately 30 percent of people with Gilbert syndrome have no signs or symptoms of the condition and are discovered only when routine blood tests reveal elevated unconjugated bilirubin levels.
+
+---
+
+Q: How many people are affected by Gilbert syndrome ?
+A: Gilbert syndrome is a common condition that is estimated to affect 3 to 7 percent of Americans.
+
+---
+
+Q: What are the genetic changes related to Gilbert syndrome ?
+A: Changes in the UGT1A1 gene cause Gilbert syndrome. This gene provides instructions for making the bilirubin uridine diphosphate glucuronosyltransferase (bilirubin-UGT) enzyme, which is found primarily in liver cells and is necessary for the removal of bilirubin from the body.  The bilirubin-UGT enzyme performs a chemical reaction called glucuronidation. During this reaction, the enzyme transfers a compound called glucuronic acid to unconjugated bilirubin, converting it to conjugated bilirubin. Glucuronidation makes bilirubin dissolvable in water so that it can be removed from the body.  Gilbert syndrome occurs worldwide, but some mutations occur more often in particular populations. In many populations, the most common genetic change that causes Gilbert syndrome (known as UGT1A1*28) occurs in an area near the UGT1A1 gene called the promoter region, which controls the production of the bilirubin-UGT enzyme. This genetic change impairs enzyme production. However, this change is uncommon in Asian populations, and affected Asians often have a mutation that changes a single protein building block (amino acid) in the bilirubin-UGT enzyme. This type of mutation, known as a missense mutation, results in reduced enzyme function.  People with Gilbert syndrome have approximately 30 percent of normal bilirubin-UGT enzyme function. As a result, unconjugated bilirubin is not glucuronidated quickly enough. This toxic substance then builds up in the body, causing mild hyperbilirubinemia.  Not everyone with the genetic changes that cause Gilbert syndrome develops hyperbilirubinemia, indicating that additional factors, such as conditions that further hinder the glucuronidation process, may be necessary for development of the condition. For example, red blood cells may break down too easily, releasing excess amounts of bilirubin that the impaired enzyme cannot keep up with. Alternatively, movement of bilirubin into the liver, where it would be glucuronidated, may be impaired. These other factors may be due to changes in other genes.
+
+---
+
+Q: Is Gilbert syndrome inherited ?
+A: Gilbert syndrome can have different inheritance patterns. When the condition is caused by the UGT1A1*28 change in the promoter region of the UGT1A1 gene, it is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have the mutation. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  When the condition is caused by a missense mutation in the UGT1A1 gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. A more severe condition known as Crigler-Najjar syndrome occurs when both copies of the UGT1A1 gene have mutations.
+
+---
+
+Q: What are the treatments for Gilbert syndrome ?
+A: These resources address the diagnosis or management of Gilbert syndrome:  - Genetic Testing Registry: Gilbert's syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

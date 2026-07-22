@@ -1,0 +1,29 @@
+Topic: Legius syndrome
+
+Q: What are the symptoms of Legius syndrome ?
+A: What are the signs and symptoms of Legius syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Legius syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the sternum 5% Attention deficit hyperactivity disorder - Autosomal dominant inheritance - Axillary freckling - Cafe-au-lait spot - Epicanthus - High palate - Hypertelorism - Low posterior hairline - Low-set, posteriorly rotated ears - Macrocephaly - Multiple lipomas - Muscular hypotonia - Neurofibromas - Ptosis - Short neck - Specific learning disability - Triangular face - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What is (are) Legius syndrome ?
+A: Legius syndrome is a condition characterized by changes in skin coloring (pigmentation). Almost all affected individuals have multiple caf-au-lait spots, which are flat patches on the skin that are darker than the surrounding area. Another pigmentation change, freckles in the armpits and groin, may occur in some affected individuals.  Other signs and symptoms of Legius syndrome may include an abnormally large head (macrocephaly) and unusual facial characteristics. Although most people with Legius syndrome have normal intelligence, some affected individuals have been diagnosed with learning disabilities, attention deficit disorder (ADD), or attention deficit hyperactivity disorder (ADHD).  Many of the signs and symptoms of Legius syndrome also occur in a similar disorder called neurofibromatosis type 1. It can be difficult to tell the two disorders apart in early childhood. However, the features of the two disorders differ later in life.
+
+---
+
+Q: How many people are affected by Legius syndrome ?
+A: The prevalence of Legius syndrome is unknown. Many individuals with this disorder are likely misdiagnosed because the signs and symptoms of Legius syndrome are similar to those of neurofibromatosis type 1.
+
+---
+
+Q: What are the genetic changes related to Legius syndrome ?
+A: Mutations in the SPRED1 gene cause Legius syndrome. The SPRED1 gene provides instructions for making the Spred-1 protein. This protein controls (regulates) an important cell signaling pathway that is involved in the growth and division of cells (proliferation), the process by which cells mature to carry out specific functions (differentiation), cell movement, and the self-destruction of cells (apoptosis). Mutations in the SPRED1 gene lead to a nonfunctional protein that can no longer regulate the pathway, resulting in overactive signaling. It is unclear how mutations in the SPRED1 gene cause the signs and symptoms of Legius syndrome.
+
+---
+
+Q: Is Legius syndrome inherited ?
+A: This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.
+
+---
+
+Q: What are the treatments for Legius syndrome ?
+A: These resources address the diagnosis or management of Legius syndrome:  - Children's Tumor Foundation: NF1 or Legius Syndrome--An Emerging Challenge of Clinical Diagnosis  - Gene Review: Gene Review: Legius Syndrome  - Genetic Testing Registry: Legius syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

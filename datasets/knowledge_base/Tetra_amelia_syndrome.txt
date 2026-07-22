@@ -1,0 +1,24 @@
+Topic: tetra-amelia syndrome
+
+Q: What is (are) tetra-amelia syndrome ?
+A: Tetra-amelia syndrome is a very rare disorder characterized by the absence of all four limbs. ("Tetra" is the Greek word for "four," and "amelia" refers to the failure of an arm or leg to develop before birth.) This syndrome can also cause severe malformations of other parts of the body, including the face and head, heart, nervous system, skeleton, and genitalia. The lungs are underdeveloped in many cases, which makes breathing difficult or impossible. Because children with tetra-amelia syndrome have such serious medical problems, most are stillborn or die shortly after birth.
+
+---
+
+Q: How many people are affected by tetra-amelia syndrome ?
+A: Tetra-amelia syndrome has been reported in only a few families worldwide.
+
+---
+
+Q: What are the genetic changes related to tetra-amelia syndrome ?
+A: Researchers have found a mutation in the WNT3 gene in people with tetra-amelia syndrome from one large family. This gene is part of a family of WNT genes that play critical roles in development before birth. The protein produced from the WNT3 gene is involved in the formation of the limbs and other body systems during embryonic development. Mutations in the WNT3 gene prevent cells from producing functional WNT3 protein, which disrupts normal limb formation and leads to the other serious birth defects associated with tetra-amelia syndrome.  In other affected families, the cause of tetra-amelia syndrome has not been determined. Researchers believe that unidentified mutations in WNT3 or other genes involved in limb development are probably responsible for the disorder in these cases.
+
+---
+
+Q: Is tetra-amelia syndrome inherited ?
+A: In most of the families reported so far, tetra-amelia syndrome appears to have an autosomal recessive pattern of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with tetra-amelia syndrome each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for tetra-amelia syndrome ?
+A: These resources address the diagnosis or management of tetra-amelia syndrome:  - Gene Review: Gene Review: Tetra-Amelia Syndrome  - Genetic Testing Registry: Tetraamelia, autosomal recessive   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

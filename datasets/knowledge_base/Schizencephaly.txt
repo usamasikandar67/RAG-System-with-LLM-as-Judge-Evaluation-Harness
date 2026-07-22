@@ -1,0 +1,49 @@
+Topic: Schizencephaly
+
+Q: What is (are) Schizencephaly ?
+A: Schizencephaly is a rare congenital (present from birth) brain malformation in which abnormal slits or clefts form in the cerebral hemispheres of the brain. The signs and symptoms of this condition may include developmental delay, seizures, and problems with brain-spinal cord communication. Affected people may also have an abnormally small head (microcephaly); hydrocephalus; intellectual disability; partial or complete paralysis; and/or poor muscle tone (hypotonia). Severity of symptoms depends on many factors including the extent of the clefting and whether or not other brain abnormalities are present. Although the exact cause of schizencephaly is unknown, it has been linked to a variety of genetic and non-genetic factors. Treatment generally consists of physical therapy and drugs to prevent seizures. In cases that are complicated by hydrocephalus, a surgically implanted tube, called a shunt, is often used to divert fluid to another area of the body where it can be absorbed.
+
+---
+
+Q: What are the symptoms of Schizencephaly ?
+A: What are the signs and symptoms of Schizencephaly? Signs and symptoms of schizencephaly may include: Developmental delay Seizures Abnormally small head (microcephaly) Intellectual disability Partial or complete paralysis Poor muscle tone (hypotonia) Hydrocephalus Severity of symptoms depends on many factors, including the extent of the clefting and whether or not other brain abnormalities are present. For example, people with a small cleft in one hemisphere may have paralysis on one side of the body and little to no intellectual disability, while clefts in both hemispheres can lead to quadriplegia (paralysis of both arms and legs) and severe intellectual disability. The Human Phenotype Ontology provides the following list of signs and symptoms for Schizencephaly. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aplasia/Hypoplasia of the corpus callosum 90% EEG abnormality 90% Hypertonia 90% Porencephaly 90% Strabismus 90% Cognitive impairment 50% Hemiplegia/hemiparesis 50% Seizures 50% Schizencephaly - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+
+---
+
+Q: What causes Schizencephaly ?
+A: What causes schizencephaly? The exact cause of schizencephaly is unknown. A small number of people with schizencephaly are found to have changes (mutations) in one of four genes: EMX2, SIX3, SHH, and COL4A1. Rarely, schizencephaly can affect more than one family member. This supports a genetic cause in some cases. Schizencephaly has also been linked to a variety of non-genetic factors, including young maternal age and certain medications and infections that can cause vascular disruptions (disruption of blood flow or blood supply) in a developing baby.
+
+---
+
+Q: Is Schizencephaly inherited ?
+A: Is schizencephaly inherited? Schizencephaly is not thought to be inherited in most cases and it rarely affects more than one person in a family. A few cases of familial schizencephaly have been linked to changes (mutations) in the EMX2 gene.
+
+---
+
+Q: How to diagnose Schizencephaly ?
+A: Is genetic testing available for schizencephaly? In rare cases, people affected by schizencephaly are found to have changes (mutations) in one of four genes: EMX2, SIX3, SHH, and COL4A1. Genetic testing is available for these families. How is schizencephaly diagnosed? Schizencephaly is typically diagnosed by computed tomography (CT) and/or magnetic resonance imaging (MRI). A CT scan is an imaging method that uses x-rays to create pictures of cross-sections of the body, while an MRI scan uses powerful magnets and radio waves to create pictures of the brain and surrounding nerve tissues. Both of these imaging methods can be used to identify brain abnormalities such as the slits or clefts found in people with schizencephaly. In some cases, schizencephaly can also be diagnosed prenatally (before birth) on ultrasound after 20 weeks gestation. If clefting is seen on ultrasound, an MRI scan of the developing baby may be recommended to confirm the diagnosis.
+
+---
+
+Q: What are the treatments for Schizencephaly ?
+A: How might schizencephaly be treated? The best treatment options for people with schizencephaly depend on many factors, including the severity of the condition and the signs and symptoms present. For example, people with developmental delay (i.e. delayed motor milestones) or partial paralysis may be referred for physical therapy and/or occupational therapy. Medications are often prescribed to prevent seizures. In cases that are complicated by hydrocephalus, a surgically implanted tube, called a shunt, is often used to divert fluid to another area of the body where it can be absorbed.
+
+---
+
+Q: What is (are) Schizencephaly ?
+A: Schizencephaly is an extremely rare developmental birth defect characterized by abnormal slits, or clefts, in the cerebral hemispheres of the brain. Babies with clefts in both hemispheres (called bilateral clefts) commonly have developmental delays, delays in speech and language skills, and problems with brain-spinal cord communication. Individuals with clefts in only one hemisphere (called unilateral clefts) are often paralyzed on one side of the body, but may have average to near-average intelligence. Individuals with schizencephaly may also have an abnormally small head, cognitive delay and impairment, partial or complete paralysis, or poor muscle tone. Most will experience seizures. Some individuals may have an excessive accumulation of fluid in the brain called hydrocephalus.
+
+---
+
+Q: What are the treatments for Schizencephaly ?
+A: Treatment generally consists of physical therapy and drugs to prevent seizures. In cases that are complicated by hydrocephalus, a surgically implanted tube, called a shunt, is often used to divert fluid to another area of the body where it can be absorbed.
+
+---
+
+Q: What is the outlook for Schizencephaly ?
+A: The prognosis for individuals with schizencephaly varies depending on the size of the clefts and the extent of neurological disabilities.
+
+---
+
+Q: what research (or clinical trials) is being done for Schizencephaly ?
+A: The NINDS conducts and supports a wide range of studies that explore the mechanisms of normal brain development. The knowledge gained from these fundamental studies provides the foundation for understanding how to prevent or treat developmental brain defects such as schizencephaly.

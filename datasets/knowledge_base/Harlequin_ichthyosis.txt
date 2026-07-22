@@ -1,0 +1,24 @@
+Topic: harlequin ichthyosis
+
+Q: What is (are) harlequin ichthyosis ?
+A: Harlequin ichthyosis is a severe genetic disorder that mainly affects the skin. Infants with this condition are born with very hard, thick skin covering most of their bodies. The skin forms large, diamond-shaped plates that are separated by deep cracks (fissures). These skin abnormalities affect the shape of the eyelids, nose, mouth, and ears, and limit movement of the arms and legs. Restricted movement of the chest can lead to breathing difficulties and respiratory failure.  The skin normally forms a protective barrier between the body and its surrounding environment. The skin abnormalities associated with harlequin ichthyosis disrupt this barrier, making it more difficult for affected infants to control water loss, regulate their body temperature, and fight infections. Infants with harlequin ichthyosis often experience an excessive loss of fluids (dehydration) and develop life-threatening infections in the first few weeks of life. It used to be very rare for affected infants to survive the newborn period. However, with intensive medical support and improved treatment, people with this disorder now have a better chance of living into childhood and adolescence.
+
+---
+
+Q: How many people are affected by harlequin ichthyosis ?
+A: Harlequin ichthyosis is very rare; its exact incidence is unknown.
+
+---
+
+Q: What are the genetic changes related to harlequin ichthyosis ?
+A: Mutations in the ABCA12 gene cause harlequin ichthyosis. The ABCA12 gene provides instructions for making a protein that is essential for the normal development of skin cells. This protein plays a major role in the transport of fats (lipids) in the outermost layer of skin (the epidermis). Some mutations in the ABCA12 gene prevent the cell from making any ABCA12 protein. Other mutations lead to the production of an abnormally small version of the protein that cannot transport lipids properly. A loss of functional ABCA12 protein disrupts the normal development of the epidermis, resulting in the hard, thick scales characteristic of harlequin ichthyosis.
+
+---
+
+Q: Is harlequin ichthyosis inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for harlequin ichthyosis ?
+A: These resources address the diagnosis or management of harlequin ichthyosis:  - Gene Review: Gene Review: Autosomal Recessive Congenital Ichthyosis  - Genetic Testing Registry: Autosomal recessive congenital ichthyosis 4B   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

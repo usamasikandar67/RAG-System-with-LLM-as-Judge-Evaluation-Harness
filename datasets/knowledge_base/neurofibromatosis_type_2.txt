@@ -1,0 +1,24 @@
+Topic: neurofibromatosis type 2
+
+Q: What is (are) neurofibromatosis type 2 ?
+A: Neurofibromatosis type 2 is a disorder characterized by the growth of noncancerous tumors in the nervous system. The most common tumors associated with neurofibromatosis type 2 are called vestibular schwannomas or acoustic neuromas. These growths develop along the nerve that carries information from the inner ear to the brain (the auditory nerve). Tumors that occur on other nerves are also commonly found with this condition.  The signs and symptoms of neurofibromatosis type 2 usually appear during adolescence or in a person's early twenties, although they can begin at any age. The most frequent early symptoms of vestibular schwannomas are hearing loss, ringing in the ears (tinnitus), and problems with balance. In most cases, these tumors occur in both ears by age 30. If tumors develop elsewhere in the nervous system, signs and symptoms vary according to their location. Complications of tumor growth can include changes in vision, numbness or weakness in the arms or legs, and fluid buildup in the brain. Some people with neurofibromatosis type 2 also develop clouding of the lens (cataracts) in one or both eyes, often beginning in childhood.
+
+---
+
+Q: How many people are affected by neurofibromatosis type 2 ?
+A: Neurofibromatosis type 2 has an estimated incidence of 1 in 33,000 people worldwide.
+
+---
+
+Q: What are the genetic changes related to neurofibromatosis type 2 ?
+A: Mutations in the NF2 gene cause neurofibromatosis type 2. The NF2 gene provides instructions for making a protein called merlin (also known as schwannomin). This protein is produced in the nervous system, particularly in Schwann cells, which surround and insulate nerve cells (neurons) in the brain and spinal cord. Merlin acts as a tumor suppressor, which means that it keeps cells from growing and dividing too rapidly or in an uncontrolled way. Although its exact function is unknown, this protein is likely also involved in controlling cell movement, cell shape, and communication between cells. Mutations in the NF2 gene lead to the production of a nonfunctional version of the merlin protein that cannot regulate the growth and division of cells. Research suggests that the loss of merlin allows cells, especially Schwann cells, to multiply too frequently and form the tumors characteristic of neurofibromatosis type 2.
+
+---
+
+Q: Is neurofibromatosis type 2 inherited ?
+A: Neurofibromatosis type 2 is considered to have an autosomal dominant pattern of inheritance. People with this condition are born with one mutated copy of the NF2 gene in each cell. In about half of cases, the altered gene is inherited from an affected parent. The remaining cases result from new mutations in the NF2 gene and occur in people with no history of the disorder in their family.  Unlike most other autosomal dominant conditions, in which one altered copy of a gene in each cell is sufficient to cause the disorder, two copies of the NF2 gene must be altered to trigger tumor formation in neurofibromatosis type 2. A mutation in the second copy of the NF2 gene occurs in Schwann cells or other cells in the nervous system during a person's lifetime. Almost everyone who is born with one NF2 mutation acquires a second mutation (known as a somatic mutation) in these cells and develops the tumors characteristic of neurofibromatosis type 2.
+
+---
+
+Q: What are the treatments for neurofibromatosis type 2 ?
+A: These resources address the diagnosis or management of neurofibromatosis type 2:  - Boston Children's Hospital  - Gene Review: Gene Review: Neurofibromatosis 2  - Genetic Testing Registry: Neurofibromatosis, type 2  - MedlinePlus Encyclopedia: Acoustic Neuroma  - MedlinePlus Encyclopedia: Neurofibromatosis 2  - Neurofibromatosis Clinic, Massachusetts General Hospital   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

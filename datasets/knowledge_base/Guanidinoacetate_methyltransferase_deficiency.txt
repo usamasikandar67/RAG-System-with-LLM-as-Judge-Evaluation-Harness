@@ -1,0 +1,24 @@
+Topic: guanidinoacetate methyltransferase deficiency
+
+Q: What is (are) guanidinoacetate methyltransferase deficiency ?
+A: Guanidinoacetate methyltransferase deficiency is an inherited disorder that primarily affects the brain and muscles. Without early treatment, people with this disorder have neurological problems that are usually severe. These problems include intellectual disability, speech development limited to a few words, and recurrent seizures (epilepsy). Affected individuals may also exhibit autistic behaviors that affect communication and social interaction or self-injurious behaviors such as head-banging. Other features of this disorder can include involuntary movements (extrapyramidal dysfunction) such as tremors or facial tics.  People with guanidinoacetate methyltransferase deficiency may have weak muscle tone and delayed development of motor skills such as sitting or walking. In severe cases they may lose previously acquired skills such as the ability to support their head or to sit unsupported.
+
+---
+
+Q: How many people are affected by guanidinoacetate methyltransferase deficiency ?
+A: Guanidinoacetate methyltransferase deficiency is a very rare disorder. About 80 affected individuals have been described in the medical literature. Of these, approximately one-third are of Portuguese origin.
+
+---
+
+Q: What are the genetic changes related to guanidinoacetate methyltransferase deficiency ?
+A: Mutations in the GAMT gene cause guanidinoacetate methyltransferase deficiency. The GAMT gene provides instructions for making the enzyme guanidinoacetate methyltransferase. This enzyme participates in the two-step production (synthesis) of the compound creatine from the protein building blocks (amino acids) glycine, arginine, and methionine. Specifically, guanidinoacetate methyltransferase controls the second step of this process. In this step, creatine is produced from another compound called guanidinoacetate. Creatine is needed for the body to store and use energy properly.  GAMT gene mutations impair the ability of the guanidinoacetate methyltransferase enzyme to participate in creatine synthesis, resulting in a shortage of creatine. The effects of guanidinoacetate methyltransferase deficiency are most severe in organs and tissues that require large amounts of energy, especially the brain.
+
+---
+
+Q: Is guanidinoacetate methyltransferase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for guanidinoacetate methyltransferase deficiency ?
+A: These resources address the diagnosis or management of guanidinoacetate methyltransferase deficiency:  - Gene Review: Gene Review: Creatine Deficiency Syndromes  - Genetic Testing Registry: Deficiency of guanidinoacetate methyltransferase   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

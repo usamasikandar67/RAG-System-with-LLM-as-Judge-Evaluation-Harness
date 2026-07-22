@@ -1,0 +1,24 @@
+Topic: biotinidase deficiency
+
+Q: What is (are) biotinidase deficiency ?
+A: Biotinidase deficiency is an inherited disorder in which the body is unable to recycle the vitamin biotin. If this condition is not recognized and treated, its signs and symptoms typically appear within the first few months of life, although it can also become apparent later in childhood.  Profound biotinidase deficiency, the more severe form of the condition, can cause seizures, weak muscle tone (hypotonia), breathing problems, hearing and vision loss, problems with movement and balance (ataxia), skin rashes, hair loss (alopecia), and a fungal infection called candidiasis. Affected children also have delayed development. Lifelong treatment can prevent these complications from occurring or improve them if they have already developed.  Partial biotinidase deficiency is a milder form of this condition. Without treatment, affected children may experience hypotonia, skin rashes, and hair loss, but these problems may appear only during illness, infection, or other times of stress.
+
+---
+
+Q: How many people are affected by biotinidase deficiency ?
+A: Profound or partial biotinidase deficiency occurs in approximately 1 in 60,000 newborns
+
+---
+
+Q: What are the genetic changes related to biotinidase deficiency ?
+A: Mutations in the BTD gene cause biotinidase deficiency. The BTD gene provides instructions for making an enzyme called biotinidase. This enzyme recycles biotin, a B vitamin found in foods such as liver, egg yolks, and milk. Biotinidase removes biotin that is bound to proteins in food, leaving the vitamin in its free (unbound) state. Free biotin is needed by enzymes called biotin-dependent carboxylases to break down fats, proteins, and carbohydrates. Because several of these enzymes are impaired in biotinidase deficiency, the condition is considered a form of multiple carboxylase deficiency.  Mutations in the BTD gene reduce or eliminate the activity of biotinidase. Profound biotinidase deficiency results when the activity of biotinidase is reduced to less than 10 percent of normal. Partial biotinidase deficiency occurs when biotinidase activity is reduced to between 10 percent and 30 percent of normal. Without enough of this enzyme, biotin cannot be recycled. The resulting shortage of free biotin impairs the activity of biotin-dependent carboxylases, leading to a buildup of potentially toxic compounds in the body. If the condition is not treated promptly, this buildup damages various cells and tissues, causing the signs and symptoms described above.
+
+---
+
+Q: Is biotinidase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the BTD gene in each cell have mutations. The parents of an individual with biotinidase deficiency each carry one copy of the mutated gene, but they typically do not have any health problems associated with the condition.
+
+---
+
+Q: What are the treatments for biotinidase deficiency ?
+A: These resources address the diagnosis or management of biotinidase deficiency:  - Baby's First Test  - Gene Review: Gene Review: Biotinidase Deficiency  - Genetic Testing Registry: Biotinidase deficiency  - MedlinePlus Encyclopedia: Pantothenic Acid and Biotin   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

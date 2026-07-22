@@ -1,0 +1,24 @@
+Topic: juvenile Batten disease
+
+Q: What is (are) juvenile Batten disease ?
+A: Juvenile Batten disease is an inherited disorder that primarily affects the nervous system. After a few years of normal development, children with this condition develop progressive vision loss, intellectual and motor disability, speech difficulties, and seizures.  Vision impairment is often the first noticeable sign of juvenile Batten disease, beginning between the ages of 4 and 8 years. Vision loss tends to progress rapidly, eventually resulting in blindness.  After vision impairment has begun, children with juvenile Batten disease experience the loss of previously acquired skills (developmental regression), usually beginning with the ability to speak in complete sentences. Affected children also have difficulty learning new information. In addition to the intellectual decline, affected children lose motor skills such as the ability to walk or sit. They also develop movement abnormalities that include rigidity or stiffness, slow or diminished movements (hypokinesia), and stooped posture. Affected children may have recurrent seizures (epilepsy), heart problems, behavioral problems, difficulty sleeping, and problems with attention that begin in mid- to late childhood. Most people with juvenile Batten disease live into their twenties or thirties.  Juvenile Batten disease is one of a group of disorders known as neuronal ceroid lipofuscinoses (NCLs). These disorders all affect the nervous system and typically cause progressive problems with vision, movement, and thinking ability. The different types of NCLs are distinguished by the age at which signs and symptoms first appear. Some people refer to the entire group of NCLs as Batten disease, while others limit that designation to the juvenile form of the disorder.
+
+---
+
+Q: How many people are affected by juvenile Batten disease ?
+A: Juvenile Batten disease is the most common type of NCL, but its exact prevalence is unknown. Collectively, all forms of NCL affect an estimated 1 in 100,000 individuals worldwide. NCLs are more common in Finland, where approximately 1 in 12,500 individuals are affected.
+
+---
+
+Q: What are the genetic changes related to juvenile Batten disease ?
+A: Most cases of juvenile Batten disease are caused by mutations in the CLN3 gene. This gene provides instructions for making a protein whose function is unknown.  It is unclear how mutations in the CLN3 gene lead to the characteristic features of juvenile Batten disease. These mutations somehow disrupt the function of cellular structures called lysosomes. Lysosomes are compartments in the cell that normally digest and recycle different types of molecules. Lysosome malfunction leads to a buildup of fatty substances called lipopigments within these cell structures. These accumulations occur in cells throughout the body, but neurons in the brain seem to be particularly vulnerable to the damage caused by lipopigments. The progressive death of cells, especially in the brain, leads to vision loss, seizures, and intellectual decline in people with juvenile Batten disease.  A small percentage of cases of juvenile Batten disease are caused by mutations in other genes. Many of these genes are involved in lysosomal function, and when mutated, can cause this or other forms of NCL.
+
+---
+
+Q: Is juvenile Batten disease inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for juvenile Batten disease ?
+A: These resources address the diagnosis or management of juvenile Batten disease:  - Batten Disease Diagnostic and Clinical Research Center at the University of Rochester Medical Center  - Batten Disease Support and Research Association: Centers of Excellence  - Gene Review: Gene Review: Neuronal Ceroid-Lipofuscinoses  - Genetic Testing Registry: Juvenile neuronal ceroid lipofuscinosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care

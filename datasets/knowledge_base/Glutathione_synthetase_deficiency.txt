@@ -1,0 +1,24 @@
+Topic: glutathione synthetase deficiency
+
+Q: What is (are) glutathione synthetase deficiency ?
+A: Glutathione synthetase deficiency is a disorder that prevents the production of an important molecule called glutathione. Glutathione helps prevent damage to cells by neutralizing harmful molecules generated during energy production. Glutathione also plays a role in processing medications and cancer-causing compounds (carcinogens), and building DNA, proteins, and other important cellular components.  Glutathione synthetase deficiency can be classified into three types: mild, moderate, and severe. Mild glutathione synthetase deficiency usually results in the destruction of red blood cells (hemolytic anemia). In addition, affected individuals may release large amounts of a compound called 5-oxoproline in their urine (5-oxoprolinuria). This compound builds up when glutathione is not processed correctly in cells.  Individuals with moderate glutathione synthetase deficiency may experience symptoms beginning shortly after birth including hemolytic anemia, 5-oxoprolinuria, and elevated acidity in the blood and tissues (metabolic acidosis).  In addition to the features present in moderate glutathione synthetase deficiency, individuals affected by the severe form of this disorder may experience neurological symptoms. These problems may include seizures; a generalized slowing down of physical reactions, movements, and speech (psychomotor retardation); intellectual disability; and a loss of coordination (ataxia). Some people with severe glutathione synthetase deficiency also develop recurrent bacterial infections.
+
+---
+
+Q: How many people are affected by glutathione synthetase deficiency ?
+A: Glutathione synthetase deficiency is very rare. This disorder has been described in more than 70 people worldwide.
+
+---
+
+Q: What are the genetic changes related to glutathione synthetase deficiency ?
+A: Mutations in the GSS gene cause glutathione synthetase deficiency. The GSS gene provides instructions for making an enzyme called glutathione synthetase. This enzyme is involved in a process called the gamma-glutamyl cycle, which takes place in most of the body's cells. This cycle is necessary for producing a molecule called glutathione. Glutathione protects cells from damage caused by unstable oxygen-containing molecules, which are byproducts of energy production. Glutathione is called an antioxidant because of its role in protecting cells from the damaging effects of these unstable molecules. Mutations in the GSS gene prevent cells from making adequate levels of glutathione, leading to the signs and symptoms of glutathione synthetase deficiency.
+
+---
+
+Q: Is glutathione synthetase deficiency inherited ?
+A: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+
+---
+
+Q: What are the treatments for glutathione synthetase deficiency ?
+A: These resources address the diagnosis or management of glutathione synthetase deficiency:  - Baby's First Test  - Genetic Testing Registry: Glutathione synthetase deficiency of erythrocytes, hemolytic anemia due to  - Genetic Testing Registry: Gluthathione synthetase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care
